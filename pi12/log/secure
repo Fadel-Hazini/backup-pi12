@@ -1,0 +1,100 @@
+Nov 18 17:24:42 pi12 sshd[32452]: Accepted password for root from 192.168.0.1 port 34732 ssh2
+Nov 18 17:24:42 pi12 sshd[32452]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 18 17:28:13 pi12 sudo[32502]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/crontab -e
+Nov 18 17:28:13 pi12 sudo[32502]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 18 17:30:36 pi12 sshd[32456]: Received disconnect from 192.168.0.1 port 34732:11: disconnected by user
+Nov 18 17:30:36 pi12 sshd[32456]: Disconnected from user root 192.168.0.1 port 34732
+Nov 18 17:30:36 pi12 sshd[32452]: pam_unix(sshd:session): session closed for user root
+Nov 18 17:30:36 pi12 sudo[32502]: pam_unix(sudo:session): session closed for user root
+Nov 18 17:31:10 pi12 sshd[32544]: Accepted password for root from 192.168.0.1 port 34736 ssh2
+Nov 18 17:31:10 pi12 sshd[32544]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 18 17:31:14 pi12 sudo[32577]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/aide --check
+Nov 18 17:31:14 pi12 sudo[32577]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 18 17:31:36 pi12 sudo[32577]: pam_unix(sudo:session): session closed for user root
+Nov 18 20:24:52 pi12 sshd[32548]: Received disconnect from 192.168.0.1 port 34736:11: disconnected by user
+Nov 18 20:24:52 pi12 sshd[32548]: Disconnected from user root 192.168.0.1 port 34736
+Nov 18 20:24:52 pi12 sshd[32544]: pam_unix(sshd:session): session closed for user root
+Nov 21 14:05:18 pi12 sshd[60819]: Accepted password for root from 192.168.0.1 port 48190 ssh2
+Nov 21 14:05:18 pi12 sshd[60819]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 21 14:26:23 pi12 sudo[60966]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install mailx -y
+Nov 21 14:26:23 pi12 sudo[60966]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 21 14:26:29 pi12 sudo[60966]: pam_unix(sudo:session): session closed for user root
+Nov 21 14:49:26 pi12 sudo[61463]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/tail -f /var/log/maillog
+Nov 21 14:49:26 pi12 sudo[61463]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 21 14:51:11 pi12 sudo[61463]: pam_unix(sudo:session): session closed for user root
+Nov 21 14:54:47 pi12 sshd[60823]: Received disconnect from 192.168.0.1 port 48190:11: disconnected by user
+Nov 21 14:54:47 pi12 sshd[60823]: Disconnected from user root 192.168.0.1 port 48190
+Nov 21 14:54:47 pi12 sshd[60819]: pam_unix(sshd:session): session closed for user root
+Nov 21 23:56:19 pi12 sshd[65174]: Accepted password for root from 192.168.0.1 port 39144 ssh2
+Nov 21 23:56:19 pi12 sshd[65174]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 22 00:13:36 pi12 sshd[65178]: Received disconnect from 192.168.0.1 port 39144:11: disconnected by user
+Nov 22 00:13:36 pi12 sshd[65178]: Disconnected from user root 192.168.0.1 port 39144
+Nov 22 00:13:36 pi12 sshd[65174]: pam_unix(sshd:session): session closed for user root
+Nov 22 00:18:17 pi12 sshd[65803]: Accepted password for root from 192.168.0.1 port 51658 ssh2
+Nov 22 00:18:17 pi12 sshd[65803]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 22 00:23:48 pi12 sudo[65902]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install mailx -y
+Nov 22 00:23:48 pi12 sudo[65902]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:23:51 pi12 sudo[65902]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:29:29 pi12 sudo[65981]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install mutt -y
+Nov 22 00:29:29 pi12 sudo[65981]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:29:53 pi12 sudo[65981]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:30:55 pi12 sudo[68371]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install sendmail -y
+Nov 22 00:30:55 pi12 sudo[68371]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:31:00 pi12 groupadd[68385]: group added to /etc/group: name=saslauth, GID=76
+Nov 22 00:31:00 pi12 groupadd[68385]: group added to /etc/gshadow: name=saslauth
+Nov 22 00:31:00 pi12 groupadd[68385]: new group: name=saslauth, GID=76
+Nov 22 00:31:00 pi12 useradd[68392]: new user: name=saslauth, UID=994, GID=76, home=/run/saslauthd, shell=/sbin/nologin
+Nov 22 00:31:00 pi12 groupadd[68403]: group added to /etc/group: name=mailnull, GID=47
+Nov 22 00:31:00 pi12 groupadd[68403]: group added to /etc/gshadow: name=mailnull
+Nov 22 00:31:00 pi12 groupadd[68403]: new group: name=mailnull, GID=47
+Nov 22 00:31:01 pi12 useradd[68410]: new user: name=mailnull, UID=47, GID=47, home=/var/spool/mqueue, shell=/sbin/nologin
+Nov 22 00:31:01 pi12 groupadd[68418]: group added to /etc/group: name=smmsp, GID=51
+Nov 22 00:31:01 pi12 groupadd[68418]: group added to /etc/gshadow: name=smmsp
+Nov 22 00:31:01 pi12 groupadd[68418]: new group: name=smmsp, GID=51
+Nov 22 00:31:01 pi12 useradd[68425]: new user: name=smmsp, UID=51, GID=51, home=/var/spool/mqueue, shell=/sbin/nologin
+Nov 22 00:32:12 pi12 sudo[68371]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:32:18 pi12 sudo[68978]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl start sendmail
+Nov 22 00:32:18 pi12 sudo[68978]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:33:18 pi12 sudo[68978]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:33:18 pi12 sudo[69032]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl enable sendmail
+Nov 22 00:33:18 pi12 sudo[69032]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:33:19 pi12 sudo[69032]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:33:31 pi12 sudo[69059]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl status sendmail
+Nov 22 00:33:31 pi12 sudo[69059]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:33:31 pi12 sudo[69059]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:34:01 pi12 sudo[69066]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/tail -f /var/log/maillog
+Nov 22 00:34:01 pi12 sudo[69066]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:34:03 pi12 sudo[69066]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:36:21 pi12 sudo[69108]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/aide --init
+Nov 22 00:36:21 pi12 sudo[69108]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:36:43 pi12 sudo[69108]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:36:43 pi12 sudo[69112]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/mv /var/lib/aide/aide.db.new.gz /var/lib/aide/aide.db.gz
+Nov 22 00:36:43 pi12 sudo[69112]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:36:43 pi12 sudo[69112]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:37:44 pi12 sudo[69119]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/crontab -e
+Nov 22 00:37:44 pi12 sudo[69119]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:37:57 pi12 sudo[69119]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:38:03 pi12 sudo[69124]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/crontab -e
+Nov 22 00:38:03 pi12 sudo[69124]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:38:06 pi12 sudo[69124]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:38:11 pi12 sudo[69129]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/crontab -l
+Nov 22 00:38:11 pi12 sudo[69129]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 00:38:11 pi12 sudo[69129]: pam_unix(sudo:session): session closed for user root
+Nov 22 00:55:01 pi12 sudo[69267]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/aide.conf
+Nov 22 00:55:01 pi12 sudo[69267]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 01:13:31 pi12 sudo[69267]: pam_unix(sudo:session): session closed for user root
+Nov 22 01:27:02 pi12 sudo[69480]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/crontab -l
+Nov 22 01:27:02 pi12 sudo[69480]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 01:27:02 pi12 sudo[69480]: pam_unix(sudo:session): session closed for user root
+Nov 22 01:36:27 pi12 sudo[69536]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/crontab -l
+Nov 22 01:36:27 pi12 sudo[69536]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 01:36:27 pi12 sudo[69536]: pam_unix(sudo:session): session closed for user root
+Nov 22 05:20:03 pi12 sudo[71088]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install git –y
+Nov 22 05:20:03 pi12 sudo[71088]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 05:20:06 pi12 sudo[71088]: pam_unix(sudo:session): session closed for user root
+Nov 22 05:20:11 pi12 sudo[71092]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install git -j
+Nov 22 05:20:11 pi12 sudo[71092]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 05:20:12 pi12 sudo[71092]: pam_unix(sudo:session): session closed for user root
+Nov 22 05:20:14 pi12 sudo[71096]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install git
+Nov 22 05:20:14 pi12 sudo[71096]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 22 05:20:33 pi12 sudo[71096]: pam_unix(sudo:session): session closed for user root

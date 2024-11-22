@@ -1,0 +1,32 @@
+Start timestamp: 2024-11-22 02:00:01 +0100 (AIDE 0.16)
+AIDE found differences between database and filesystem!!
+
+Summary:
+  Total number of entries:	39668
+  Added entries:		1
+  Removed entries:		0
+  Changed entries:		0
+
+---------------------------------------------------
+Added entries:
+---------------------------------------------------
+
+f++++++++++++++++: /var/spool/cron/root
+
+---------------------------------------------------
+The attributes of the (uncompressed) database(s):
+---------------------------------------------------
+
+/var/lib/aide/aide.db.gz
+  MD5      : y4EJzvFFvp+pbT9Ea++YaQ==
+  SHA1     : BbN0lYTg9d85Y4lhTUI+HXW845s=
+  RMD160   : P/42pzDscHJBO5JVuM7agFDeNyM=
+  TIGER    : 8cdPKZBJ0D0KMLy+tbkOw9OwPSAdWEfm
+  SHA256   : +tWR9hjYnQKfVgPuyme/OFs2r2v4Iq9x
+             JhYnIbrozu8=
+  SHA512   : aql1FLtXeo6E+qeX39SnyqetFOHBxYzT
+             Rz33VvBCNnO/FSnVAApH4w71Og2Z+ffT
+             wiapaVLyhtwDBjGFQLQlFw==
+
+
+End timestamp: 2024-11-22 02:00:24 +0100 (run time: 0m 23s)

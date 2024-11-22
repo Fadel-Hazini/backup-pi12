@@ -1,0 +1,40 @@
+Jun 22 14:24:01 pi12 run-parts[597]: (/etc/cron.daily) finished logrotate
+Jun 22 14:24:01 pi12 anacron[545]: Job `cron.daily' terminated (produced output)
+Jun 22 14:24:01 pi12 anacron[545]: Can't find sendmail at /usr/sbin/sendmail, not mailing output
+Jun 22 14:44:01 pi12 anacron[545]: Job `cron.weekly' started
+Jun 22 14:44:01 pi12 anacron[545]: Job `cron.weekly' terminated
+Jun 22 14:44:01 pi12 anacron[545]: Normal exit (2 jobs run)
+Jun 22 15:01:01 pi12 CROND[632]: (root) CMD (run-parts /etc/cron.hourly)
+Jun 22 15:01:01 pi12 run-parts[635]: (/etc/cron.hourly) starting 0anacron
+Jun 22 15:01:01 pi12 run-parts[641]: (/etc/cron.hourly) finished 0anacron
+Jun 22 16:01:01 pi12 CROND[693]: (root) CMD (run-parts /etc/cron.hourly)
+Jun 22 16:01:01 pi12 run-parts[696]: (/etc/cron.hourly) starting 0anacron
+Jun 22 16:01:01 pi12 run-parts[702]: (/etc/cron.hourly) finished 0anacron
+Jun 22 17:01:01 pi12 CROND[818]: (root) CMD (run-parts /etc/cron.hourly)
+Jun 22 17:01:01 pi12 run-parts[821]: (/etc/cron.hourly) starting 0anacron
+Jun 22 17:01:01 pi12 run-parts[827]: (/etc/cron.hourly) finished 0anacron
+Jun 22 18:01:01 pi12 CROND[881]: (root) CMD (run-parts /etc/cron.hourly)
+Jun 22 18:01:01 pi12 run-parts[885]: (/etc/cron.hourly) starting 0anacron
+Jun 22 18:01:01 pi12 run-parts[891]: (/etc/cron.hourly) finished 0anacron
+Jun 22 19:01:01 pi12 CROND[1097]: (root) CMD (run-parts /etc/cron.hourly)
+Jun 22 19:01:01 pi12 run-parts[1100]: (/etc/cron.hourly) starting 0anacron
+Jun 22 19:01:01 pi12 run-parts[1106]: (/etc/cron.hourly) finished 0anacron
+Jun 22 20:01:01 pi12 CROND[1328]: (root) CMD (run-parts /etc/cron.hourly)
+Jun 22 20:01:01 pi12 run-parts[1331]: (/etc/cron.hourly) starting 0anacron
+Jun 22 20:01:01 pi12 run-parts[1337]: (/etc/cron.hourly) finished 0anacron
+Jun 22 21:01:01 pi12 CROND[1613]: (root) CMD (run-parts /etc/cron.hourly)
+Jun 22 21:01:01 pi12 run-parts[1616]: (/etc/cron.hourly) starting 0anacron
+Jun 22 21:01:01 pi12 run-parts[1622]: (/etc/cron.hourly) finished 0anacron
+Jun 22 13:11:58 pi12 crond[335]: (CRON) STARTUP (1.5.2)
+Jun 22 13:11:58 pi12 crond[335]: (CRON) INFO (Syslog will be used instead of sendmail.)
+Jun 22 13:11:58 pi12 crond[335]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 94% if used.)
+Jun 22 13:11:58 pi12 crond[335]: (CRON) INFO (running with inotify support)
+Nov  4 17:01:01 pi12 CROND[1007]: (root) CMD (run-parts /etc/cron.hourly)
+Nov  4 17:01:01 pi12 run-parts[1010]: (/etc/cron.hourly) starting 0anacron
+Nov  4 17:01:01 pi12 anacron[1016]: Anacron started on 2024-11-04
+Nov  4 17:01:01 pi12 anacron[1016]: Will run job `cron.daily' in 22 min.
+Nov  4 17:01:01 pi12 anacron[1016]: Will run job `cron.weekly' in 42 min.
+Nov  4 17:01:01 pi12 anacron[1016]: Jobs will be executed sequentially
+Nov  4 17:01:01 pi12 run-parts[1018]: (/etc/cron.hourly) finished 0anacron
+Nov  4 17:23:01 pi12 anacron[1016]: Job `cron.daily' started
+Nov  4 17:23:01 pi12 run-parts[1130]: (/etc/cron.daily) starting logrotate

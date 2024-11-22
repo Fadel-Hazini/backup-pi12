@@ -1,0 +1,21 @@
+Jun 23 00:08:43 pi12 sshd[1166]: Accepted password for root from 192.168.0.1 port 60664 ssh2
+Jun 23 00:08:43 pi12 systemd[1174]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Jun 23 00:08:44 pi12 sshd[1166]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 23 00:19:50 pi12 sudo[1221]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/dhcp/dhcpd.conf
+Jun 23 00:19:50 pi12 sudo[1221]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 23 00:22:54 pi12 sudo[1221]: pam_unix(sudo:session): session closed for user root
+Jun 23 00:22:58 pi12 sudo[1228]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/cat /etc/dhcp/dhcpd.conf
+Jun 23 00:22:58 pi12 sudo[1228]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 23 00:22:58 pi12 sudo[1228]: pam_unix(sudo:session): session closed for user root
+Nov 15 02:59:19 pi12 sudo[1372]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl stop dhcpd
+Nov 15 02:59:19 pi12 sudo[1372]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 15 02:59:19 pi12 sudo[1372]: pam_unix(sudo:session): session closed for user root
+Nov 15 02:59:19 pi12 sudo[1376]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl disable dhcpd
+Nov 15 02:59:19 pi12 sudo[1376]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 15 02:59:19 pi12 sudo[1376]: pam_unix(sudo:session): session closed for user root
+Nov 15 02:59:20 pi12 sudo[1395]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl mask dhcpd
+Nov 15 02:59:20 pi12 sudo[1395]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 15 02:59:20 pi12 sudo[1395]: pam_unix(sudo:session): session closed for user root
+Nov 15 02:59:24 pi12 sudo[1415]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl status dhcpd
+Nov 15 02:59:24 pi12 sudo[1415]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 15 02:59:24 pi12 sudo[1415]: pam_unix(sudo:session): session closed for user root

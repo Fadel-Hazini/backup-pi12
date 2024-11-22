@@ -1,0 +1,183 @@
+Nov  4 17:29:52 pi12 sudo[1223]:    root : TTY=pts/1 ; PWD=/var/named ; USER=root ; COMMAND=/bin/chown named:named /var/named/ekstern.bedrift6.d3-101.usn.zone
+Nov  4 17:29:52 pi12 sudo[1223]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  4 17:29:52 pi12 sudo[1223]: pam_unix(sudo:session): session closed for user root
+Nov  4 17:29:52 pi12 sudo[1226]:    root : TTY=pts/1 ; PWD=/var/named ; USER=root ; COMMAND=/bin/chown named:named /var/named/intern.bedrift6.d3-101.usn.zone
+Nov  4 17:29:52 pi12 sudo[1226]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  4 17:29:52 pi12 sudo[1226]: pam_unix(sudo:session): session closed for user root
+Nov  4 17:30:40 pi12 sudo[1236]:    root : TTY=pts/1 ; PWD=/var/named ; USER=root ; COMMAND=/bin/chown root:root /var/named/intern.bedrift6.d3-101.usn.zone
+Nov  4 17:30:40 pi12 sudo[1236]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  4 17:30:40 pi12 sudo[1236]: pam_unix(sudo:session): session closed for user root
+Nov  4 17:30:46 pi12 sudo[1239]:    root : TTY=pts/1 ; PWD=/var/named ; USER=root ; COMMAND=/bin/chown root:root /var/named/ekstern.bedrift6.d3-101.usn.zone
+Nov  4 17:30:46 pi12 sudo[1239]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  4 17:30:46 pi12 sudo[1239]: pam_unix(sudo:session): session closed for user root
+Nov  4 17:31:22 pi12 sshd[1242]: Accepted password for root from 192.168.0.3 port 56246 ssh2
+Nov  4 17:31:23 pi12 sshd[1242]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  4 17:38:26 pi12 sshd[1246]: Received disconnect from 192.168.0.3 port 56246:11: disconnected by user
+Nov  4 17:38:26 pi12 sshd[1246]: Disconnected from user root 192.168.0.3 port 56246
+Nov  4 17:38:26 pi12 sshd[1242]: pam_unix(sshd:session): session closed for user root
+Nov  4 18:15:18 pi12 sshd[520]: Received disconnect from 192.168.0.1 port 58894:11: disconnected by user
+Nov  4 18:15:18 pi12 sshd[520]: Disconnected from user root 192.168.0.1 port 58894
+Nov  4 18:15:18 pi12 sshd[499]: pam_unix(sshd:session): session closed for user root
+Nov  4 20:26:24 pi12 sshd[886]: Received disconnect from 192.168.0.1 port 58184:11: disconnected by user
+Nov  4 20:26:24 pi12 sshd[886]: Disconnected from user root 192.168.0.1 port 58184
+Nov  4 20:26:24 pi12 sshd[882]: pam_unix(sshd:session): session closed for user root
+Nov  4 20:26:34 pi12 systemd[514]: pam_unix(systemd-user:session): session closed for user root
+Nov  5 12:02:52 pi12 sshd[2590]: Accepted password for root from 192.168.0.1 port 34242 ssh2
+Nov  5 12:02:53 pi12 systemd[2597]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Nov  5 12:02:53 pi12 sshd[2590]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  5 12:05:31 pi12 sshd[2637]: Accepted password for root from 192.168.0.1 port 35220 ssh2
+Nov  5 12:05:31 pi12 sshd[2637]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  5 12:09:25 pi12 sudo[2677]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install dhcp-server -y
+Nov  5 12:09:25 pi12 sudo[2677]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 12:09:28 pi12 sudo[2677]: pam_unix(sudo:session): session closed for user root
+Nov  5 12:57:16 pi12 sudo[2985]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/resolv.conf
+Nov  5 12:57:16 pi12 sudo[2985]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 12:57:26 pi12 sudo[2985]: pam_unix(sudo:session): session closed for user root
+Nov  5 13:34:06 pi12 sudo[3474]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/resolv.conf
+Nov  5 13:34:06 pi12 sudo[3474]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 13:34:22 pi12 sudo[3474]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:11:58 pi12 sshd[343]: Server listening on 0.0.0.0 port 22.
+Jun 22 13:11:58 pi12 sshd[343]: Server listening on :: port 22.
+Jun 22 13:12:00 pi12 polkitd[400]: Loading rules from directory /etc/polkit-1/rules.d
+Jun 22 13:12:00 pi12 polkitd[400]: Loading rules from directory /usr/share/polkit-1/rules.d
+Jun 22 13:12:00 pi12 polkitd[400]: Finished loading, compiling and executing 2 rules
+Jun 22 13:12:00 pi12 polkitd[400]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Jun 22 13:13:15 pi12 sshd[528]: Accepted password for root from 192.168.0.1 port 48070 ssh2
+Jun 22 13:13:15 pi12 systemd[535]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Jun 22 13:13:16 pi12 sshd[528]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 22 13:15:02 pi12 sshd[575]: Accepted password for root from 192.168.0.1 port 59928 ssh2
+Jun 22 13:15:02 pi12 sshd[575]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 22 13:23:30 pi12 sudo[690]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install chrony
+Jun 22 13:23:30 pi12 sudo[690]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:23:37 pi12 sudo[690]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:23:43 pi12 sudo[700]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl start chronyd
+Jun 22 13:23:44 pi12 sudo[700]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:23:44 pi12 sudo[700]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:23:44 pi12 sudo[704]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl enable chronyd
+Jun 22 13:23:44 pi12 sudo[704]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:23:44 pi12 sudo[704]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:24:11 pi12 sudo[726]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/chronyc makestep
+Jun 22 13:24:11 pi12 sudo[726]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:24:11 pi12 sudo[726]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:25:28 pi12 sudo[774]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/timedatectl set-timezone Europe/Oslo
+Jun 22 13:25:28 pi12 sudo[774]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:25:28 pi12 sudo[774]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:25:32 pi12 sudo[777]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl restart chronyd
+Jun 22 13:25:32 pi12 sudo[777]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:25:33 pi12 sudo[777]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:25:33 pi12 sudo[793]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/chronyc makestep
+Jun 22 13:25:33 pi12 sudo[793]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:25:33 pi12 sudo[793]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:26:11 pi12 sudo[805]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/timedatectl set-time '2024-11-05 14:10:00'
+Jun 22 13:26:11 pi12 sudo[805]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:26:11 pi12 sudo[805]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:26:26 pi12 sudo[813]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl stop chronyd
+Jun 22 13:26:26 pi12 sudo[813]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:26:26 pi12 sudo[813]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:26:28 pi12 sudo[824]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/timedatectl set-time '2024-11-05 14:10:00'
+Jun 22 13:26:28 pi12 sudo[824]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 14:10:00 pi12 sudo[824]: pam_unix(sudo:session): session closed for user root
+Nov  5 14:12:24 pi12 sshd[840]: Accepted password for root from 192.168.0.1 port 42488 ssh2
+Nov  5 14:12:24 pi12 sshd[840]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  5 14:22:17 pi12 sshd[844]: Received disconnect from 192.168.0.1 port 42488:11: disconnected by user
+Nov  5 14:22:17 pi12 sshd[844]: Disconnected from user root 192.168.0.1 port 42488
+Nov  5 14:22:17 pi12 sshd[840]: pam_unix(sshd:session): session closed for user root
+Nov  5 14:29:19 pi12 sshd[986]: Accepted password for root from 192.168.0.1 port 57104 ssh2
+Nov  5 14:29:19 pi12 sshd[986]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  5 14:32:50 pi12 sudo[1044]:    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/named.conf
+Nov  5 14:32:51 pi12 sudo[1044]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 14:34:00 pi12 sudo[1044]: pam_unix(sudo:session): session closed for user root
+Nov  5 14:36:02 pi12 sudo[1054]:    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/sbin/named-checkconf
+Nov  5 14:36:02 pi12 sudo[1054]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 14:36:02 pi12 sudo[1054]: pam_unix(sudo:session): session closed for user root
+Nov  5 14:36:06 pi12 sudo[1058]:    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/sbin/named-checkzone bedrift6.d3-101.usn /var/named/intern.bedrift6.d3-101.usn.zone
+Nov  5 14:36:06 pi12 sudo[1058]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 14:36:06 pi12 sudo[1058]: pam_unix(sudo:session): session closed for user root
+Nov  5 14:36:06 pi12 sudo[1061]:    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/sbin/named-checkzone bedrift6.d3-101.usn /var/named/ekstern.bedrift6.d3-101.usn.zone
+Nov  5 14:36:06 pi12 sudo[1061]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 14:36:06 pi12 sudo[1061]: pam_unix(sudo:session): session closed for user root
+Nov  5 14:38:06 pi12 sudo[1066]:    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl restart named
+Nov  5 14:38:06 pi12 sudo[1066]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 14:38:06 pi12 sudo[1066]: pam_unix(sudo:session): session closed for user root
+Nov  5 14:40:17 pi12 sudo[1102]:    root : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl status named
+Nov  5 14:40:17 pi12 sudo[1102]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 14:40:34 pi12 sudo[1102]: pam_unix(sudo:session): session closed for user root
+Nov  5 15:04:06 pi12 sudo[1309]:    root : TTY=pts/0 ; PWD=/etc/dhcp ; USER=root ; COMMAND=/bin/nano /etc/sysconfig/dhcpd
+Nov  5 15:04:06 pi12 sudo[1309]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 15:07:08 pi12 sudo[1309]: pam_unix(sudo:session): session closed for user root
+Nov  5 15:08:58 pi12 sudo[1349]:    root : TTY=pts/0 ; PWD=/etc/dhcp ; USER=root ; COMMAND=/bin/systemctl restart dhcpd
+Nov  5 15:08:58 pi12 sudo[1349]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 15:08:58 pi12 sudo[1349]: pam_unix(sudo:session): session closed for user root
+Nov  5 15:11:20 pi12 sudo[1360]:    root : TTY=pts/0 ; PWD=/etc/dhcp ; USER=root ; COMMAND=/sbin/dhcpd -t -cf /etc/dhcp/dhcpd.conf
+Nov  5 15:11:20 pi12 sudo[1360]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 15:11:20 pi12 sudo[1360]: pam_unix(sudo:session): session closed for user root
+Nov  5 15:20:52 pi12 sudo[1374]:    root : TTY=pts/0 ; PWD=/etc/dhcp ; USER=root ; COMMAND=/sbin/dhcpd -t -cf /etc/dhcp/dhcpd.conf
+Nov  5 15:20:52 pi12 sudo[1374]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 15:20:52 pi12 sudo[1374]: pam_unix(sudo:session): session closed for user root
+Nov  5 15:21:31 pi12 sudo[1379]:    root : TTY=pts/0 ; PWD=/etc/dhcp ; USER=root ; COMMAND=/bin/systemctl restart dhcpd
+Nov  5 15:21:31 pi12 sudo[1379]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 15:21:31 pi12 sudo[1379]: pam_unix(sudo:session): session closed for user root
+Nov  5 15:36:57 pi12 sshd[543]: Received disconnect from 192.168.0.1 port 48070:11: disconnected by user
+Nov  5 15:36:57 pi12 sshd[543]: Disconnected from user root 192.168.0.1 port 48070
+Nov  5 15:36:57 pi12 sshd[528]: pam_unix(sshd:session): session closed for user root
+Nov  5 15:41:35 pi12 sshd[1422]: Accepted password for root from 192.168.0.1 port 51030 ssh2
+Nov  5 15:41:35 pi12 sshd[1422]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  5 15:43:47 pi12 sudo[1462]:    root : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/sbin/dhcpd -t -cf /etc/dhcp/dhcpd.conf
+Nov  5 15:43:47 pi12 sudo[1462]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 15:43:47 pi12 sudo[1462]: pam_unix(sudo:session): session closed for user root
+Nov  5 15:45:04 pi12 sudo[1466]:    root : TTY=pts/0 ; PWD=/etc ; USER=root ; COMMAND=/bin/nano /etc/dhcp/dhcpd.conf
+Nov  5 15:45:04 pi12 sudo[1466]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  5 15:48:02 pi12 sudo[1466]: pam_unix(sudo:session): session closed for user root
+Nov  5 15:48:10 pi12 sshd[1427]: Received disconnect from 192.168.0.1 port 51030:11: disconnected by user
+Nov  5 15:48:10 pi12 sshd[1427]: Disconnected from user root 192.168.0.1 port 51030
+Nov  5 15:48:10 pi12 sshd[1422]: pam_unix(sshd:session): session closed for user root
+Nov  5 17:22:31 pi12 sshd[579]: Received disconnect from 192.168.0.1 port 59928:11: disconnected by user
+Nov  5 17:22:31 pi12 sshd[579]: Disconnected from user root 192.168.0.1 port 59928
+Nov  5 17:22:31 pi12 sshd[575]: pam_unix(sshd:session): session closed for user root
+Nov  5 20:47:52 pi12 sshd[990]: Received disconnect from 192.168.0.1 port 57104:11: disconnected by user
+Nov  5 20:47:52 pi12 sshd[990]: Disconnected from user root 192.168.0.1 port 57104
+Nov  5 20:47:52 pi12 sshd[986]: pam_unix(sshd:session): session closed for user root
+Nov  6 20:49:32 pi12 sshd[3042]: Accepted password for root from 192.168.0.1 port 57124 ssh2
+Nov  6 20:49:32 pi12 systemd[3049]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Nov  6 20:49:32 pi12 sshd[3042]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  6 20:51:04 pi12 sshd[3058]: Received disconnect from 192.168.0.1 port 57124:11: disconnected by user
+Nov  6 20:51:04 pi12 sshd[3058]: Disconnected from user root 192.168.0.1 port 57124
+Nov  6 20:51:04 pi12 sshd[3042]: pam_unix(sshd:session): session closed for user root
+Nov  7 09:57:20 pi12 sshd[3796]: Accepted password for root from 192.168.0.1 port 58030 ssh2
+Nov  7 09:57:20 pi12 systemd[3803]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Nov  7 09:57:21 pi12 sshd[3796]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  7 13:26:54 pi12 sshd[4045]: Invalid user roott from 192.168.0.1 port 60110
+Nov  7 13:26:56 pi12 sshd[4045]: pam_unix(sshd:auth): check pass; user unknown
+Nov  7 13:26:56 pi12 sshd[4045]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.0.1
+Nov  7 13:26:58 pi12 sshd[4045]: Failed password for invalid user roott from 192.168.0.1 port 60110 ssh2
+Nov  7 13:27:02 pi12 sshd[4045]: pam_unix(sshd:auth): check pass; user unknown
+Nov  7 13:27:05 pi12 sshd[4045]: Failed password for invalid user roott from 192.168.0.1 port 60110 ssh2
+Nov  7 13:27:10 pi12 sshd[4048]: Accepted password for root from 192.168.0.1 port 40244 ssh2
+Nov  7 13:27:10 pi12 sshd[4048]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  7 13:29:53 pi12 sshd[4052]: Received disconnect from 192.168.0.1 port 40244:11: disconnected by user
+Nov  7 13:29:53 pi12 sshd[4052]: Disconnected from user root 192.168.0.1 port 40244
+Nov  7 13:29:53 pi12 sshd[4048]: pam_unix(sshd:session): session closed for user root
+Nov  7 13:31:06 pi12 sshd[4088]: Accepted password for root from 192.168.0.1 port 47806 ssh2
+Nov  7 13:31:06 pi12 sshd[4088]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  7 13:58:26 pi12 sshd[4092]: Received disconnect from 192.168.0.1 port 47806:11: disconnected by user
+Nov  7 13:58:26 pi12 sshd[4092]: Disconnected from user root 192.168.0.1 port 47806
+Nov  7 13:58:26 pi12 sshd[4088]: pam_unix(sshd:session): session closed for user root
+Nov  7 15:57:32 pi12 sshd[4249]: Accepted password for root from 192.168.0.1 port 43064 ssh2
+Nov  7 15:57:32 pi12 sshd[4249]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  7 15:58:57 pi12 sshd[4253]: Received disconnect from 192.168.0.1 port 43064:11: disconnected by user
+Nov  7 15:58:57 pi12 sshd[4253]: Disconnected from user root 192.168.0.1 port 43064
+Nov  7 15:58:57 pi12 sshd[4249]: pam_unix(sshd:session): session closed for user root
+Nov  7 16:01:07 pi12 sshd[4304]: Accepted password for root from 192.168.0.1 port 57118 ssh2
+Nov  7 16:01:07 pi12 sshd[4304]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  7 16:09:11 pi12 sshd[4361]: Accepted password for root from 192.168.0.1 port 60278 ssh2
+Nov  7 16:09:11 pi12 sshd[4361]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov  7 16:17:59 pi12 sshd[4365]: Received disconnect from 192.168.0.1 port 60278:11: disconnected by user
+Nov  7 16:17:59 pi12 sshd[4365]: Disconnected from user root 192.168.0.1 port 60278
+Nov  7 16:17:59 pi12 sshd[4361]: pam_unix(sshd:session): session closed for user root
+Nov  7 16:53:56 pi12 sshd[4308]: Received disconnect from 192.168.0.1 port 57118:11: disconnected by user
+Nov  7 16:53:56 pi12 sshd[4308]: Disconnected from user root 192.168.0.1 port 57118
+Nov  7 16:53:56 pi12 sshd[4304]: pam_unix(sshd:session): session closed for user root
+Nov  7 17:56:05 pi12 sshd[4502]: Connection closed by authenticating user root 192.168.0.1 port 55162 [preauth]
+Nov  7 18:24:02 pi12 sshd[3813]: Received disconnect from 192.168.0.1 port 58030:11: disconnected by user
+Nov  7 18:24:02 pi12 sshd[3813]: Disconnected from user root 192.168.0.1 port 58030
+Nov  7 18:24:02 pi12 sshd[3796]: pam_unix(sshd:session): session closed for user root

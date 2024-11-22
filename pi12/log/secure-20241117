@@ -1,0 +1,50 @@
+Jun 22 22:53:12 pi12 sshd[1124]: Accepted password for root from 192.168.0.1 port 41408 ssh2
+Jun 22 22:53:13 pi12 systemd[1131]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Jun 22 22:53:13 pi12 sshd[1124]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 22 23:24:18 pi12 sudo[1216]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/dhclient enp0s25
+Jun 22 23:24:18 pi12 sudo[1216]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 23:24:18 pi12 sudo[1216]: pam_unix(sudo:session): session closed for user root
+Jun 22 23:30:13 pi12 sudo[1441]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl restart network
+Jun 22 23:30:13 pi12 sudo[1441]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 23:30:13 pi12 sudo[1441]: pam_unix(sudo:session): session closed for user root
+Jun 22 23:30:13 pi12 sudo[1445]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/dhclient -r eth0
+Jun 22 23:30:13 pi12 sudo[1445]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 23:30:14 pi12 sudo[1445]: pam_unix(sudo:session): session closed for user root
+Jun 22 23:30:14 pi12 sudo[1455]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/dhclient eth0
+Jun 22 23:30:14 pi12 sudo[1455]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 23:30:17 pi12 sudo[1455]: pam_unix(sudo:session): session closed for user root
+Jun 23 00:10:48 pi12 sudo[1662]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/dhclient -r
+Jun 23 00:10:48 pi12 sudo[1662]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 23 00:10:49 pi12 sudo[1662]: pam_unix(sudo:session): session closed for user root
+Jun 23 00:10:49 pi12 sudo[1672]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/dhclient
+Jun 23 00:10:49 pi12 sudo[1672]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 23 00:10:52 pi12 sudo[1672]: pam_unix(sudo:session): session closed for user root
+Jun 23 00:20:21 pi12 sudo[1801]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/dhclient -r
+Jun 23 00:20:21 pi12 sudo[1801]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 23 00:20:22 pi12 sudo[1801]: pam_unix(sudo:session): session closed for user root
+Jun 23 00:20:22 pi12 sudo[1811]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/dhclient
+Jun 23 00:20:22 pi12 sudo[1811]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 23 00:20:25 pi12 sudo[1811]: pam_unix(sudo:session): session closed for user root
+Jun 23 01:00:02 pi12 sudo[2127]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/date -s '2024-11-15 16:45:00'
+Jun 23 01:00:02 pi12 sudo[2127]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 15 16:45:00 pi12 sudo[2127]: pam_unix(sudo:session): session closed for user root
+Nov 15 16:55:26 pi12 sudo[2583]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/sbin/aide --init
+Nov 15 16:55:26 pi12 sudo[2583]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 15 16:56:42 pi12 sudo[2583]: pam_unix(sudo:session): session closed for user root
+Nov 15 16:58:12 pi12 sudo[2604]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/mv /var/lib/aide/aide.db.new.gz /var/lib/aide/aide.db.gz
+Nov 15 16:58:12 pi12 sudo[2604]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 15 16:58:12 pi12 sudo[2604]: pam_unix(sudo:session): session closed for user root
+Nov 15 16:58:21 pi12 sudo[2607]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/aide.conf
+Nov 15 16:58:21 pi12 sudo[2607]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 15 16:58:58 pi12 sudo[2607]: pam_unix(sudo:session): session closed for user root
+Nov 15 16:59:06 pi12 sudo[2624]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/cat /etc/aide.conf
+Nov 15 16:59:06 pi12 sudo[2624]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov 15 16:59:06 pi12 sudo[2624]: pam_unix(sudo:session): session closed for user root
+Nov 15 19:16:12 pi12 sshd[1140]: Received disconnect from 192.168.0.1 port 41408:11: disconnected by user
+Nov 15 19:16:12 pi12 sshd[1140]: Disconnected from user root 192.168.0.1 port 41408
+Nov 15 19:16:12 pi12 sshd[1124]: pam_unix(sshd:session): session closed for user root
+Nov 16 11:42:57 pi12 sshd[10386]: Accepted password for root from 192.168.0.1 port 53780 ssh2
+Nov 16 11:42:57 pi12 sshd[10386]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Nov 16 11:45:48 pi12 sshd[10404]: Received disconnect from 192.168.0.1 port 53780:11: disconnected by user
+Nov 16 11:45:48 pi12 sshd[10404]: Disconnected from user root 192.168.0.1 port 53780
+Nov 16 11:45:48 pi12 sshd[10386]: pam_unix(sshd:session): session closed for user root

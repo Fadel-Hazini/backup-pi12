@@ -1,0 +1,19 @@
+$TTL 86400
+@	IN	SOA	ns.bedrift6.d3-101.usn. root.bedrift6.d3-101.usn. (
+	2024102901 ; Serial
+	3600	   ; Refresh
+	1800	   ; Retry
+	1209600	   ; Expire
+	86400	   ; Minimum TTL
+)
+
+
+@	IN	NS	ns.bedrift6.d3-101.usn.
+ns	IN	A	192.168.0.2
+www	IN	A	192.168.0.4
+mail	IN	A	192.168.0.5
+
+
+@	IN	MX	10	mail.bedrift6.d3-101.usn.
+
+@	IN	TXT	"v=spf1 include:_spf.google.com ip4:192.168.0.4 -all"

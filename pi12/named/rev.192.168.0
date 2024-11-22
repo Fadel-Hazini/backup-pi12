@@ -1,0 +1,12 @@
+$TTL 86400
+@	IN	SOA	ns.bedrift6.d3-101.usn. root.bedrift6.d3-101.usn. (
+	2024102901 ; Serial
+	3600 ; Refresh
+	1800 ; Retry
+	1209600 ; Expire
+	86400 ; Minimum TTL
+)
+@	IN	NS	ns.bedrift6.d3-101.usn.
+1	IN	PTR	gw.bedrift6.d3-101.usn.
+2	IN	PTR	ns.bedrift6.d3-101.usn.
+3	IN	PTR	www.bedrift6.d3-101.usn.

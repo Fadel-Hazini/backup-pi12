@@ -1,0 +1,2367 @@
+reloading configuration succeeded
+reloading zones succeeded
+zone 0.168.192.in-addr-arpa/IN/internt_nett: zone serial (2024102901) unchanged. zone may fail to transfer to slaves.
+zone 0.168.192.in-addr-arpa/IN/internt_nett: loaded serial 2024102901
+zone bedrift6.d3-101.usn/IN/internt_nett: zone serial (2024102901) unchanged. zone may fail to transfer to slaves.
+zone bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+zone bedrift6.d3-101.usn/IN/eksternt_nett: zone serial (2024102901) unchanged. zone may fail to transfer to slaves.
+zone bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+timed out resolving 'miroir.univ-lorraine.fr/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:7fe::53#53
+timed out resolving 'miroir.univ-lorraine.fr/A/IN': 10.250.0.5#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:7fd::1#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:dc3::35#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:500:1::53#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'miroir.univ-lorraine.fr/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'miroir.univ-lorraine.fr/A/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+timed out resolving 'mirrors.nxthost.com/A/IN': 10.250.0.5#53
+timed out resolving 'mirrors.nxthost.com/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrors.nxthost.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrors.nxthost.com/AAAA/IN': 2001:500:9f::42#53
+no longer listening on 192.168.0.2#53
+listening on IPv4 interface eth0, 192.168.0.2#53
+trust-anchor-telemetry '_ta-4f66/IN' from 192.168.0.2
+trust-anchor-telemetry '_ta-4f66/IN' from 192.168.0.2
+no longer listening on 192.168.0.2#53
+listening on IPv4 interface eth0, 192.168.0.2#53
+no longer listening on 192.168.0.2#53
+listening on IPv4 interface eth0, 192.168.0.2#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+no longer listening on 192.168.0.2#53
+network unreachable resolving './NS/IN': 192.203.230.10#53
+network unreachable resolving './NS/IN': 192.58.128.30#53
+network unreachable resolving './NS/IN': 202.12.27.33#53
+network unreachable resolving './NS/IN': 192.36.148.17#53
+network unreachable resolving './NS/IN': 170.247.170.2#53
+network unreachable resolving './NS/IN': 199.7.83.42#53
+network unreachable resolving './NS/IN': 198.41.0.4#53
+network unreachable resolving './NS/IN': 192.33.4.12#53
+network unreachable resolving './NS/IN': 193.0.14.129#53
+network unreachable resolving './NS/IN': 198.97.190.53#53
+network unreachable resolving './NS/IN': 199.7.91.13#53
+network unreachable resolving './NS/IN': 192.112.36.4#53
+network unreachable resolving './NS/IN': 192.5.5.241#53
+resolver priming query complete
+listening on IPv4 interface eth0, 192.168.0.2#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+timed out resolving '2.rocky.pool.ntp.org/A/IN': 10.250.0.5#53
+timed out resolving '2.rocky.pool.ntp.org/AAAA/IN': 10.250.0.5#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2001:500:1::53#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2001:500:a8::e#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2001:500:12::d0d#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2001:7fd::1#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2001:500:2d::d#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2001:dc3::35#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2001:500:2::c#53
+network unreachable resolving '2.rocky.pool.ntp.org/A/IN': 2801:1b8:10::b#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving '2.rocky.pool.ntp.org/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+timed out resolving 'mirror.telepoint.bg/A/IN': 10.250.0.5#53
+timed out resolving 'mirror.telepoint.bg/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:dc3::35#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:7fd::1#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirror.telepoint.bg/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirror.telepoint.bg/AAAA/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+timed out resolving 'mirrors.xtom.de/A/IN': 10.250.0.5#53
+timed out resolving 'mirrors.xtom.de/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+timed out resolving 'mirror.fjordos.no/AAAA/IN': 10.250.0.5#53
+timed out resolving 'mirror.fjordos.no/A/IN': 10.250.0.5#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:dc3::35#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrors.xtom.de/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrors.xtom.de/AAAA/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving 'mirror.fjordos.no/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mirror.fjordos.no/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:500:2d::d#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:7fd::1#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:500:12::d0d#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:500:1::53#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:500:9f::42#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'bedrift10.d3-101.usn/MX/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+timed out resolving 'ftp.halifax.rwth-aachen.de/A/IN': 10.250.0.5#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:12::d0d#53
+timed out resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:2::c#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:7fd::1#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:1::53#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:7fe::53#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:dc3::35#53
+network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+timed out resolving 'rocky.task.gda.pl/A/IN': 10.250.0.5#53
+timed out resolving 'rocky.task.gda.pl/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:500:1::53#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:7fe::53#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:7fd::1#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:500:2::c#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'rocky.task.gda.pl/A/IN': 2001:dc3::35#53
+network unreachable resolving 'rocky.task.gda.pl/AAAA/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+timed out resolving 'bedrift11.d3-101.usn/MX/IN': 10.250.0.5#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:a8::e#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:2::c#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:7fe::53#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:7fd::1#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:dc3::35#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:9f::42#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:12::d0d#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:2d::d#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2801:1b8:10::b#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:1::53#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:2f::f#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:2d::d#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:2::c#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:dc3::35#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:9f::42#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:12::d0d#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2801:1b8:10::b#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:7fd::1#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:1::53#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:a8::e#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:500:2f::f#53
+network unreachable resolving 'bedrift11.d3-101.usn/MX/IN': 2001:7fe::53#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift10.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+timed out resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mail.bedrift11.d3-101.usn/AAAA/IN': 2001:500:2d::d#53
+received control channel command 'reload'
+loading configuration from '/etc/named.conf'
+unable to open '/etc/bind.keys'; using built-in keys instead
+looking for GeoIP2 databases in '/usr/share/GeoIP'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-Country.mmdb'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-City.mmdb'
+using default UDP/IPv4 port range: [32768, 60999]
+using default UDP/IPv6 port range: [32768, 60999]
+sizing zone task pool based on 3 zones
+none:106: 'max-cache-size 90%' - setting to 3414MB (out of 3794MB)
+automatic empty zone: view internt_nett: 10.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 16.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 17.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 18.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 19.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 20.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 21.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 22.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 23.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 24.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 25.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 26.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 27.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 28.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 29.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 30.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 31.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 168.192.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 64.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 65.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 66.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 67.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 68.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 69.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 70.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 71.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 72.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 73.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 74.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 75.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 76.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 77.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 78.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 79.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 80.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 81.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 82.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 83.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 84.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 85.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 86.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 87.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 88.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 89.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 90.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 91.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 92.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 93.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 94.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 95.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 96.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 97.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 98.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 99.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 100.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 101.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 102.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 103.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 104.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 105.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 106.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 107.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 108.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 109.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 110.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 111.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 112.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 113.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 114.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 115.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 116.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 117.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 118.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 119.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 120.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 121.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 122.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 123.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 124.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 125.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 126.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 127.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 0.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 127.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 254.169.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 2.0.192.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 100.51.198.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 113.0.203.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 255.255.255.255.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+automatic empty zone: view internt_nett: 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+automatic empty zone: view internt_nett: D.F.IP6.ARPA
+automatic empty zone: view internt_nett: 8.E.F.IP6.ARPA
+automatic empty zone: view internt_nett: 9.E.F.IP6.ARPA
+automatic empty zone: view internt_nett: A.E.F.IP6.ARPA
+automatic empty zone: view internt_nett: B.E.F.IP6.ARPA
+automatic empty zone: view internt_nett: 8.B.D.0.1.0.0.2.IP6.ARPA
+automatic empty zone: view internt_nett: EMPTY.AS112.ARPA
+automatic empty zone: view internt_nett: HOME.ARPA
+none:106: 'max-cache-size 90%' - setting to 3414MB (out of 3794MB)
+none:106: 'max-cache-size 90%' - setting to 3414MB (out of 3794MB)
+configuring command channel from '/etc/rndc.key'
+configuring command channel from '/etc/rndc.key'

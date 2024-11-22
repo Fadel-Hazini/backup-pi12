@@ -1,0 +1,37 @@
+Nov 22 00:31:02 pi12 sendmail[68488]: My unqualified host name (pi12) unknown; sleeping for retry
+Nov 22 00:32:02 pi12 sendmail[68488]: unable to qualify my own domain name (pi12) -- using short name
+Nov 22 00:32:02 pi12 sendmail[68488]: alias database /etc/aliases rebuilt by root
+Nov 22 00:32:02 pi12 sendmail[68488]: /etc/aliases: 77 aliases, longest 10 bytes, 778 bytes total
+Nov 22 00:32:18 pi12 sendmail[69028]: My unqualified host name (pi12) unknown; sleeping for retry
+Nov 22 00:33:18 pi12 sendmail[69028]: unable to qualify my own domain name (pi12) -- using short name
+Nov 22 00:33:18 pi12 sendmail[69029]: starting daemon (8.15.2): SMTP+queueing@01:00:00
+Nov 22 00:33:18 pi12 sm-msp-queue[69041]: My unqualified host name (pi12) unknown; sleeping for retry
+Nov 22 00:33:54 pi12 sendmail[69065]: My unqualified host name (pi12) unknown; sleeping for retry
+Nov 22 00:34:18 pi12 sm-msp-queue[69041]: unable to qualify my own domain name (pi12) -- using short name
+Nov 22 00:34:19 pi12 sm-msp-queue[69069]: starting daemon (8.15.2): queueing@01:00:00
+Nov 22 00:34:54 pi12 sendmail[69065]: unable to qualify my own domain name (pi12) -- using short name
+Nov 22 00:34:54 pi12 sendmail[69065]: 4ALNYsr1069065: from=root, size=250, class=0, nrcpts=1, msgid=<202411212334.4ALNYsr1069065@pi12>, relay=root@localhost
+Nov 22 00:34:54 pi12 sendmail[69065]: STARTTLS=client, relay=[127.0.0.1], version=TLSv1.3, verify=FAIL, cipher=TLS_AES_256_GCM_SHA384, bits=256/256
+Nov 22 00:34:54 pi12 sendmail[69100]: STARTTLS=server, relay=localhost.localdomain [127.0.0.1], version=TLSv1.3, verify=NOT, cipher=TLS_AES_256_GCM_SHA384, bits=256/256
+Nov 22 00:34:54 pi12 sendmail[69100]: 4ALNYsQb069100: from=<root@pi12>, size=464, class=0, nrcpts=1, msgid=<202411212334.4ALNYsr1069065@pi12>, proto=ESMTPS, daemon=MTA, relay=localhost.localdomain [127.0.0.1]
+Nov 22 00:34:54 pi12 sendmail[69065]: 4ALNYsr1069065: to=gr6@bedrift6.d3-101.usn, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=30250, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (4ALNYsQb069100 Message accepted for delivery)
+Nov 22 00:34:55 pi12 sendmail[69102]: STARTTLS=client, relay=mail.bedrift6.d3-101.usn., version=TLSv1.3, verify=FAIL, cipher=TLS_AES_256_GCM_SHA384, bits=256/256
+Nov 22 00:34:55 pi12 sendmail[69102]: 4ALNYsQb069100: to=<gr6@bedrift6.d3-101.usn>, ctladdr=<root@pi12> (0/0), delay=00:00:01, xdelay=00:00:01, mailer=esmtp, pri=120464, relay=mail.bedrift6.d3-101.usn. [192.168.0.5], dsn=2.0.0, stat=Sent (Ok: queued as 1BBAEC0894E5)
+Nov 22 00:37:33 pi12 sendmail[69118]: My unqualified host name (pi12) unknown; sleeping for retry
+Nov 22 00:38:33 pi12 sendmail[69118]: unable to qualify my own domain name (pi12) -- using short name
+Nov 22 00:38:33 pi12 sendmail[69118]: 4ALNcXmQ069118: from=root, size=240, class=0, nrcpts=1, msgid=<202411212338.4ALNcXmQ069118@pi12>, relay=root@localhost
+Nov 22 00:38:33 pi12 sendmail[69118]: STARTTLS=client, relay=[127.0.0.1], version=TLSv1.3, verify=FAIL, cipher=TLS_AES_256_GCM_SHA384, bits=256/256
+Nov 22 00:38:33 pi12 sendmail[69132]: STARTTLS=server, relay=localhost.localdomain [127.0.0.1], version=TLSv1.3, verify=NOT, cipher=TLS_AES_256_GCM_SHA384, bits=256/256
+Nov 22 00:38:33 pi12 sendmail[69132]: 4ALNcXPp069132: from=<root@pi12>, size=454, class=0, nrcpts=1, msgid=<202411212338.4ALNcXmQ069118@pi12>, proto=ESMTPS, daemon=MTA, relay=localhost.localdomain [127.0.0.1]
+Nov 22 00:38:33 pi12 sendmail[69118]: 4ALNcXmQ069118: to=gr6@bedrift6.d3-101.usn, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=30240, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (4ALNcXPp069132 Message accepted for delivery)
+Nov 22 00:38:33 pi12 sendmail[69134]: STARTTLS=client, relay=mail.bedrift6.d3-101.usn., version=TLSv1.3, verify=FAIL, cipher=TLS_AES_256_GCM_SHA384, bits=256/256
+Nov 22 00:38:33 pi12 sendmail[69134]: 4ALNcXPp069132: to=<gr6@bedrift6.d3-101.usn>, ctladdr=<root@pi12> (0/0), delay=00:00:00, xdelay=00:00:00, mailer=esmtp, pri=120454, relay=mail.bedrift6.d3-101.usn. [192.168.0.5], dsn=2.0.0, stat=Sent (Ok: queued as 87FC2C0894E5)
+Nov 22 02:00:24 pi12 sendmail[69712]: My unqualified host name (pi12) unknown; sleeping for retry
+Nov 22 02:01:24 pi12 sendmail[69712]: unable to qualify my own domain name (pi12) -- using short name
+Nov 22 02:01:24 pi12 sendmail[69712]: 4AM11OFF069712: from=root, size=1219, class=0, nrcpts=1, msgid=<202411220101.4AM11OFF069712@pi12>, relay=root@localhost
+Nov 22 02:01:24 pi12 sendmail[69712]: STARTTLS=client, relay=[127.0.0.1], version=TLSv1.3, verify=FAIL, cipher=TLS_AES_256_GCM_SHA384, bits=256/256
+Nov 22 02:01:24 pi12 sendmail[69730]: STARTTLS=server, relay=localhost.localdomain [127.0.0.1], version=TLSv1.3, verify=NOT, cipher=TLS_AES_256_GCM_SHA384, bits=256/256
+Nov 22 02:01:24 pi12 sendmail[69730]: 4AM11Ovc069730: from=<root@pi12>, size=1433, class=0, nrcpts=1, msgid=<202411220101.4AM11OFF069712@pi12>, proto=ESMTPS, daemon=MTA, relay=localhost.localdomain [127.0.0.1]
+Nov 22 02:01:24 pi12 sendmail[69712]: 4AM11OFF069712: to=gr6@bedrift6.d3-101.usn, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=relay, pri=31219, relay=[127.0.0.1] [127.0.0.1], dsn=2.0.0, stat=Sent (4AM11Ovc069730 Message accepted for delivery)
+Nov 22 02:01:24 pi12 sendmail[69732]: STARTTLS=client, relay=mail.bedrift6.d3-101.usn., version=TLSv1.3, verify=FAIL, cipher=TLS_AES_256_GCM_SHA384, bits=256/256
+Nov 22 02:01:25 pi12 sendmail[69732]: 4AM11Ovc069730: to=<gr6@bedrift6.d3-101.usn>, ctladdr=<root@pi12> (0/0), delay=00:00:01, xdelay=00:00:01, mailer=esmtp, pri=121433, relay=mail.bedrift6.d3-101.usn. [192.168.0.5], dsn=2.0.0, stat=Sent (Ok: queued as CD5F2C0894E5)

@@ -1,0 +1,1785 @@
+reloading configuration succeeded
+reloading zones succeeded
+all zones loaded
+running
+client @0x7f840c05c0 127.0.0.1#37671 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7f9c119170 10.250.100.140#44293 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9c10a580 10.250.100.140#57270 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c10a580 10.250.100.140#39708 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9c0fb990 10.250.100.140#33957 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c119170 10.250.100.140#41204 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c0fb990 10.250.100.140#43939 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9c119170 10.250.100.140#41353 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c0fb990 10.250.100.140#57589 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9c0fb990 10.250.100.140#43635 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9c119170 10.250.100.140#43453 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c10a580 10.250.100.140#54112 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9c119170 10.250.100.140#52345 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c119170 10.250.100.140#38405 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c10a580 10.250.100.140#56397 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9c10a580 10.250.100.140#37703 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c0fb990 10.250.100.140#50554 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9c10a580 10.250.100.140#57248 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c0fb990 10.250.100.140#44193 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9c0fb990 10.250.100.140#34328 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9c10a580 10.250.100.140#38654 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7f90119170 10.250.100.140#54435 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9010a580 10.250.100.140#49586 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9010a580 10.250.100.140#42038 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9010a580 10.250.100.140#34136 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f90119170 10.250.100.140#32994 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9010a580 10.250.100.140#34132 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f90119170 10.250.100.140#48992 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f9010a580 10.250.100.140#54897 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f9010a580 10.250.100.140#48707 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f90119170 10.250.100.140#33176 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+client @0x7f8800c5b0 10.250.100.140#42926 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f8800c5b0 10.250.100.140#39040 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+client @0x7f84119170 10.250.100.140#38019 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8410a580 10.250.100.140#60053 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f8410a580 10.250.100.140#48455 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f84119170 10.250.100.140#56547 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8410a580 10.250.100.140#53210 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f84119170 10.250.100.140#40343 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f84119170 10.250.100.140#50642 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f84119170 10.250.100.140#42967 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f8410a580 10.250.100.140#57370 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f840fb990 10.250.100.140#48182 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8410a580 10.250.100.140#57625 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f840fb990 10.250.100.140#57663 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8410a580 10.250.100.140#33776 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8410a580 10.250.100.140#51656 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f840fb990 10.250.100.140#54505 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f8410a580 10.250.100.140#49672 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f840fb990 10.250.100.140#48974 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f8410a580 10.250.100.140#54823 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8410a580 10.250.100.140#58124 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f84119170 10.250.100.140#47193 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f84119170 10.250.100.140#53200 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f84119170 10.250.100.140#52815 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8410a580 10.250.100.140#41116 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f840fb990 10.250.100.140#45929 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8410a580 10.250.100.140#56869 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f840fb990 10.250.100.140#57589 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f840fb990 10.250.100.140#57626 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f84119170 10.250.100.140#45691 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f840fb990 10.250.100.140#53261 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f84119170 10.250.100.140#42240 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7f7810a580 10.250.100.140#35183 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#48258 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f7810a580 10.250.100.140#48117 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#58196 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f7810a580 10.250.100.140#59049 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#58333 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f7810a580 10.250.100.140#39079 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#57078 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#32877 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#40006 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#45297 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f780fb990 10.250.100.140#55866 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#58127 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#36573 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#49052 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#42053 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f780fb990 10.250.100.140#37281 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#34036 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#42937 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f7810a580 10.250.100.140#60770 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#40192 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f7810a580 10.250.100.140#33888 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#36327 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f7810a580 10.250.100.140#43178 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f7810a580 10.250.100.140#46426 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#56620 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f7810a580 10.250.100.140#49162 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#34348 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#58723 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f780fb990 10.250.100.140#54411 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#38430 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#51762 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7fb410a580 10.250.100.140#33940 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb4119170 10.250.100.140#53497 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb410a580 10.250.100.140#48252 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb4119170 10.250.100.140#56196 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb410a580 10.250.100.140#33434 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb4119170 10.250.100.140#49994 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb40fb990 10.250.100.140#39259 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb4119170 10.250.100.140#45327 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb40fb990 10.250.100.140#39196 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb4119170 10.250.100.140#44938 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb4119170 10.250.100.140#34717 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb40fb990 10.250.100.140#40231 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb410a580 10.250.100.140#46938 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb40fb990 10.250.100.140#38341 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb40fb990 10.250.100.140#55093 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb410a580 10.250.100.140#51469 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb410a580 10.250.100.140#60831 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb40fb990 10.250.100.140#40182 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb410a580 10.250.100.140#35311 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fb40fb990 10.250.100.140#38987 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb410a580 10.250.100.140#50509 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/AAAA/IN' denied
+client @0x7fb40fb990 10.250.100.140#34143 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fb410a580 10.250.100.140#39778 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/AAAA/IN' denied
+client @0x7fb40fb990 10.250.100.140#59063 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7f7810a580 10.250.100.140#45038 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#42242 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#55039 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f7810a580 10.250.100.140#38193 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f7810a580 10.250.100.140#43660 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#55647 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#48430 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#36841 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f780fb990 10.250.100.140#55499 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#51343 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#35333 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#60392 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#33252 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#54740 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#35769 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#45336 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#49644 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#57683 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#49576 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#35897 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#39299 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#41147 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f780fb990 10.250.100.140#56566 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#44679 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#48118 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#60794 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#34019 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#46332 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f780fb990 10.250.100.140#50843 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#57057 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f780fb990 10.250.100.140#59326 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#50018 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#55060 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f78119170 10.250.100.140#53102 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f78119170 10.250.100.140#51231 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f780fb990 10.250.100.140#46070 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+listening on IPv4 interface eth0, 192.168.0.2#53
+client @0x7fa002af40 10.250.100.140#33512 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa001c4c0 10.250.100.140#59911 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa002af40 10.250.100.140#54948 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa002af40 10.250.100.140#52864 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa002af40 10.250.100.140#36958 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa00013e0 10.250.100.140#52430 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa002af40 10.250.100.140#36892 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa00013e0 10.250.100.140#39996 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa00013e0 10.250.100.140#55197 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa001c4c0 10.250.100.140#59383 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7f74119170 10.250.100.140#49730 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+client @0x7f740fb990 10.250.100.140#34119 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f6000b8f0 10.250.100.140#59432 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f6000b8f0 10.250.100.140#41731 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f740fb990 10.250.100.140#33465 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f7410a580 10.250.100.140#46715 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f740fb990 10.250.100.140#45939 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f7410a580 10.250.100.140#34668 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f740fb990 10.250.100.140#33768 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f740fb990 10.250.100.140#57960 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f7410a580 10.250.100.140#39644 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+resolver priming query complete
+client @0x7f6000b8f0 10.250.100.140#58070 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f6c001bc0 10.250.100.140#36714 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f6c001bc0 10.250.100.140#33547 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f6c001bc0 10.250.100.140#51627 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f74119170 10.250.100.140#57297 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f6000b8f0 10.250.100.140#51547 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f6000b8f0 10.250.100.140#40077 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f74119170 10.250.100.140#55976 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/AAAA/IN' denied
+client @0x7f6000b8f0 10.250.100.140#35836 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f6c001bc0 10.250.100.140#42266 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:500:2d::d#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:7fe::53#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:500:a8::e#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:dc3::35#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:500:9f::42#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:500:2f::f#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:500:12::d0d#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2801:1b8:10::b#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:500:2::c#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:500:1::53#53
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving 'bedrift6.d3-101.usn/MX/IN': 2001:7fd::1#53
+client @0x7f6c001bc0 10.250.100.140#38522 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/A/IN' denied
+client @0x7f740fb990 10.250.100.140#36639 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f6000b8f0 10.250.100.140#51161 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f740fb990 10.250.100.140#54899 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f6c001bc0 10.250.100.140#35170 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7fa8119170 10.250.100.140#53287 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa810a580 10.250.100.140#52886 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa8119170 10.250.100.140#58433 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa810a580 10.250.100.140#42078 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+client @0x7fa80fb990 10.250.100.140#42964 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0001bc0 10.250.100.140#37696 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa80fb990 10.250.100.140#60210 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa0001bc0 10.250.100.140#54575 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0001bc0 10.250.100.140#48306 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa80fb990 10.250.100.140#36908 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0001bc0 10.250.100.140#55564 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa80fb990 10.250.100.140#53636 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa0001bc0 10.250.100.140#56403 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa80fb990 10.250.100.140#41875 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa80fb990 10.250.100.140#41512 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa0001bc0 10.250.100.140#54260 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0001bc0 10.250.100.140#33280 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa80fb990 10.250.100.140#49463 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa80fb990 10.250.100.140#57301 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa8119170 10.250.100.140#44923 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa8119170 10.250.100.140#52175 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa80fb990 10.250.100.140#34454 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa8119170 10.250.100.140#41026 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0001bc0 10.250.100.140#40977 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa8119170 10.250.100.140#43632 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0001bc0 10.250.100.140#43700 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa8119170 10.250.100.140#47845 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0001bc0 10.250.100.140#57724 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa8119170 10.250.100.140#43102 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0001bc0 10.250.100.140#49233 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa0001bc0 10.250.100.140#51434 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa8119170 10.250.100.140#46580 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0001bc0 10.250.100.140#33366 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa80fb990 10.250.100.140#42795 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa0001bc0 10.250.100.140#47346 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa80fb990 10.250.100.140#43866 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7fa4119170 10.250.100.140#46072 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa410a580 10.250.100.140#53902 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa410a580 10.250.100.140#45818 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa4119170 10.250.100.140#34583 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa410a580 10.250.100.140#35646 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa4119170 10.250.100.140#38619 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa4119170 10.250.100.140#52910 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa410a580 10.250.100.140#34508 (mail.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'mail.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa410a580 10.250.100.140#37834 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa4119170 10.250.100.140#60268 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa4119170 10.250.100.140#33132 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa40fb990 10.250.100.140#45735 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa410a580 10.250.100.140#50887 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa40fb990 10.250.100.140#50053 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa410a580 10.250.100.140#44606 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa40fb990 10.250.100.140#39948 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa410a580 10.250.100.140#41713 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa40fb990 10.250.100.140#42805 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa410a580 10.250.100.140#37092 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa40fb990 10.250.100.140#33524 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa410a580 10.250.100.140#56959 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa40fb990 10.250.100.140#36442 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa40fb990 10.250.100.140#51832 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa410a580 10.250.100.140#56846 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa4119170 10.250.100.140#47928 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa410a580 10.250.100.140#33772 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa410a580 10.250.100.140#35232 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa4119170 10.250.100.140#54454 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa40fb990 10.250.100.140#49772 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa4119170 10.250.100.140#40244 (bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7fa010a580 10.250.100.140#51881 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa0119170 10.250.100.140#42666 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa010a580 10.250.100.140#44367 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0119170 10.250.100.140#44962 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa010a580 10.250.100.140#45897 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7fa0119170 10.250.100.140#48008 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa0119170 10.250.100.140#59855 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7fa010a580 10.250.100.140#39934 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+resolver priming query complete
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone ekstern.bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+zone intern.bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+all zones loaded
+running
+client @0x7f80119170 10.250.100.140#39832 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8010a580 10.250.100.140#52861 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f80119170 10.250.100.140#60132 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f8010a580 10.250.100.140#56670 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+client @0x7f800fb990 10.250.100.140#36090 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f80043e70 10.250.100.140#37829 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+client @0x7f8010a580 10.250.100.140#42798 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+resolver priming query complete
+client @0x7f8010a580 10.250.100.140#57873 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f8010a580 10.250.100.140#53514 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+client @0x7f8010a580 10.250.100.140#46307 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:dc3::35#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2::c#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:1::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving 'www.bedrift6.d3-101.usn/A/IN': 2001:500:2d::d#53
+resolver priming query complete
+client @0x7f80043e70 10.250.100.140#59005 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/TYPE65/IN' denied
+client @0x7f800fb990 10.250.100.140#40433 (www.bedrift6.d3-101.usn): view eksternt_nett: query (cache) 'www.bedrift6.d3-101.usn/A/IN' denied
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+received control channel command 'stop'
+shutting down: flushing changes
+stopping command channel on 127.0.0.1#953
+stopping command channel on ::1#953
+no longer listening on ::#53
+no longer listening on 127.0.0.1#53
+no longer listening on 192.168.0.2#53
+exiting
+managed-keys-zone/internt_nett: loaded serial 0
+managed-keys-zone/eksternt_nett: loaded serial 0
+zone bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+zone bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+all zones loaded
+running
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+timed out resolving 'google.com/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:7fd::1#53
+timed out resolving 'google.com/A/IN': 10.250.0.5#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'google.com/A/IN': 2001:dc3::35#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'google.com/A/IN': 2001:7fd::1#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'google.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'google.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'google.com/A/IN': 2001:500:2::c#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'google.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'google.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'google.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'google.com/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'google.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'google.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'google.com/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'google.com/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'google.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'google.com/A/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+timed out resolving 'mirrors.hostiserver.com/A/IN': 10.250.0.5#53
+timed out resolving 'mirrors.hostiserver.com/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:500:1::53#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:7fe::53#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving 'mirrors.hostiserver.com/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'mirrors.hostiserver.com/AAAA/IN': 2001:500:a8::e#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+timed out resolving 'quantum-mirror.hu/A/IN': 10.250.0.5#53
+timed out resolving 'quantum-mirror.hu/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:500:2::c#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:7fd::1#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:500:a8::e#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:500:1::53#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:dc3::35#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'quantum-mirror.hu/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'quantum-mirror.hu/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+timed out resolving 'api.wordpress.org/AAAA/IN': 10.250.0.5#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:500:a8::e#53
+timed out resolving 'api.wordpress.org/A/IN': 10.250.0.5#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:dc3::35#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:500:a8::e#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:500:2f::f#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:dc3::35#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:500:2f::f#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:500:2::c#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:500:1::53#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:500:2::c#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:500:9f::42#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:500:1::53#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:500:2d::d#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:500:9f::42#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2801:1b8:10::b#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:500:2d::d#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:500:12::d0d#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2801:1b8:10::b#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:500:12::d0d#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:7fe::53#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:503:c27::2:30#53
+network unreachable resolving 'api.wordpress.org/AAAA/IN': 2001:7fd::1#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:7fe::53#53
+network unreachable resolving 'api.wordpress.org/A/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+network unreachable resolving './NS/IN': 2001:500:2f::f#53
+network unreachable resolving './NS/IN': 2001:7fd::1#53
+network unreachable resolving './NS/IN': 2001:500:2d::d#53
+network unreachable resolving './NS/IN': 2001:7fe::53#53
+network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+network unreachable resolving './NS/IN': 2001:500:a8::e#53
+network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+network unreachable resolving './NS/IN': 2001:500:2::c#53
+network unreachable resolving './NS/IN': 2001:500:1::53#53
+network unreachable resolving './NS/IN': 2001:500:9f::42#53
+network unreachable resolving './NS/IN': 2001:dc3::35#53
+resolver priming query complete
+received control channel command 'reload'
+loading configuration from '/etc/named.conf'
+unable to open '/etc/bind.keys'; using built-in keys instead
+looking for GeoIP2 databases in '/usr/share/GeoIP'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-Country.mmdb'
+opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-City.mmdb'
+using default UDP/IPv4 port range: [32768, 60999]
+using default UDP/IPv6 port range: [32768, 60999]
+sizing zone task pool based on 2 zones
+none:106: 'max-cache-size 90%' - setting to 3414MB (out of 3794MB)
+automatic empty zone: view internt_nett: 10.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 16.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 17.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 18.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 19.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 20.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 21.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 22.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 23.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 24.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 25.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 26.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 27.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 28.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 29.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 30.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 31.172.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 168.192.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 64.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 65.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 66.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 67.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 68.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 69.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 70.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 71.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 72.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 73.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 74.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 75.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 76.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 77.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 78.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 79.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 80.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 81.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 82.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 83.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 84.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 85.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 86.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 87.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 88.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 89.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 90.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 91.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 92.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 93.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 94.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 95.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 96.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 97.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 98.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 99.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 100.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 101.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 102.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 103.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 104.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 105.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 106.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 107.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 108.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 109.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 110.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 111.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 112.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 113.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 114.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 115.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 116.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 117.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 118.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 119.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 120.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 121.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 122.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 123.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 124.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 125.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 126.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 127.100.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 0.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 127.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 254.169.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 2.0.192.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 100.51.198.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 113.0.203.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 255.255.255.255.IN-ADDR.ARPA
+automatic empty zone: view internt_nett: 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+automatic empty zone: view internt_nett: 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+automatic empty zone: view internt_nett: D.F.IP6.ARPA
+automatic empty zone: view internt_nett: 8.E.F.IP6.ARPA
+automatic empty zone: view internt_nett: 9.E.F.IP6.ARPA
+automatic empty zone: view internt_nett: A.E.F.IP6.ARPA
+automatic empty zone: view internt_nett: B.E.F.IP6.ARPA
+automatic empty zone: view internt_nett: 8.B.D.0.1.0.0.2.IP6.ARPA
+automatic empty zone: view internt_nett: EMPTY.AS112.ARPA
+automatic empty zone: view internt_nett: HOME.ARPA
+none:106: 'max-cache-size 90%' - setting to 3414MB (out of 3794MB)
+none:106: 'max-cache-size 90%' - setting to 3414MB (out of 3794MB)
+configuring command channel from '/etc/rndc.key'
+configuring command channel from '/etc/rndc.key'

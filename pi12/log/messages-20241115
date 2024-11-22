@@ -1,0 +1,1121 @@
+Jun 22 14:31:01 pi12 named[349]: zone bedrift6.d3-101.usn/IN/internt_nett: zone serial (2024102901) unchanged. zone may fail to transfer to slaves.
+Jun 22 14:31:01 pi12 named[349]: zone bedrift6.d3-101.usn/IN/internt_nett: loaded serial 2024102901
+Jun 22 14:31:01 pi12 named[349]: zone bedrift6.d3-101.usn/IN/eksternt_nett: zone serial (2024102901) unchanged. zone may fail to transfer to slaves.
+Jun 22 14:31:01 pi12 named[349]: zone bedrift6.d3-101.usn/IN/eksternt_nett: loaded serial 2024102901
+Jun 22 14:31:01 pi12 named[349]: zone 0.168.192.in-addr-arpa/IN/internt_nett: zone serial (2024102901) unchanged. zone may fail to transfer to slaves.
+Jun 22 14:31:01 pi12 named[349]: zone 0.168.192.in-addr-arpa/IN/internt_nett: loaded serial 2024102901
+Jun 22 14:31:01 pi12 named[349]: all zones loaded
+Jun 22 14:31:01 pi12 named[349]: running
+Jun 22 14:31:01 pi12 logrotate[618]: ALERT exited abnormally with [1]
+Jun 22 14:34:38 pi12 NetworkManager[310]: <info>  [1529670878.1857] device (wlan0): set-hw-addr: set MAC address to CA:F6:80:A8:C0:9D (scanning)
+Jun 22 14:34:38 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 14:34:38 pi12 NetworkManager[310]: <info>  [1529670878.1908] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 14:34:38 pi12 NetworkManager[310]: <info>  [1529670878.1909] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 14:34:38 pi12 NetworkManager[310]: <info>  [1529670878.1927] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 14:34:38 pi12 NetworkManager[310]: <info>  [1529670878.1928] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 14:40:31 pi12 chronyd[288]: Source 152.65.32.101 replaced with 185.175.56.208 (2.rocky.pool.ntp.org)
+Jun 22 14:41:01 pi12 rsyslogd[475]: [origin software="rsyslogd" swVersion="8.2102.0-15.el8" x-pid="475" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+Jun 22 14:41:32 pi12 NetworkManager[310]: <info>  [1529671292.1361] device (wlan0): set-hw-addr: set MAC address to FE:F8:CD:B1:84:4A (scanning)
+Jun 22 14:41:32 pi12 NetworkManager[310]: <info>  [1529671292.1402] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 14:41:32 pi12 NetworkManager[310]: <info>  [1529671292.1403] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 14:41:32 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 14:41:32 pi12 NetworkManager[310]: <info>  [1529671292.1433] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 14:41:32 pi12 NetworkManager[310]: <info>  [1529671292.1435] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 14:48:25 pi12 NetworkManager[310]: <info>  [1529671705.1599] device (wlan0): set-hw-addr: set MAC address to 9E:CF:6C:C3:E9:6B (scanning)
+Jun 22 14:48:25 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 14:48:25 pi12 NetworkManager[310]: <info>  [1529671705.1669] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 14:48:25 pi12 NetworkManager[310]: <info>  [1529671705.1673] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 14:48:25 pi12 NetworkManager[310]: <info>  [1529671705.1687] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 14:48:25 pi12 NetworkManager[310]: <info>  [1529671705.1691] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 14:48:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 14:48:45 pi12 named[349]: resolver priming query complete
+Jun 22 14:51:42 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 14:51:47 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 14:51:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 14:51:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 14:51:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 14:51:50 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 14:51:50 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 14:51:50 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 14:51:50 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 14:51:50 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 14:51:50 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 14:51:50 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 14:51:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 14:51:52 pi12 named[349]: resolver priming query complete
+Jun 22 14:55:19 pi12 NetworkManager[310]: <info>  [1529672119.1120] device (wlan0): set-hw-addr: set MAC address to 4E:A9:7B:D4:27:56 (scanning)
+Jun 22 14:55:19 pi12 NetworkManager[310]: <info>  [1529672119.1157] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 14:55:19 pi12 NetworkManager[310]: <info>  [1529672119.1158] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 14:55:19 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 14:55:19 pi12 NetworkManager[310]: <info>  [1529672119.1180] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 14:55:19 pi12 NetworkManager[310]: <info>  [1529672119.1182] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 15:02:12 pi12 NetworkManager[310]: <info>  [1529672532.1999] device (wlan0): set-hw-addr: set MAC address to F6:92:CA:96:03:D7 (scanning)
+Jun 22 15:02:12 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 15:02:12 pi12 NetworkManager[310]: <info>  [1529672532.2088] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 15:02:12 pi12 NetworkManager[310]: <info>  [1529672532.2089] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 15:02:12 pi12 NetworkManager[310]: <info>  [1529672532.2117] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 15:02:12 pi12 NetworkManager[310]: <info>  [1529672532.2118] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 15:09:06 pi12 NetworkManager[310]: <info>  [1529672946.1841] device (wlan0): set-hw-addr: set MAC address to CE:86:50:3F:E1:34 (scanning)
+Jun 22 15:09:06 pi12 NetworkManager[310]: <info>  [1529672946.1886] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 15:09:06 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 15:09:06 pi12 NetworkManager[310]: <info>  [1529672946.1888] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 15:09:06 pi12 NetworkManager[310]: <info>  [1529672946.1914] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 15:09:06 pi12 NetworkManager[310]: <info>  [1529672946.1915] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 15:11:59 pi12 chronyd[288]: Source 185.175.56.95 replaced with 185.125.171.196 (2.centos.pool.ntp.org)
+Jun 22 15:16:00 pi12 NetworkManager[310]: <info>  [1529673360.1362] device (wlan0): set-hw-addr: set MAC address to 3E:14:5C:53:5E:20 (scanning)
+Jun 22 15:16:00 pi12 NetworkManager[310]: <info>  [1529673360.1402] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 15:16:00 pi12 NetworkManager[310]: <info>  [1529673360.1404] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 15:16:00 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 15:16:00 pi12 NetworkManager[310]: <info>  [1529673360.1422] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 15:16:00 pi12 NetworkManager[310]: <info>  [1529673360.1423] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 15:22:53 pi12 NetworkManager[310]: <info>  [1529673773.1279] device (wlan0): set-hw-addr: set MAC address to 92:AE:8E:A0:12:93 (scanning)
+Jun 22 15:22:53 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 15:22:53 pi12 NetworkManager[310]: <info>  [1529673773.1329] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 15:22:53 pi12 NetworkManager[310]: <info>  [1529673773.1331] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 15:22:53 pi12 NetworkManager[310]: <info>  [1529673773.1350] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 15:22:53 pi12 NetworkManager[310]: <info>  [1529673773.1351] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 15:27:34 pi12 systemd[1]: Starting dnf makecache...
+Jun 22 15:27:35 pi12 dnf[675]: Metadata cache refreshed recently.
+Jun 22 15:27:35 pi12 systemd[1]: dnf-makecache.service: Succeeded.
+Jun 22 15:27:35 pi12 systemd[1]: Started dnf makecache.
+Jun 22 15:29:46 pi12 NetworkManager[310]: <info>  [1529674186.1199] device (wlan0): set-hw-addr: set MAC address to DE:04:F9:84:E0:45 (scanning)
+Jun 22 15:29:46 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 15:29:46 pi12 NetworkManager[310]: <info>  [1529674186.1249] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 15:29:46 pi12 NetworkManager[310]: <info>  [1529674186.1250] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 15:29:46 pi12 NetworkManager[310]: <info>  [1529674186.1270] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 15:29:46 pi12 NetworkManager[310]: <info>  [1529674186.1271] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 15:36:39 pi12 NetworkManager[310]: <info>  [1529674599.2082] device (wlan0): set-hw-addr: set MAC address to FE:9E:1B:72:C0:E2 (scanning)
+Jun 22 15:36:39 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 15:36:39 pi12 NetworkManager[310]: <info>  [1529674599.2151] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 15:36:39 pi12 NetworkManager[310]: <info>  [1529674599.2153] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 15:36:39 pi12 NetworkManager[310]: <info>  [1529674599.2170] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 15:36:39 pi12 NetworkManager[310]: <info>  [1529674599.2171] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 15:43:33 pi12 NetworkManager[310]: <info>  [1529675013.0961] device (wlan0): set-hw-addr: set MAC address to 62:3D:A2:B8:5A:00 (scanning)
+Jun 22 15:43:33 pi12 NetworkManager[310]: <info>  [1529675013.1003] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 15:43:33 pi12 NetworkManager[310]: <info>  [1529675013.1004] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 15:43:33 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 15:43:33 pi12 NetworkManager[310]: <info>  [1529675013.1022] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 15:43:33 pi12 NetworkManager[310]: <info>  [1529675013.1024] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 15:49:28 pi12 chronyd[288]: Source 80.203.110.169 replaced with 152.65.32.101 (2.rocky.pool.ntp.org)
+Jun 22 15:50:26 pi12 NetworkManager[310]: <info>  [1529675426.1519] device (wlan0): set-hw-addr: set MAC address to CE:29:91:BF:A3:B2 (scanning)
+Jun 22 15:50:26 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 15:50:26 pi12 NetworkManager[310]: <info>  [1529675426.1555] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 15:50:26 pi12 NetworkManager[310]: <info>  [1529675426.1556] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 15:50:26 pi12 NetworkManager[310]: <info>  [1529675426.1581] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 15:50:26 pi12 NetworkManager[310]: <info>  [1529675426.1583] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 15:57:20 pi12 NetworkManager[310]: <info>  [1529675840.2001] device (wlan0): set-hw-addr: set MAC address to AA:3A:B7:77:70:5E (scanning)
+Jun 22 15:57:20 pi12 NetworkManager[310]: <info>  [1529675840.2047] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 15:57:20 pi12 NetworkManager[310]: <info>  [1529675840.2048] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 15:57:20 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 15:57:20 pi12 NetworkManager[310]: <info>  [1529675840.2064] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 15:57:20 pi12 NetworkManager[310]: <info>  [1529675840.2065] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 16:04:14 pi12 NetworkManager[310]: <info>  [1529676254.1842] device (wlan0): set-hw-addr: set MAC address to CA:BE:B7:0F:61:25 (scanning)
+Jun 22 16:04:14 pi12 NetworkManager[310]: <info>  [1529676254.1878] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 16:04:14 pi12 NetworkManager[310]: <info>  [1529676254.1879] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 16:04:14 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 16:04:14 pi12 NetworkManager[310]: <info>  [1529676254.1902] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 16:04:14 pi12 NetworkManager[310]: <info>  [1529676254.1903] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 16:06:42 pi12 chronyd[288]: Source 91.189.182.32 replaced with 185.181.61.91 (2.rocky.pool.ntp.org)
+Jun 22 16:11:08 pi12 NetworkManager[310]: <info>  [1529676668.2002] device (wlan0): set-hw-addr: set MAC address to 9E:89:2E:AA:3A:00 (scanning)
+Jun 22 16:11:08 pi12 NetworkManager[310]: <info>  [1529676668.2038] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 16:11:08 pi12 NetworkManager[310]: <info>  [1529676668.2040] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 16:11:08 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 16:11:08 pi12 NetworkManager[310]: <info>  [1529676668.2065] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 16:11:08 pi12 NetworkManager[310]: <info>  [1529676668.2067] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 16:17:53 pi12 chronyd[288]: Source 185.125.171.196 replaced with 185.35.202.223 (2.centos.pool.ntp.org)
+Jun 22 16:18:02 pi12 NetworkManager[310]: <info>  [1529677082.0880] device (wlan0): set-hw-addr: set MAC address to 8E:DB:4C:07:10:F2 (scanning)
+Jun 22 16:18:02 pi12 NetworkManager[310]: <info>  [1529677082.0916] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 16:18:02 pi12 NetworkManager[310]: <info>  [1529677082.0918] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 16:18:02 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 16:18:02 pi12 NetworkManager[310]: <info>  [1529677082.0942] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 16:18:02 pi12 NetworkManager[310]: <info>  [1529677082.0943] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 16:24:55 pi12 NetworkManager[310]: <info>  [1529677495.1118] device (wlan0): set-hw-addr: set MAC address to 2A:4C:E6:1D:6E:8D (scanning)
+Jun 22 16:24:55 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 16:24:55 pi12 NetworkManager[310]: <info>  [1529677495.1152] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 16:24:55 pi12 NetworkManager[310]: <info>  [1529677495.1153] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 16:24:55 pi12 NetworkManager[310]: <info>  [1529677495.1177] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 16:24:55 pi12 NetworkManager[310]: <info>  [1529677495.1178] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 16:31:48 pi12 NetworkManager[310]: <info>  [1529677908.1999] device (wlan0): set-hw-addr: set MAC address to 4A:C1:2B:C4:EF:8C (scanning)
+Jun 22 16:31:48 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 16:31:48 pi12 NetworkManager[310]: <info>  [1529677908.2037] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 16:31:48 pi12 NetworkManager[310]: <info>  [1529677908.2039] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 16:31:48 pi12 NetworkManager[310]: <info>  [1529677908.2062] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 16:31:48 pi12 NetworkManager[310]: <info>  [1529677908.2063] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 16:38:42 pi12 NetworkManager[310]: <info>  [1529678322.1201] device (wlan0): set-hw-addr: set MAC address to 0A:1B:C9:B7:32:51 (scanning)
+Jun 22 16:38:42 pi12 NetworkManager[310]: <info>  [1529678322.1247] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 16:38:42 pi12 NetworkManager[310]: <info>  [1529678322.1248] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 16:38:42 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 16:38:42 pi12 NetworkManager[310]: <info>  [1529678322.1272] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 16:38:42 pi12 NetworkManager[310]: <info>  [1529678322.1274] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 16:45:35 pi12 NetworkManager[310]: <info>  [1529678735.1121] device (wlan0): set-hw-addr: set MAC address to AE:82:72:FA:43:31 (scanning)
+Jun 22 16:45:35 pi12 NetworkManager[310]: <info>  [1529678735.1167] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 16:45:35 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 16:45:35 pi12 NetworkManager[310]: <info>  [1529678735.1169] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 16:45:35 pi12 NetworkManager[310]: <info>  [1529678735.1189] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 16:45:35 pi12 NetworkManager[310]: <info>  [1529678735.1190] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 16:51:12 pi12 chronyd[288]: Source 185.35.202.197 replaced with 51.175.182.153 (2.rocky.pool.ntp.org)
+Jun 22 16:52:28 pi12 NetworkManager[310]: <info>  [1529679148.1360] device (wlan0): set-hw-addr: set MAC address to AE:F7:EF:9B:07:D1 (scanning)
+Jun 22 16:52:28 pi12 NetworkManager[310]: <info>  [1529679148.1396] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 16:52:28 pi12 NetworkManager[310]: <info>  [1529679148.1398] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 16:52:28 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 16:52:28 pi12 NetworkManager[310]: <info>  [1529679148.1424] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 16:52:28 pi12 NetworkManager[310]: <info>  [1529679148.1425] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 16:59:22 pi12 NetworkManager[310]: <info>  [1529679562.1202] device (wlan0): set-hw-addr: set MAC address to 56:50:D8:04:E3:AD (scanning)
+Jun 22 16:59:22 pi12 NetworkManager[310]: <info>  [1529679562.1239] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 16:59:22 pi12 NetworkManager[310]: <info>  [1529679562.1240] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 16:59:22 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 16:59:22 pi12 NetworkManager[310]: <info>  [1529679562.1267] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 16:59:22 pi12 NetworkManager[310]: <info>  [1529679562.1268] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 17:06:15 pi12 NetworkManager[310]: <info>  [1529679975.1761] device (wlan0): set-hw-addr: set MAC address to 7A:45:B5:23:07:2B (scanning)
+Jun 22 17:06:15 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 17:06:15 pi12 NetworkManager[310]: <info>  [1529679975.1803] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 17:06:15 pi12 NetworkManager[310]: <info>  [1529679975.1804] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 17:06:15 pi12 NetworkManager[310]: <info>  [1529679975.1830] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 17:06:15 pi12 NetworkManager[310]: <info>  [1529679975.1831] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 17:13:09 pi12 NetworkManager[310]: <info>  [1529680389.0960] device (wlan0): set-hw-addr: set MAC address to 36:1D:CF:C2:10:42 (scanning)
+Jun 22 17:13:09 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 17:13:09 pi12 NetworkManager[310]: <info>  [1529680389.1002] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 17:13:09 pi12 NetworkManager[310]: <info>  [1529680389.1004] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 17:13:09 pi12 NetworkManager[310]: <info>  [1529680389.1032] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 17:13:09 pi12 NetworkManager[310]: <info>  [1529680389.1033] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 17:16:34 pi12 systemd[1]: Starting dnf makecache...
+Jun 22 17:16:35 pi12 dnf[781]: Metadata cache refreshed recently.
+Jun 22 17:16:35 pi12 systemd[1]: dnf-makecache.service: Succeeded.
+Jun 22 17:16:35 pi12 systemd[1]: Started dnf makecache.
+Jun 22 17:20:02 pi12 NetworkManager[310]: <info>  [1529680802.1200] device (wlan0): set-hw-addr: set MAC address to B6:FD:A2:04:0E:23 (scanning)
+Jun 22 17:20:02 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 17:20:02 pi12 NetworkManager[310]: <info>  [1529680802.1236] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 17:20:02 pi12 NetworkManager[310]: <info>  [1529680802.1237] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 17:20:02 pi12 NetworkManager[310]: <info>  [1529680802.1261] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 17:20:02 pi12 NetworkManager[310]: <info>  [1529680802.1262] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 17:21:44 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 17:21:54 pi12 named[349]: resolver priming query complete
+Jun 22 17:26:55 pi12 NetworkManager[310]: <info>  [1529681215.1121] device (wlan0): set-hw-addr: set MAC address to 92:1B:95:2F:C7:4C (scanning)
+Jun 22 17:26:55 pi12 NetworkManager[310]: <info>  [1529681215.1159] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 17:26:55 pi12 NetworkManager[310]: <info>  [1529681215.1161] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 17:26:55 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 17:26:55 pi12 NetworkManager[310]: <info>  [1529681215.1183] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 17:26:55 pi12 NetworkManager[310]: <info>  [1529681215.1184] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 17:32:40 pi12 chronyd[288]: Source 185.175.56.208 replaced with 79.160.225.150 (2.rocky.pool.ntp.org)
+Jun 22 17:33:48 pi12 NetworkManager[310]: <info>  [1529681628.1042] device (wlan0): set-hw-addr: set MAC address to 46:0F:24:C0:5A:E5 (scanning)
+Jun 22 17:33:48 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 17:33:48 pi12 NetworkManager[310]: <info>  [1529681628.1099] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 17:33:48 pi12 NetworkManager[310]: <info>  [1529681628.1100] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 17:33:48 pi12 NetworkManager[310]: <info>  [1529681628.1118] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 17:33:48 pi12 NetworkManager[310]: <info>  [1529681628.1118] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 17:40:41 pi12 NetworkManager[310]: <info>  [1529682041.1282] device (wlan0): set-hw-addr: set MAC address to 42:78:0E:65:97:92 (scanning)
+Jun 22 17:40:41 pi12 NetworkManager[310]: <info>  [1529682041.1326] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 17:40:41 pi12 NetworkManager[310]: <info>  [1529682041.1327] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 17:40:41 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 17:40:41 pi12 NetworkManager[310]: <info>  [1529682041.1355] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 17:40:41 pi12 NetworkManager[310]: <info>  [1529682041.1357] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 17:47:34 pi12 NetworkManager[310]: <info>  [1529682454.1841] device (wlan0): set-hw-addr: set MAC address to 46:5F:2E:A7:D3:0E (scanning)
+Jun 22 17:47:34 pi12 NetworkManager[310]: <info>  [1529682454.1883] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 17:47:34 pi12 NetworkManager[310]: <info>  [1529682454.1885] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 17:47:34 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 17:47:34 pi12 NetworkManager[310]: <info>  [1529682454.1904] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 17:47:34 pi12 NetworkManager[310]: <info>  [1529682454.1905] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 17:53:49 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 17:53:59 pi12 named[349]: resolver priming query complete
+Jun 22 17:54:28 pi12 NetworkManager[310]: <info>  [1529682868.1359] device (wlan0): set-hw-addr: set MAC address to 1E:B0:D4:3B:A2:3B (scanning)
+Jun 22 17:54:28 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 17:54:28 pi12 NetworkManager[310]: <info>  [1529682868.1396] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 17:54:28 pi12 NetworkManager[310]: <info>  [1529682868.1397] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 17:54:28 pi12 NetworkManager[310]: <info>  [1529682868.1419] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 17:54:28 pi12 NetworkManager[310]: <info>  [1529682868.1420] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 18:01:21 pi12 NetworkManager[310]: <info>  [1529683281.1600] device (wlan0): set-hw-addr: set MAC address to 52:52:5B:AF:51:CD (scanning)
+Jun 22 18:01:21 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 18:01:21 pi12 NetworkManager[310]: <info>  [1529683281.1651] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 18:01:21 pi12 NetworkManager[310]: <info>  [1529683281.1653] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 18:01:21 pi12 NetworkManager[310]: <info>  [1529683281.1676] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 18:01:21 pi12 NetworkManager[310]: <info>  [1529683281.1677] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 18:07:25 pi12 chronyd[288]: Source 193.150.22.36 replaced with 185.125.171.196 (3.centos.pool.ntp.org)
+Jun 22 18:08:15 pi12 NetworkManager[310]: <info>  [1529683695.1442] device (wlan0): set-hw-addr: set MAC address to 4E:DF:BE:0F:2E:A5 (scanning)
+Jun 22 18:08:15 pi12 NetworkManager[310]: <info>  [1529683695.1480] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 18:08:15 pi12 NetworkManager[310]: <info>  [1529683695.1482] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 18:08:15 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 18:08:15 pi12 NetworkManager[310]: <info>  [1529683695.1767] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 18:08:15 pi12 NetworkManager[310]: <info>  [1529683695.1769] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 18:15:09 pi12 NetworkManager[310]: <info>  [1529684109.1600] device (wlan0): set-hw-addr: set MAC address to 32:FE:2E:C0:DF:A7 (scanning)
+Jun 22 18:15:09 pi12 NetworkManager[310]: <info>  [1529684109.1637] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 18:15:09 pi12 NetworkManager[310]: <info>  [1529684109.1639] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 18:15:09 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 18:15:09 pi12 NetworkManager[310]: <info>  [1529684109.1666] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 18:15:09 pi12 NetworkManager[310]: <info>  [1529684109.1667] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 18:22:03 pi12 NetworkManager[310]: <info>  [1529684523.1121] device (wlan0): set-hw-addr: set MAC address to A6:54:7B:67:4B:D6 (scanning)
+Jun 22 18:22:03 pi12 NetworkManager[310]: <info>  [1529684523.1157] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 18:22:03 pi12 NetworkManager[310]: <info>  [1529684523.1158] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 18:22:03 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 18:22:03 pi12 NetworkManager[310]: <info>  [1529684523.1182] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 18:22:03 pi12 NetworkManager[310]: <info>  [1529684523.1183] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 18:24:08 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 18:24:18 pi12 named[349]: resolver priming query complete
+Jun 22 18:28:56 pi12 NetworkManager[310]: <info>  [1529684936.2000] device (wlan0): set-hw-addr: set MAC address to 52:55:6F:8E:EB:32 (scanning)
+Jun 22 18:28:56 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 18:28:56 pi12 NetworkManager[310]: <info>  [1529684936.2055] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 18:28:56 pi12 NetworkManager[310]: <info>  [1529684936.2056] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 18:28:56 pi12 NetworkManager[310]: <info>  [1529684936.2073] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 18:28:56 pi12 NetworkManager[310]: <info>  [1529684936.2074] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 18:35:50 pi12 NetworkManager[310]: <info>  [1529685350.1522] device (wlan0): set-hw-addr: set MAC address to 9A:19:EC:0C:6F:29 (scanning)
+Jun 22 18:35:50 pi12 NetworkManager[310]: <info>  [1529685350.1560] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 18:35:50 pi12 NetworkManager[310]: <info>  [1529685350.1561] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 18:35:50 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 18:35:50 pi12 NetworkManager[310]: <info>  [1529685350.1590] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 18:35:50 pi12 NetworkManager[310]: <info>  [1529685350.1591] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 18:42:44 pi12 NetworkManager[310]: <info>  [1529685764.1039] device (wlan0): set-hw-addr: set MAC address to 9A:CA:76:78:9F:09 (scanning)
+Jun 22 18:42:44 pi12 NetworkManager[310]: <info>  [1529685764.1077] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 18:42:44 pi12 NetworkManager[310]: <info>  [1529685764.1079] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 18:42:44 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 18:42:44 pi12 NetworkManager[310]: <info>  [1529685764.1106] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 18:42:44 pi12 NetworkManager[310]: <info>  [1529685764.1107] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 18:49:37 pi12 NetworkManager[310]: <info>  [1529686177.1920] device (wlan0): set-hw-addr: set MAC address to 76:A6:17:D5:5B:2B (scanning)
+Jun 22 18:49:37 pi12 NetworkManager[310]: <info>  [1529686177.1956] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 18:49:37 pi12 NetworkManager[310]: <info>  [1529686177.1957] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 18:49:37 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 18:49:37 pi12 NetworkManager[310]: <info>  [1529686177.1980] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 18:49:37 pi12 NetworkManager[310]: <info>  [1529686177.1981] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 18:52:25 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 18:52:26 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 18:52:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 18:52:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 18:52:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 18:52:27 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 18:52:27 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 18:52:27 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 18:52:27 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 18:52:27 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 18:52:27 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 18:52:28 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 18:52:31 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 18:52:35 pi12 named[349]: resolver priming query complete
+Jun 22 18:53:37 pi12 chronyd[288]: Source 185.35.202.223 replaced with 91.189.182.32 (2.centos.pool.ntp.org)
+Jun 22 18:56:31 pi12 NetworkManager[310]: <info>  [1529686591.1759] device (wlan0): set-hw-addr: set MAC address to 0A:24:9B:C4:07:CD (scanning)
+Jun 22 18:56:31 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 18:56:31 pi12 NetworkManager[310]: <info>  [1529686591.1810] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 18:56:31 pi12 NetworkManager[310]: <info>  [1529686591.1811] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 18:56:31 pi12 NetworkManager[310]: <info>  [1529686591.1828] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 18:56:31 pi12 NetworkManager[310]: <info>  [1529686591.1829] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 19:03:25 pi12 NetworkManager[310]: <info>  [1529687005.0961] device (wlan0): set-hw-addr: set MAC address to B2:0D:90:F8:8B:75 (scanning)
+Jun 22 19:03:25 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 19:03:25 pi12 NetworkManager[310]: <info>  [1529687005.1017] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 19:03:25 pi12 NetworkManager[310]: <info>  [1529687005.1019] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 19:03:25 pi12 NetworkManager[310]: <info>  [1529687005.1036] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 19:03:25 pi12 NetworkManager[310]: <info>  [1529687005.1037] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 19:06:34 pi12 systemd[1]: Starting dnf makecache...
+Jun 22 19:06:35 pi12 dnf[885]: Metadata cache refreshed recently.
+Jun 22 19:06:35 pi12 systemd[1]: dnf-makecache.service: Succeeded.
+Jun 22 19:06:35 pi12 systemd[1]: Started dnf makecache.
+Jun 22 19:10:18 pi12 NetworkManager[310]: <info>  [1529687418.1521] device (wlan0): set-hw-addr: set MAC address to CA:26:E5:E0:1D:71 (scanning)
+Jun 22 19:10:18 pi12 NetworkManager[310]: <info>  [1529687418.1559] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 19:10:18 pi12 NetworkManager[310]: <info>  [1529687418.1561] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 19:10:18 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 19:10:18 pi12 NetworkManager[310]: <info>  [1529687418.1579] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 19:10:18 pi12 NetworkManager[310]: <info>  [1529687418.1581] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 19:17:12 pi12 NetworkManager[310]: <info>  [1529687832.1041] device (wlan0): set-hw-addr: set MAC address to 5A:6B:9B:17:C2:EF (scanning)
+Jun 22 19:17:12 pi12 NetworkManager[310]: <info>  [1529687832.1082] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 19:17:12 pi12 NetworkManager[310]: <info>  [1529687832.1083] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 19:17:12 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 19:17:12 pi12 NetworkManager[310]: <info>  [1529687832.1110] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 19:17:12 pi12 NetworkManager[310]: <info>  [1529687832.1111] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 19:24:05 pi12 NetworkManager[310]: <info>  [1529688245.0961] device (wlan0): set-hw-addr: set MAC address to F6:F3:0D:F3:0C:00 (scanning)
+Jun 22 19:24:05 pi12 NetworkManager[310]: <info>  [1529688245.0998] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 19:24:05 pi12 NetworkManager[310]: <info>  [1529688245.0999] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 19:24:05 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 19:24:05 pi12 NetworkManager[310]: <info>  [1529688245.1024] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 19:24:05 pi12 NetworkManager[310]: <info>  [1529688245.1025] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 19:30:58 pi12 NetworkManager[310]: <info>  [1529688658.1199] device (wlan0): set-hw-addr: set MAC address to AE:20:FF:7A:C8:93 (scanning)
+Jun 22 19:30:58 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 19:30:58 pi12 NetworkManager[310]: <info>  [1529688658.1238] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 19:30:58 pi12 NetworkManager[310]: <info>  [1529688658.1240] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 19:30:58 pi12 NetworkManager[310]: <info>  [1529688658.1269] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 19:30:58 pi12 NetworkManager[310]: <info>  [1529688658.1270] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 19:37:51 pi12 NetworkManager[310]: <info>  [1529689071.1120] device (wlan0): set-hw-addr: set MAC address to D2:46:55:1C:7D:07 (scanning)
+Jun 22 19:37:51 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 19:44:44 pi12 NetworkManager[310]: <info>  [1529689484.1682] device (wlan0): set-hw-addr: set MAC address to 5E:FE:4B:46:D4:84 (scanning)
+Jun 22 19:44:44 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 19:44:44 pi12 NetworkManager[310]: <info>  [1529689484.1731] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 19:44:44 pi12 NetworkManager[310]: <info>  [1529689484.1735] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 19:44:44 pi12 NetworkManager[310]: <info>  [1529689484.1767] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 19:44:44 pi12 NetworkManager[310]: <info>  [1529689484.1768] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 19:46:45 pi12 chronyd[288]: Source 82.148.168.42 replaced with 193.150.22.36 (2.rocky.pool.ntp.org)
+Jun 22 19:51:38 pi12 NetworkManager[310]: <info>  [1529689898.1200] device (wlan0): set-hw-addr: set MAC address to BA:4D:4B:E6:FC:F1 (scanning)
+Jun 22 19:51:38 pi12 NetworkManager[310]: <info>  [1529689898.1243] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 19:51:38 pi12 NetworkManager[310]: <info>  [1529689898.1245] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 19:51:38 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 19:51:38 pi12 NetworkManager[310]: <info>  [1529689898.1273] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 19:51:38 pi12 NetworkManager[310]: <info>  [1529689898.1274] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 19:58:31 pi12 NetworkManager[310]: <info>  [1529690311.2082] device (wlan0): set-hw-addr: set MAC address to 4A:88:05:57:E4:68 (scanning)
+Jun 22 19:58:31 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 19:58:31 pi12 NetworkManager[310]: <info>  [1529690311.2136] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 19:58:31 pi12 NetworkManager[310]: <info>  [1529690311.2138] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 19:58:31 pi12 NetworkManager[310]: <info>  [1529690311.2162] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 19:58:31 pi12 NetworkManager[310]: <info>  [1529690311.2164] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 20:05:25 pi12 NetworkManager[310]: <info>  [1529690725.1279] device (wlan0): set-hw-addr: set MAC address to 7A:65:38:B0:F5:FD (scanning)
+Jun 22 20:05:25 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 20:05:25 pi12 NetworkManager[310]: <info>  [1529690725.1358] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 20:05:25 pi12 NetworkManager[310]: <info>  [1529690725.1362] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 20:05:25 pi12 NetworkManager[310]: <info>  [1529690725.1377] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 20:05:25 pi12 NetworkManager[310]: <info>  [1529690725.1378] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 20:07:20 pi12 chronyd[288]: Source 152.65.32.101 replaced with 162.159.200.123 (2.rocky.pool.ntp.org)
+Jun 22 20:12:18 pi12 NetworkManager[310]: <info>  [1529691138.1522] device (wlan0): set-hw-addr: set MAC address to A6:7C:24:BE:42:B4 (scanning)
+Jun 22 20:12:18 pi12 NetworkManager[310]: <info>  [1529691138.1564] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 20:12:18 pi12 NetworkManager[310]: <info>  [1529691138.1565] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 20:12:18 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 20:12:18 pi12 NetworkManager[310]: <info>  [1529691138.1591] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 20:12:18 pi12 NetworkManager[310]: <info>  [1529691138.1592] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 20:18:34 pi12 systemd[1]: Starting dnf makecache...
+Jun 22 20:18:35 pi12 dnf[949]: Metadata cache refreshed recently.
+Jun 22 20:18:35 pi12 systemd[1]: dnf-makecache.service: Succeeded.
+Jun 22 20:18:35 pi12 systemd[1]: Started dnf makecache.
+Jun 22 20:19:12 pi12 NetworkManager[310]: <info>  [1529691552.1359] device (wlan0): set-hw-addr: set MAC address to 2E:11:C1:F9:27:33 (scanning)
+Jun 22 20:19:12 pi12 NetworkManager[310]: <info>  [1529691552.1402] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 20:19:12 pi12 NetworkManager[310]: <info>  [1529691552.1403] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 20:19:12 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 20:19:12 pi12 NetworkManager[310]: <info>  [1529691552.1425] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 20:19:12 pi12 NetworkManager[310]: <info>  [1529691552.1426] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 20:26:05 pi12 NetworkManager[310]: <info>  [1529691965.1280] device (wlan0): set-hw-addr: set MAC address to 26:0C:7B:8E:4A:38 (scanning)
+Jun 22 20:26:05 pi12 NetworkManager[310]: <info>  [1529691965.1315] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 20:26:05 pi12 NetworkManager[310]: <info>  [1529691965.1316] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 20:26:05 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 20:26:05 pi12 NetworkManager[310]: <info>  [1529691965.1344] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 20:26:05 pi12 NetworkManager[310]: <info>  [1529691965.1346] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 20:32:58 pi12 NetworkManager[310]: <info>  [1529692378.1201] device (wlan0): set-hw-addr: set MAC address to AA:50:DD:8B:DF:C8 (scanning)
+Jun 22 20:32:58 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 20:39:51 pi12 NetworkManager[310]: <info>  [1529692791.1759] device (wlan0): set-hw-addr: set MAC address to 32:E7:E3:BA:73:AF (scanning)
+Jun 22 20:39:51 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 20:39:51 pi12 NetworkManager[310]: <info>  [1529692791.1796] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 20:39:51 pi12 NetworkManager[310]: <info>  [1529692791.1798] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 20:39:51 pi12 NetworkManager[310]: <info>  [1529692791.1823] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 20:39:51 pi12 NetworkManager[310]: <info>  [1529692791.1824] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 20:46:45 pi12 NetworkManager[310]: <info>  [1529693205.0962] device (wlan0): set-hw-addr: set MAC address to AE:53:EE:0F:D7:E8 (scanning)
+Jun 22 20:46:45 pi12 NetworkManager[310]: <info>  [1529693205.0998] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 20:46:45 pi12 NetworkManager[310]: <info>  [1529693205.0999] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 20:46:45 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 20:46:45 pi12 NetworkManager[310]: <info>  [1529693205.1018] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 20:46:45 pi12 NetworkManager[310]: <info>  [1529693205.1019] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 20:53:38 pi12 NetworkManager[310]: <info>  [1529693618.1839] device (wlan0): set-hw-addr: set MAC address to B2:94:66:85:4B:98 (scanning)
+Jun 22 20:53:38 pi12 NetworkManager[310]: <info>  [1529693618.1877] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 20:53:38 pi12 NetworkManager[310]: <info>  [1529693618.1879] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 20:53:38 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 20:53:38 pi12 NetworkManager[310]: <info>  [1529693618.1908] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 20:53:38 pi12 NetworkManager[310]: <info>  [1529693618.1909] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 20:59:25 pi12 chronyd[288]: Source 185.125.171.196 replaced with 79.160.225.13 (3.centos.pool.ntp.org)
+Jun 22 21:00:32 pi12 NetworkManager[310]: <info>  [1529694032.1362] device (wlan0): set-hw-addr: set MAC address to 8E:7B:67:F1:A0:7F (scanning)
+Jun 22 21:00:32 pi12 NetworkManager[310]: <info>  [1529694032.1404] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 21:00:32 pi12 NetworkManager[310]: <info>  [1529694032.1405] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 21:00:32 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 21:00:32 pi12 NetworkManager[310]: <info>  [1529694032.1434] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 21:00:32 pi12 NetworkManager[310]: <info>  [1529694032.1435] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 21:07:25 pi12 NetworkManager[310]: <info>  [1529694445.0960] device (wlan0): set-hw-addr: set MAC address to CE:65:84:94:D0:68 (scanning)
+Jun 22 21:07:25 pi12 NetworkManager[310]: <info>  [1529694445.0995] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 21:07:25 pi12 NetworkManager[310]: <info>  [1529694445.0996] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 21:07:25 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 21:07:25 pi12 NetworkManager[310]: <info>  [1529694445.1018] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 21:07:25 pi12 NetworkManager[310]: <info>  [1529694445.1020] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 21:14:18 pi12 NetworkManager[310]: <info>  [1529694858.1522] device (wlan0): set-hw-addr: set MAC address to 42:9A:14:EA:EA:8B (scanning)
+Jun 22 21:14:18 pi12 NetworkManager[310]: <info>  [1529694858.1562] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 21:14:18 pi12 NetworkManager[310]: <info>  [1529694858.1563] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 21:14:18 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 21:14:18 pi12 NetworkManager[310]: <info>  [1529694858.1592] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 21:14:18 pi12 NetworkManager[310]: <info>  [1529694858.1593] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 21:21:12 pi12 NetworkManager[310]: <info>  [1529695272.1042] device (wlan0): set-hw-addr: set MAC address to 4A:91:02:C2:24:09 (scanning)
+Jun 22 21:21:12 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 21:21:12 pi12 NetworkManager[310]: <info>  [1529695272.1082] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 21:21:12 pi12 NetworkManager[310]: <info>  [1529695272.1084] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 21:21:12 pi12 NetworkManager[310]: <info>  [1529695272.1108] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 21:21:12 pi12 NetworkManager[310]: <info>  [1529695272.1109] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 21:28:05 pi12 NetworkManager[310]: <info>  [1529695685.1280] device (wlan0): set-hw-addr: set MAC address to BE:E1:90:04:41:14 (scanning)
+Jun 22 21:28:05 pi12 NetworkManager[310]: <info>  [1529695685.1319] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 21:28:05 pi12 NetworkManager[310]: <info>  [1529695685.1320] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 21:28:05 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 21:28:05 pi12 NetworkManager[310]: <info>  [1529695685.1341] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 21:28:05 pi12 NetworkManager[310]: <info>  [1529695685.1343] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 21:29:51 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 21:30:01 pi12 named[349]: resolver priming query complete
+Jun 22 21:34:58 pi12 NetworkManager[310]: <info>  [1529696098.1202] device (wlan0): set-hw-addr: set MAC address to 7A:5E:9A:A8:D4:EF (scanning)
+Jun 22 21:34:58 pi12 NetworkManager[310]: <info>  [1529696098.1243] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 21:34:58 pi12 NetworkManager[310]: <info>  [1529696098.1244] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 21:34:58 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 21:34:58 pi12 NetworkManager[310]: <info>  [1529696098.1261] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 21:34:58 pi12 NetworkManager[310]: <info>  [1529696098.1262] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 21:41:51 pi12 NetworkManager[310]: <info>  [1529696511.1119] device (wlan0): set-hw-addr: set MAC address to BE:6F:0D:B7:B3:C9 (scanning)
+Jun 22 21:41:51 pi12 NetworkManager[310]: <info>  [1529696511.1165] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 21:41:51 pi12 NetworkManager[310]: <info>  [1529696511.1167] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 21:41:51 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 21:41:51 pi12 NetworkManager[310]: <info>  [1529696511.1195] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 21:41:51 pi12 NetworkManager[310]: <info>  [1529696511.1197] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 21:48:44 pi12 NetworkManager[310]: <info>  [1529696924.1039] device (wlan0): set-hw-addr: set MAC address to B2:38:F5:DF:87:3B (scanning)
+Jun 22 21:48:44 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 21:48:44 pi12 NetworkManager[310]: <info>  [1529696924.1076] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 21:48:44 pi12 NetworkManager[310]: <info>  [1529696924.1077] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 21:48:44 pi12 NetworkManager[310]: <info>  [1529696924.1103] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 21:48:44 pi12 NetworkManager[310]: <info>  [1529696924.1104] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 21:55:37 pi12 NetworkManager[310]: <info>  [1529697337.1922] device (wlan0): set-hw-addr: set MAC address to BE:C6:2A:E6:29:7E (scanning)
+Jun 22 21:55:37 pi12 NetworkManager[310]: <info>  [1529697337.1962] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 21:55:37 pi12 NetworkManager[310]: <info>  [1529697337.1964] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 21:55:37 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 21:55:37 pi12 NetworkManager[310]: <info>  [1529697337.1989] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 21:55:37 pi12 NetworkManager[310]: <info>  [1529697337.1990] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 22:01:58 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 22:02:08 pi12 named[349]: resolver priming query complete
+Jun 22 22:02:31 pi12 NetworkManager[310]: <info>  [1529697751.1119] device (wlan0): set-hw-addr: set MAC address to 66:3C:A5:D0:5D:63 (scanning)
+Jun 22 22:02:31 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 22:02:31 pi12 NetworkManager[310]: <info>  [1529697751.1163] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 22:02:31 pi12 NetworkManager[310]: <info>  [1529697751.1164] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 22:02:31 pi12 NetworkManager[310]: <info>  [1529697751.1190] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 22:02:31 pi12 NetworkManager[310]: <info>  [1529697751.1191] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:02:42 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 22:02:42 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 22:02:43 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 22:02:45 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 22:02:45 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 22:02:45 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 22:02:45 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 22:02:45 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 22:02:45 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 22:02:47 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 22:02:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 22:02:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 22:02:50 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 22:02:52 pi12 named[349]: resolver priming query complete
+Jun 22 22:05:34 pi12 systemd[1]: Starting dnf makecache...
+Jun 22 22:05:35 pi12 dnf[1048]: Metadata cache refreshed recently.
+Jun 22 22:05:35 pi12 systemd[1]: dnf-makecache.service: Succeeded.
+Jun 22 22:05:35 pi12 systemd[1]: Started dnf makecache.
+Jun 22 22:08:30 pi12 chronyd[288]: Source 185.181.61.91 replaced with 185.125.171.196 (2.rocky.pool.ntp.org)
+Jun 22 22:09:24 pi12 NetworkManager[310]: <info>  [1529698164.1360] device (wlan0): set-hw-addr: set MAC address to CE:D0:A9:E6:89:A6 (scanning)
+Jun 22 22:09:24 pi12 NetworkManager[310]: <info>  [1529698164.1397] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 22:09:24 pi12 NetworkManager[310]: <info>  [1529698164.1398] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 22:09:24 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 22:09:24 pi12 NetworkManager[310]: <info>  [1529698164.1426] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 22:09:24 pi12 NetworkManager[310]: <info>  [1529698164.1428] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:16:18 pi12 NetworkManager[310]: <info>  [1529698578.1842] device (wlan0): set-hw-addr: set MAC address to 66:3D:7E:C3:C1:71 (scanning)
+Jun 22 22:16:18 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 22:16:18 pi12 NetworkManager[310]: <info>  [1529698578.1888] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 22:16:18 pi12 NetworkManager[310]: <info>  [1529698578.1899] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 22:16:18 pi12 NetworkManager[310]: <info>  [1529698578.1909] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 22:16:18 pi12 NetworkManager[310]: <info>  [1529698578.1910] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:23:12 pi12 NetworkManager[310]: <info>  [1529698992.1682] device (wlan0): set-hw-addr: set MAC address to 1E:71:E3:29:97:5D (scanning)
+Jun 22 22:23:12 pi12 NetworkManager[310]: <info>  [1529698992.1721] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 22:23:12 pi12 NetworkManager[310]: <info>  [1529698992.1722] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 22:23:12 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 22:23:12 pi12 NetworkManager[310]: <info>  [1529698992.1742] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 22:23:12 pi12 NetworkManager[310]: <info>  [1529698992.1743] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:30:06 pi12 NetworkManager[310]: <info>  [1529699406.1840] device (wlan0): set-hw-addr: set MAC address to EA:F3:52:1B:7A:BE (scanning)
+Jun 22 22:30:06 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 22:30:06 pi12 NetworkManager[310]: <info>  [1529699406.1876] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 22:30:06 pi12 NetworkManager[310]: <info>  [1529699406.1878] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 22:30:06 pi12 NetworkManager[310]: <info>  [1529699406.1903] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 22:30:06 pi12 NetworkManager[310]: <info>  [1529699406.1908] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 22 22:32:26 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 22 22:32:36 pi12 named[349]: resolver priming query complete
+Jun 22 22:37:00 pi12 NetworkManager[310]: <info>  [1529699820.1040] device (wlan0): set-hw-addr: set MAC address to FE:1A:51:E6:BF:63 (scanning)
+Jun 22 22:37:00 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 22:37:00 pi12 NetworkManager[310]: <info>  [1529699820.1101] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 22:37:00 pi12 NetworkManager[310]: <info>  [1529699820.1110] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 22:37:00 pi12 NetworkManager[310]: <info>  [1529699820.1115] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 22:37:00 pi12 NetworkManager[310]: <info>  [1529699820.1116] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:43:53 pi12 NetworkManager[310]: <info>  [1529700233.0960] device (wlan0): set-hw-addr: set MAC address to 2E:3D:1F:FB:E4:85 (scanning)
+Jun 22 22:43:53 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 22:43:53 pi12 NetworkManager[310]: <info>  [1529700233.1014] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 22:43:53 pi12 NetworkManager[310]: <info>  [1529700233.1015] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 22:43:53 pi12 NetworkManager[310]: <info>  [1529700233.1036] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 22:43:53 pi12 NetworkManager[310]: <info>  [1529700233.1037] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:50:46 pi12 NetworkManager[310]: <info>  [1529700646.1842] device (wlan0): set-hw-addr: set MAC address to 4A:10:BB:BC:EA:2F (scanning)
+Jun 22 22:50:46 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 22:50:46 pi12 NetworkManager[310]: <info>  [1529700646.1912] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 22:50:46 pi12 NetworkManager[310]: <info>  [1529700646.1914] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 22:50:46 pi12 NetworkManager[310]: <info>  [1529700646.1919] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 22:50:46 pi12 NetworkManager[310]: <info>  [1529700646.1920] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:57:40 pi12 NetworkManager[310]: <info>  [1529701060.1361] device (wlan0): set-hw-addr: set MAC address to B6:CB:E9:AA:E7:DE (scanning)
+Jun 22 22:57:40 pi12 NetworkManager[310]: <info>  [1529701060.1400] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 22:57:40 pi12 NetworkManager[310]: <info>  [1529701060.1401] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 22:57:40 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 22:57:40 pi12 NetworkManager[310]: <info>  [1529701060.1426] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 22:57:40 pi12 NetworkManager[310]: <info>  [1529701060.1428] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 22:59:54 pi12 chronyd[288]: Source 162.159.200.123 replaced with 185.175.56.208 (2.rocky.pool.ntp.org)
+Jun 22 23:04:33 pi12 NetworkManager[310]: <info>  [1529701473.1920] device (wlan0): set-hw-addr: set MAC address to 92:BF:A0:A3:85:0D (scanning)
+Jun 22 23:04:33 pi12 NetworkManager[310]: <info>  [1529701473.1957] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 23:04:33 pi12 NetworkManager[310]: <info>  [1529701473.1958] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 23:04:33 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 23:04:33 pi12 NetworkManager[310]: <info>  [1529701473.1987] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 23:04:33 pi12 NetworkManager[310]: <info>  [1529701473.1989] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 23:11:27 pi12 NetworkManager[310]: <info>  [1529701887.1759] device (wlan0): set-hw-addr: set MAC address to 32:A0:41:0D:9B:67 (scanning)
+Jun 22 23:11:27 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 23:11:27 pi12 NetworkManager[310]: <info>  [1529701887.1826] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 23:11:27 pi12 NetworkManager[310]: <info>  [1529701887.1827] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 23:11:27 pi12 NetworkManager[310]: <info>  [1529701887.1844] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 23:11:27 pi12 NetworkManager[310]: <info>  [1529701887.1845] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 23:18:21 pi12 NetworkManager[310]: <info>  [1529702301.1282] device (wlan0): set-hw-addr: set MAC address to 8A:53:4D:B8:E0:81 (scanning)
+Jun 22 23:18:21 pi12 NetworkManager[310]: <info>  [1529702301.1324] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 23:18:21 pi12 NetworkManager[310]: <info>  [1529702301.1325] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 23:18:21 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 23:18:21 pi12 NetworkManager[310]: <info>  [1529702301.1344] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 23:18:21 pi12 NetworkManager[310]: <info>  [1529702301.1345] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 23:21:43 pi12 chronyd[288]: Source 162.159.200.1 replaced with 185.175.56.95 (2.rocky.pool.ntp.org)
+Jun 22 23:25:14 pi12 NetworkManager[310]: <info>  [1529702714.1839] device (wlan0): set-hw-addr: set MAC address to CA:AA:0B:87:12:D7 (scanning)
+Jun 22 23:25:14 pi12 NetworkManager[310]: <info>  [1529702714.1881] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 23:25:14 pi12 NetworkManager[310]: <info>  [1529702714.1882] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 23:25:14 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 23:25:14 pi12 NetworkManager[310]: <info>  [1529702714.1909] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 23:25:14 pi12 NetworkManager[310]: <info>  [1529702714.1910] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 23:32:08 pi12 NetworkManager[310]: <info>  [1529703128.1681] device (wlan0): set-hw-addr: set MAC address to 66:61:57:D7:95:A8 (scanning)
+Jun 22 23:32:08 pi12 NetworkManager[310]: <info>  [1529703128.1721] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 23:32:08 pi12 NetworkManager[310]: <info>  [1529703128.1723] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 23:32:08 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 23:32:08 pi12 NetworkManager[310]: <info>  [1529703128.1749] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 23:32:08 pi12 NetworkManager[310]: <info>  [1529703128.1750] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 23:35:34 pi12 systemd[1]: Starting dnf makecache...
+Jun 22 23:35:35 pi12 dnf[1124]: Metadata cache refreshed recently.
+Jun 22 23:35:35 pi12 systemd[1]: dnf-makecache.service: Succeeded.
+Jun 22 23:35:35 pi12 systemd[1]: Started dnf makecache.
+Jun 22 23:39:02 pi12 NetworkManager[310]: <info>  [1529703542.1843] device (wlan0): set-hw-addr: set MAC address to 96:A6:50:02:C3:78 (scanning)
+Jun 22 23:39:02 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 23:39:02 pi12 NetworkManager[310]: <info>  [1529703542.1894] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 23:39:02 pi12 NetworkManager[310]: <info>  [1529703542.1896] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 23:39:02 pi12 NetworkManager[310]: <info>  [1529703542.1902] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 23:39:02 pi12 NetworkManager[310]: <info>  [1529703542.1903] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 23:45:56 pi12 NetworkManager[310]: <info>  [1529703956.1361] device (wlan0): set-hw-addr: set MAC address to 06:60:E3:E9:06:A7 (scanning)
+Jun 22 23:45:56 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 23:45:56 pi12 NetworkManager[310]: <info>  [1529703956.1428] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 23:45:56 pi12 NetworkManager[310]: <info>  [1529703956.1429] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 23:45:56 pi12 NetworkManager[310]: <info>  [1529703956.1447] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 23:45:56 pi12 NetworkManager[310]: <info>  [1529703956.1448] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 23:47:54 pi12 chronyd[288]: Source 193.150.22.36 replaced with 152.65.32.101 (2.rocky.pool.ntp.org)
+Jun 22 23:52:49 pi12 NetworkManager[310]: <info>  [1529704369.1600] device (wlan0): set-hw-addr: set MAC address to 8E:4C:42:4E:65:15 (scanning)
+Jun 22 23:52:49 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 23:52:49 pi12 NetworkManager[310]: <info>  [1529704369.1667] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 23:52:49 pi12 NetworkManager[310]: <info>  [1529704369.1668] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 23:52:49 pi12 NetworkManager[310]: <info>  [1529704369.1688] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 23:52:49 pi12 NetworkManager[310]: <info>  [1529704369.1689] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 22 23:59:43 pi12 NetworkManager[310]: <info>  [1529704783.2081] device (wlan0): set-hw-addr: set MAC address to 92:56:E0:E3:4D:6D (scanning)
+Jun 22 23:59:43 pi12 NetworkManager[310]: <info>  [1529704783.2116] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 22 23:59:43 pi12 NetworkManager[310]: <info>  [1529704783.2118] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 22 23:59:43 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 22 23:59:43 pi12 NetworkManager[310]: <info>  [1529704783.2148] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 22 23:59:43 pi12 NetworkManager[310]: <info>  [1529704783.2149] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 23 00:00:34 pi12 systemd[1]: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Jun 23 00:00:48 pi12 systemd[1]: unbound-anchor.service: Succeeded.
+Jun 23 00:00:48 pi12 systemd[1]: Started update of the root trust anchor for DNSSEC validation in unbound.
+Jun 23 00:06:37 pi12 NetworkManager[310]: <info>  [1529705197.0962] device (wlan0): set-hw-addr: set MAC address to CA:25:D4:00:67:5E (scanning)
+Jun 23 00:06:37 pi12 NetworkManager[310]: <info>  [1529705197.1004] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 23 00:06:37 pi12 NetworkManager[310]: <info>  [1529705197.1005] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 23 00:06:37 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 23 00:06:37 pi12 NetworkManager[310]: <info>  [1529705197.1021] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 23 00:06:37 pi12 NetworkManager[310]: <info>  [1529705197.1022] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 23 00:08:43 pi12 systemd[1]: Created slice User Slice of UID 0.
+Jun 23 00:08:43 pi12 systemd[1]: Starting User runtime directory /run/user/0...
+Jun 23 00:08:43 pi12 systemd-logind[278]: New session 1 of user root.
+Jun 23 00:08:43 pi12 systemd[1]: Started User runtime directory /run/user/0.
+Jun 23 00:08:43 pi12 systemd[1]: Starting User Manager for UID 0...
+Jun 23 00:08:43 pi12 systemd[1174]: Starting D-Bus User Message Bus Socket.
+Jun 23 00:08:44 pi12 systemd[1174]: Reached target Timers.
+Jun 23 00:08:44 pi12 systemd[1174]: Reached target Paths.
+Jun 23 00:08:44 pi12 systemd[1174]: Listening on D-Bus User Message Bus Socket.
+Jun 23 00:08:44 pi12 systemd[1174]: Reached target Sockets.
+Jun 23 00:08:44 pi12 systemd[1174]: Reached target Basic System.
+Jun 23 00:08:44 pi12 systemd[1174]: Reached target Default.
+Jun 23 00:08:44 pi12 systemd[1174]: Startup finished in 212ms.
+Jun 23 00:08:44 pi12 systemd[1]: Started User Manager for UID 0.
+Jun 23 00:08:44 pi12 systemd[1]: Started Session 1 of user root.
+Jun 23 00:13:30 pi12 NetworkManager[310]: <info>  [1529705610.1842] device (wlan0): set-hw-addr: set MAC address to BA:B3:46:14:91:3B (scanning)
+Jun 23 00:13:30 pi12 NetworkManager[310]: <info>  [1529705610.1880] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 23 00:13:30 pi12 NetworkManager[310]: <info>  [1529705610.1881] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 23 00:13:30 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 23 00:13:30 pi12 NetworkManager[310]: <info>  [1529705610.1903] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 23 00:13:30 pi12 NetworkManager[310]: <info>  [1529705610.1904] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 23 00:18:48 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 23 00:18:50 pi12 named[349]: timed out resolving 'mirror.leitecastro.com/A/IN': 10.250.0.5#53
+Jun 23 00:18:50 pi12 named[349]: timed out resolving 'mirror.leitecastro.com/AAAA/IN': 10.250.0.5#53
+Jun 23 00:18:50 pi12 named[349]: network unreachable resolving 'mirror.leitecastro.com/A/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:18:50 pi12 named[349]: network unreachable resolving 'mirror.leitecastro.com/AAAA/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:18:58 pi12 named[349]: resolver priming query complete
+Jun 23 00:18:59 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 23 00:18:59 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 23 00:18:59 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 23 00:19:00 pi12 named[349]: timed out resolving 'ftp.halifax.rwth-aachen.de/A/IN': 10.250.0.5#53
+Jun 23 00:19:00 pi12 named[349]: timed out resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 10.250.0.5#53
+Jun 23 00:19:00 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:12::d0d#53
+Jun 23 00:19:00 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:12::d0d#53
+Jun 23 00:19:00 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:2::c#53
+Jun 23 00:19:00 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:2::c#53
+Jun 23 00:19:00 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:2f::f#53
+Jun 23 00:19:00 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:2f::f#53
+Jun 23 00:19:02 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 23 00:19:02 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 23 00:19:02 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 23 00:19:02 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:02 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 23 00:19:02 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 23 00:19:02 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:9f::42#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:7fe::53#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:9f::42#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:1::53#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:7fe::53#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:1::53#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:dc3::35#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:2d::d#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:dc3::35#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:500:a8::e#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:2d::d#53
+Jun 23 00:19:03 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:500:a8::e#53
+Jun 23 00:19:04 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 23 00:19:04 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 23 00:19:04 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:05 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:7fd::1#53
+Jun 23 00:19:05 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2801:1b8:10::b#53
+Jun 23 00:19:05 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/A/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:05 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:7fd::1#53
+Jun 23 00:19:05 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2801:1b8:10::b#53
+Jun 23 00:19:05 pi12 named[349]: network unreachable resolving 'ftp.halifax.rwth-aachen.de/AAAA/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:09 pi12 named[349]: resolver priming query complete
+Jun 23 00:19:09 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 23 00:19:09 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 23 00:19:09 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 23 00:19:09 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 23 00:19:09 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 23 00:19:09 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 23 00:19:10 pi12 named[349]: timed out resolving 'mirror1.hs-esslingen.de/AAAA/IN': 10.250.0.5#53
+Jun 23 00:19:10 pi12 named[349]: timed out resolving 'mirror1.hs-esslingen.de/A/IN': 10.250.0.5#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:500:12::d0d#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:500:12::d0d#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:500:2f::f#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:500:2f::f#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:500:9f::42#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:500:9f::42#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:500:2::c#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:500:2::c#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:7fe::53#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:7fe::53#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:10 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:500:1::53#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2801:1b8:10::b#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:500:1::53#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2801:1b8:10::b#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:dc3::35#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:500:2d::d#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:dc3::35#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:500:a8::e#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:500:2d::d#53
+Jun 23 00:19:11 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:500:a8::e#53
+Jun 23 00:19:15 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 23 00:19:16 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/AAAA/IN': 2001:7fd::1#53
+Jun 23 00:19:16 pi12 named[349]: network unreachable resolving 'mirror1.hs-esslingen.de/A/IN': 2001:7fd::1#53
+Jun 23 00:19:19 pi12 named[349]: resolver priming query complete
+Jun 23 00:19:19 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 23 00:19:19 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 23 00:19:19 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 23 00:19:19 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 23 00:19:19 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 23 00:19:19 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:19 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 23 00:19:19 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:19 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 23 00:19:20 pi12 named[349]: timed out resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 10.250.0.5#53
+Jun 23 00:19:20 pi12 named[349]: timed out resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 10.250.0.5#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:500:2f::f#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:500:2f::f#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:500:9f::42#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:500:9f::42#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:500:12::d0d#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:500:12::d0d#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:500:2::c#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:500:2::c#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:7fe::53#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:7fe::53#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2801:1b8:10::b#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2801:1b8:10::b#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:500:1::53#53
+Jun 23 00:19:20 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:500:1::53#53
+Jun 23 00:19:21 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:dc3::35#53
+Jun 23 00:19:21 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:500:2d::d#53
+Jun 23 00:19:21 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:dc3::35#53
+Jun 23 00:19:21 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:500:a8::e#53
+Jun 23 00:19:21 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:500:2d::d#53
+Jun 23 00:19:21 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:500:a8::e#53
+Jun 23 00:19:27 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/A/IN': 2001:7fd::1#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving 'rocky-linux-europe-central2.production.gcp.mirrors.ctrliq.cloud/AAAA/IN': 2001:7fd::1#53
+Jun 23 00:19:29 pi12 named[349]: resolver priming query complete
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:29 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 23 00:19:30 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 23 00:19:30 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 23 00:19:30 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 23 00:19:31 pi12 named[349]: timed out resolving 'rockylinux.mirror.liteserver.nl/A/IN': 10.250.0.5#53
+Jun 23 00:19:31 pi12 named[349]: timed out resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 10.250.0.5#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:500:2f::f#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:500:2f::f#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:500:9f::42#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:500:9f::42#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:500:12::d0d#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:500:12::d0d#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:7fe::53#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:7fe::53#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2801:1b8:10::b#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2801:1b8:10::b#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:500:2::c#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:500:2::c#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:500:1::53#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:500:1::53#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:dc3::35#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:500:2d::d#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:dc3::35#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:500:a8::e#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:500:2d::d#53
+Jun 23 00:19:31 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:500:a8::e#53
+Jun 23 00:19:37 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/A/IN': 2001:7fd::1#53
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving 'rockylinux.mirror.liteserver.nl/AAAA/IN': 2001:7fd::1#53
+Jun 23 00:19:39 pi12 named[349]: resolver priming query complete
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2f::f#53
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:9f::42#53
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fe::53#53
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:12::d0d#53
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2::c#53
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:c27::2:30#53
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving './NS/IN': 2801:1b8:10::b#53
+Jun 23 00:19:39 pi12 named[349]: network unreachable resolving './NS/IN': 2001:503:ba3e::2:30#53
+Jun 23 00:19:40 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:1::53#53
+Jun 23 00:19:40 pi12 named[349]: network unreachable resolving './NS/IN': 2001:dc3::35#53
+Jun 23 00:19:40 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:2d::d#53
+Jun 23 00:19:40 pi12 named[349]: network unreachable resolving './NS/IN': 2001:500:a8::e#53
+Jun 23 00:19:47 pi12 named[349]: network unreachable resolving './NS/IN': 2001:7fd::1#53
+Jun 23 00:19:49 pi12 named[349]: resolver priming query complete
+Jun 23 00:20:24 pi12 NetworkManager[310]: <info>  [1529706024.1360] device (wlan0): set-hw-addr: set MAC address to F6:DD:D8:F3:70:73 (scanning)
+Jun 23 00:20:24 pi12 NetworkManager[310]: <info>  [1529706024.1407] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 23 00:20:24 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 23 00:20:24 pi12 NetworkManager[310]: <info>  [1529706024.1409] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 23 00:20:24 pi12 NetworkManager[310]: <info>  [1529706024.1437] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 23 00:20:24 pi12 NetworkManager[310]: <info>  [1529706024.1438] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 23 00:27:17 pi12 NetworkManager[310]: <info>  [1529706437.1280] device (wlan0): set-hw-addr: set MAC address to 12:8B:64:8B:F6:E7 (scanning)
+Jun 23 00:27:17 pi12 NetworkManager[310]: <info>  [1529706437.1322] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 23 00:27:17 pi12 NetworkManager[310]: <info>  [1529706437.1324] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 23 00:27:17 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 23 00:27:17 pi12 NetworkManager[310]: <info>  [1529706437.1346] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 23 00:27:17 pi12 NetworkManager[310]: <info>  [1529706437.1349] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 23 00:34:10 pi12 NetworkManager[310]: <info>  [1529706850.0879] device (wlan0): set-hw-addr: set MAC address to 06:0A:24:D6:3F:B2 (scanning)
+Jun 23 00:34:10 pi12 NetworkManager[310]: <info>  [1529706850.0919] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 23 00:34:10 pi12 NetworkManager[310]: <info>  [1529706850.0921] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 23 00:34:10 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 23 00:34:10 pi12 NetworkManager[310]: <info>  [1529706850.0945] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 23 00:34:10 pi12 NetworkManager[310]: <info>  [1529706850.0946] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 23 00:41:03 pi12 NetworkManager[310]: <info>  [1529707263.1122] device (wlan0): set-hw-addr: set MAC address to D6:4B:FB:91:BE:2D (scanning)
+Jun 23 00:41:03 pi12 NetworkManager[310]: <info>  [1529707263.1164] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Jun 23 00:41:03 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Jun 23 00:41:03 pi12 NetworkManager[310]: <info>  [1529707263.1166] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Jun 23 00:41:03 pi12 NetworkManager[310]: <info>  [1529707263.1185] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Jun 23 00:41:03 pi12 NetworkManager[310]: <info>  [1529707263.1186] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Jun 23 00:43:11 pi12 dbus-daemon[274]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.40' (uid=0 pid=1244 comm="timedatectl set-time 2024-11-15 02:52:00 " label="unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023")
+Jun 23 00:43:11 pi12 systemd[1]: Starting System clock and RTC settings service...
+Jun 23 00:43:11 pi12 dbus-daemon[274]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Jun 23 00:43:11 pi12 systemd[1]: Started System clock and RTC settings service.
+Jun 23 00:43:25 pi12 chronyd[288]: Source 185.125.171.196 replaced with 80.203.110.169 (2.rocky.pool.ntp.org)
+Jun 23 00:43:29 pi12 chronyd[288]: chronyd exiting
+Jun 23 00:43:29 pi12 systemd[1]: Stopping NTP client/server...
+Jun 23 00:43:29 pi12 systemd[1]: Reloading.
+Jun 23 00:43:29 pi12 systemd[1]: chronyd.service: Succeeded.
+Jun 23 00:43:29 pi12 systemd[1]: Stopped NTP client/server.
+Nov 15 02:53:00 pi12 systemd[1]: Starting update of the root trust anchor for DNSSEC validation in unbound...
+Nov 15 02:53:00 pi12 rsyslogd[475]: imjournal: journal files changed, reloading...  [v8.2102.0-15.el8 try https://www.rsyslog.com/e/0 ]
+Nov 15 02:53:00 pi12 systemd[1]: unbound-anchor.service: Succeeded.
+Nov 15 02:53:00 pi12 systemd[1]: Started update of the root trust anchor for DNSSEC validation in unbound.
+Nov 15 02:53:04 pi12 systemd[1]: Starting NTP client/server...
+Nov 15 02:53:04 pi12 systemd[1]: Reloading.
+Nov 15 02:53:05 pi12 chronyd[1322]: chronyd version 4.5 starting (+CMDMON +NTP +REFCLOCK +RTC +PRIVDROP +SCFILTER +SIGND +ASYNCDNS +NTS +SECHASH +IPV6 +DEBUG)
+Nov 15 02:53:05 pi12 chronyd[1322]: Loaded 0 symmetric keys
+Nov 15 02:53:05 pi12 chronyd[1322]: Frequency 14.055 +/- 1.773 ppm read from /var/lib/chrony/drift
+Nov 15 02:53:05 pi12 chronyd[1322]: Using right/UTC timezone to obtain leap second data
+Nov 15 02:53:05 pi12 systemd[1]: Started NTP client/server.
+Nov 15 02:53:35 pi12 systemd[1]: timedatex.service: Succeeded.
+Nov 15 02:56:00 pi12 systemd[1]: Starting dnf makecache...
+Nov 15 02:56:01 pi12 dnf[1356]: Rocky Linux 8 - AppStream                        14 kB/s | 4.8 kB     00:00
+Nov 15 02:56:44 pi12 dnf[1356]: Rocky Linux 8 - AppStream                        23 kB/s | 996 kB     00:42
+Nov 15 02:56:44 pi12 dnf[1356]: Errors during downloading metadata for repository 'appstream':
+Nov 15 02:56:44 pi12 dnf[1356]:  - Curl error (6): Couldn't resolve host name for https://rocky.task.gda.pl/8.10/AppStream/aarch64/os/repodata/fae315fd534a7f317741b79fb48c120173a211e8fa0a8d1bb451b7018d1f014d-updateinfo.xml.gz [Could not resolve host: rocky.task.gda.pl]
+Nov 15 02:56:44 pi12 dnf[1356]:  - Curl error (6): Couldn't resolve host name for https://rocky.task.gda.pl/8.10/AppStream/aarch64/os/repodata/679dc0208d8a3bf447a9bce1525b678eb835ebb5f73d1c3e7e0df9a3afc5a599-primary.xml.gz [Could not resolve host: rocky.task.gda.pl]
+Nov 15 02:56:44 pi12 dnf[1356]:  - Curl error (28): Timeout was reached for https://rockylinux.hi.no/8.10/AppStream/aarch64/os/repodata/163c5afee6038d3b6635a585b41c58ce27b9d2efd6166a0c657622a81743b013-modules.yaml.xz [Operation too slow. Less than 1000 bytes/sec transferred the last 30 seconds]
+Nov 15 02:56:44 pi12 dnf[1356]:  - Curl error (6): Couldn't resolve host name for https://rocky.task.gda.pl/8.10/AppStream/aarch64/os/repodata/163c5afee6038d3b6635a585b41c58ce27b9d2efd6166a0c657622a81743b013-modules.yaml.xz [Could not resolve host: rocky.task.gda.pl]
+Nov 15 02:56:44 pi12 dnf[1356]:  - Curl error (28): Timeout was reached for https://rockylinux.hi.no/8.10/AppStream/aarch64/os/repodata/4ec5e41be111da953d3bebcdf481bcf7e661faaa0efe96832449a6853e2dd5f5-filelists.xml.gz [Operation too slow. Less than 1000 bytes/sec transferred the last 30 seconds]
+Nov 15 02:56:44 pi12 dnf[1356]:  - Curl error (28): Timeout was reached for https://rockylinux.hi.no/8.10/AppStream/aarch64/os/repodata/679dc0208d8a3bf447a9bce1525b678eb835ebb5f73d1c3e7e0df9a3afc5a599-primary.xml.gz [Operation too slow. Less than 1000 bytes/sec transferred the last 30 seconds]
+Nov 15 02:56:44 pi12 dnf[1356]: Error: Failed to download metadata for repo 'appstream': Yum repo downloading error: Downloading error(s): repodata/679dc0208d8a3bf447a9bce1525b678eb835ebb5f73d1c3e7e0df9a3afc5a599-primary.xml.gz - Download failed: Curl error (6): Couldn't resolve host name for https://rocky.task.gda.pl/8.10/AppStream/aarch64/os/repodata/679dc0208d8a3bf447a9bce1525b678eb835ebb5f73d1c3e7e0df9a3afc5a599-primary.xml.gz [Could not resolve host: rocky.task.gda.pl]; repodata/4ec5e41be111da953d3bebcdf481bcf7e661faaa0efe96832449a6853e2dd5f5-filelists.xml.gz - Download failed: Curl error (28): Timeout was reached for https://rockylinux.hi.no/8.10/AppStream/aarch64/os/repodata/4ec5e41be111da953d3bebcdf481bcf7e661faaa0efe96832449a6853e2dd5f5-filelists.xml.gz [Operation too slow. Less than 1000 bytes/sec transferred the last 30 seconds]; repodata/163c5afee6038d3b6635a585b41c58ce27b9d2efd6166a0c657622a81743b013-modules.yaml.xz - Download failed: Curl error (6): Couldn't resolve host name for https://rocky.task.gda.pl/8.10/AppStream/aarch64/os/repodata/163c5afee6038d3b6635a585b41c58ce27b9d2efd6166a0c657622a81743b013-modules.yaml.xz [Could not resolve host: rocky.task.gda.pl]; repodata/fae315fd534a7f317741b79fb48c120173a211e8fa0a8d1bb451b7018d1f014d-updateinfo.xml.gz - Download failed: Curl error (6): Couldn't resolve host name for https://rocky.task.gda.pl/8.10/AppStream/aarch64/os/repodata/fae315fd534a7f317741b79fb48c120173a211e8fa0a8d1bb451b7018d1f014d-updateinfo.xml.gz [Could not resolve host: rocky.task.gda.pl]
+Nov 15 02:56:44 pi12 systemd[1]: dnf-makecache.service: Main process exited, code=exited, status=1/FAILURE
+Nov 15 02:56:44 pi12 systemd[1]: dnf-makecache.service: Failed with result 'exit-code'.
+Nov 15 02:56:44 pi12 systemd[1]: Failed to start dnf makecache.
+Nov 15 02:57:21 pi12 NetworkManager[310]: <info>  [1731635841.3980] device (wlan0): set-hw-addr: set MAC address to 06:1E:45:44:2B:C8 (scanning)
+Nov 15 02:57:21 pi12 NetworkManager[310]: <info>  [1731635841.4021] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Nov 15 02:57:21 pi12 NetworkManager[310]: <info>  [1731635841.4023] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Nov 15 02:57:21 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Nov 15 02:57:21 pi12 NetworkManager[310]: <info>  [1731635841.4047] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Nov 15 02:57:21 pi12 NetworkManager[310]: <info>  [1731635841.4048] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Nov 15 02:59:19 pi12 systemd[1]: Reloading.
+Nov 15 02:59:20 pi12 systemd[1]: Reloading.
+Nov 15 03:04:14 pi12 NetworkManager[310]: <info>  [1731636254.3579] device (wlan0): set-hw-addr: set MAC address to 02:D8:2F:6B:2B:BE (scanning)
+Nov 15 03:04:14 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Nov 15 03:04:14 pi12 NetworkManager[310]: <info>  [1731636254.3653] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Nov 15 03:04:14 pi12 NetworkManager[310]: <info>  [1731636254.3657] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Nov 15 03:04:14 pi12 NetworkManager[310]: <info>  [1731636254.3674] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Nov 15 03:04:14 pi12 NetworkManager[310]: <info>  [1731636254.3675] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Nov 15 03:11:07 pi12 NetworkManager[310]: <info>  [1731636667.3820] device (wlan0): set-hw-addr: set MAC address to 66:FB:CD:5F:CB:FC (scanning)
+Nov 15 03:11:07 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Nov 15 03:11:07 pi12 NetworkManager[310]: <info>  [1731636667.3882] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Nov 15 03:11:07 pi12 NetworkManager[310]: <info>  [1731636667.3884] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Nov 15 03:11:07 pi12 NetworkManager[310]: <info>  [1731636667.3901] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Nov 15 03:11:07 pi12 NetworkManager[310]: <info>  [1731636667.3902] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Nov 15 03:16:25 pi12 chronyd[1322]: Source 185.42.170.200 replaced with 91.189.182.32 (2.rocky.pool.ntp.org)
+Nov 15 03:18:00 pi12 NetworkManager[310]: <info>  [1731637080.4380] device (wlan0): set-hw-addr: set MAC address to 4A:AB:D9:6C:56:04 (scanning)
+Nov 15 03:18:00 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Nov 15 03:18:00 pi12 NetworkManager[310]: <info>  [1731637080.4433] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Nov 15 03:18:00 pi12 NetworkManager[310]: <info>  [1731637080.4435] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Nov 15 03:18:00 pi12 NetworkManager[310]: <info>  [1731637080.4580] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Nov 15 03:18:00 pi12 NetworkManager[310]: <info>  [1731637080.4581] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Nov 15 03:24:54 pi12 NetworkManager[310]: <info>  [1731637494.4220] device (wlan0): set-hw-addr: set MAC address to 9A:7E:D4:A8:52:FF (scanning)
+Nov 15 03:24:54 pi12 NetworkManager[310]: <info>  [1731637494.4263] device (wlan0): supplicant interface state: inactive -> interface_disabled
+Nov 15 03:24:54 pi12 kernel: brcmfmac: brcmf_cfg80211_set_power_mgmt: power save enabled
+Nov 15 03:24:54 pi12 NetworkManager[310]: <info>  [1731637494.4265] device (p2p-dev-wlan0): supplicant management interface state: inactive -> interface_disabled
+Nov 15 03:24:54 pi12 NetworkManager[310]: <info>  [1731637494.4291] device (wlan0): supplicant interface state: interface_disabled -> inactive
+Nov 15 03:24:54 pi12 NetworkManager[310]: <info>  [1731637494.4292] device (p2p-dev-wlan0): supplicant management interface state: interface_disabled -> inactive
+Nov 15 03:25:01 pi12 systemd[1]: Reloading Berkeley Internet Name Domain (DNS).
+Nov 15 03:25:01 pi12 named[349]: received control channel command 'reload'
+Nov 15 03:25:01 pi12 named[349]: loading configuration from '/etc/named.conf'
+Nov 15 03:25:01 pi12 named[349]: unable to open '/etc/bind.keys'; using built-in keys instead
+Nov 15 03:25:01 pi12 named[349]: looking for GeoIP2 databases in '/usr/share/GeoIP'
+Nov 15 03:25:01 pi12 named[349]: opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-Country.mmdb'
+Nov 15 03:25:01 pi12 named[349]: opened GeoIP2 database '/usr/share/GeoIP/GeoLite2-City.mmdb'
+Nov 15 03:25:01 pi12 named[349]: using default UDP/IPv4 port range: [32768, 60999]
+Nov 15 03:25:01 pi12 named[349]: using default UDP/IPv6 port range: [32768, 60999]
+Nov 15 03:25:01 pi12 named[349]: sizing zone task pool based on 3 zones
+Nov 15 03:25:01 pi12 named[349]: none:106: 'max-cache-size 90%' - setting to 3414MB (out of 3794MB)
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 10.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 16.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 17.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 18.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 19.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 20.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 21.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 22.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 23.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 24.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 25.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 26.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 27.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 28.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 29.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 30.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 31.172.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 168.192.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 64.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 65.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 66.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 67.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 68.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 69.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 70.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 71.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 72.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 73.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 74.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 75.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 76.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 77.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 78.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 79.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 80.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 81.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 82.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 83.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 84.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 85.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 86.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 87.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 88.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 89.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 90.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 91.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 92.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 93.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 94.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 95.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 96.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 97.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 98.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 99.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 100.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 101.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 102.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 103.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 104.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 105.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 106.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 107.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 108.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 109.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 110.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 111.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 112.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 113.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 114.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 115.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 116.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 117.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 118.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 119.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 120.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 121.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 122.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 123.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 124.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 125.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 126.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 127.100.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 0.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 127.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 254.169.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 2.0.192.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 100.51.198.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 113.0.203.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 255.255.255.255.IN-ADDR.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: D.F.IP6.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 8.E.F.IP6.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 9.E.F.IP6.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: A.E.F.IP6.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: B.E.F.IP6.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: 8.B.D.0.1.0.0.2.IP6.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: EMPTY.AS112.ARPA
+Nov 15 03:25:01 pi12 named[349]: automatic empty zone: view internt_nett: HOME.ARPA
+Nov 15 03:25:01 pi12 named[349]: none:106: 'max-cache-size 90%' - setting to 3414MB (out of 3794MB)
+Nov 15 03:25:01 pi12 named[349]: none:106: 'max-cache-size 90%' - setting to 3414MB (out of 3794MB)
+Nov 15 03:25:01 pi12 named[349]: configuring command channel from '/etc/rndc.key'
+Nov 15 03:25:01 pi12 named[349]: configuring command channel from '/etc/rndc.key'
+Nov 15 03:25:01 pi12 named[349]: reloading configuration succeeded
+Nov 15 03:25:01 pi12 named[349]: reloading zones succeeded
+Nov 15 03:25:01 pi12 sh[1465]: server reload successful
+Nov 15 03:25:01 pi12 systemd[1]: Reloaded Berkeley Internet Name Domain (DNS).

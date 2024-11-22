@@ -1,0 +1,136 @@
+Jun 22 16:40:09 pi12 sshd[733]: Accepted password for gr6 from 192.168.0.1 port 41668 ssh2
+Jun 22 16:40:10 pi12 systemd[741]: pam_unix(systemd-user:session): session opened for user gr6 by (uid=0)
+Jun 22 16:40:10 pi12 sshd[733]: pam_unix(sshd:session): session opened for user gr6 by (uid=0)
+Jun 22 16:41:01 pi12 sshd[750]: Received disconnect from 192.168.0.1 port 41668:11: disconnected by user
+Jun 22 16:41:01 pi12 sshd[750]: Disconnected from user gr6 192.168.0.1 port 41668
+Jun 22 16:41:01 pi12 sshd[733]: pam_unix(sshd:session): session closed for user gr6
+Jun 22 18:01:16 pi12 sshd[892]: Accepted password for gr6 from 192.168.0.1 port 32816 ssh2
+Jun 22 18:01:16 pi12 systemd[899]: pam_unix(systemd-user:session): session opened for user gr6 by (uid=0)
+Jun 22 18:01:16 pi12 sshd[892]: pam_unix(sshd:session): session opened for user gr6 by (uid=0)
+Jun 22 18:01:55 pi12 su[1000]: pam_unix(su:session): session opened for user root by gr6(uid=1001)
+Jun 22 19:10:20 pi12 sshd[1115]: Accepted password for root from 192.168.0.1 port 53338 ssh2
+Jun 22 19:10:20 pi12 systemd[1122]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Jun 22 19:10:21 pi12 sshd[1115]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 22 19:13:38 pi12 sshd[1171]: Accepted password for root from 192.168.0.1 port 36012 ssh2
+Jun 22 19:13:38 pi12 sshd[1171]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 22 19:26:42 pi12 sshd[1216]: Accepted password for root from 192.168.0.1 port 37374 ssh2
+Jun 22 19:26:42 pi12 sshd[1216]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 22 19:33:58 pi12 sshd[1220]: Received disconnect from 192.168.0.1 port 37374:11: disconnected by user
+Jun 22 19:33:58 pi12 sshd[1220]: Disconnected from user root 192.168.0.1 port 37374
+Jun 22 19:33:58 pi12 sshd[1216]: pam_unix(sshd:session): session closed for user root
+Jun 22 19:44:58 pi12 sshd[1307]: Connection closed by authenticating user root 192.168.0.1 port 41130 [preauth]
+Jun 22 20:22:42 pi12 sshd[908]: Received disconnect from 192.168.0.1 port 32816:11: disconnected by user
+Jun 22 20:22:42 pi12 sshd[908]: Disconnected from user gr6 192.168.0.1 port 32816
+Jun 22 20:22:42 pi12 sshd[892]: pam_unix(sshd:session): session closed for user gr6
+Jun 22 20:22:42 pi12 su[1000]: pam_unix(su:session): session closed for user root
+Jun 22 20:22:52 pi12 systemd[902]: pam_unix(systemd-user:session): session closed for user gr6
+Jun 22 20:25:02 pi12 sshd[1175]: Received disconnect from 192.168.0.1 port 36012:11: disconnected by user
+Jun 22 20:25:02 pi12 sshd[1175]: Disconnected from user root 192.168.0.1 port 36012
+Jun 22 20:25:02 pi12 sshd[1171]: pam_unix(sshd:session): session closed for user root
+Jun 22 20:55:43 pi12 sshd[1542]: Accepted password for root from 192.168.0.1 port 55750 ssh2
+Jun 22 20:55:43 pi12 sshd[1542]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 22 21:23:09 pi12 sudo[1739]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install tcpdump
+Jun 22 21:23:09 pi12 sudo[1739]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:23:14 pi12 sudo[1739]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:23:18 pi12 sudo[1747]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf update
+Jun 22 21:23:18 pi12 sudo[1747]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:23:24 pi12 sudo[1747]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:24:18 pi12 sudo[1769]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/yum.repos.d/
+Jun 22 21:24:18 pi12 sudo[1769]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:24:19 pi12 sudo[1769]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:24:24 pi12 sudo[1778]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/yum.repos.d/Rocky-AppStream.repo
+Jun 22 21:24:24 pi12 sudo[1778]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:24:34 pi12 sudo[1778]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:24:36 pi12 sudo[1781]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf update
+Jun 22 21:24:36 pi12 sudo[1781]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:24:41 pi12 sudo[1781]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:24:43 pi12 sudo[1785]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install tcpdump
+Jun 22 21:24:43 pi12 sudo[1785]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:24:48 pi12 sudo[1785]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:25:00 pi12 sudo[1798]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install tcpdump
+Jun 22 21:25:00 pi12 sudo[1798]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:25:06 pi12 sudo[1798]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:26:30 pi12 sudo[1822]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl start chronyd
+Jun 22 21:26:30 pi12 sudo[1822]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:26:30 pi12 sudo[1822]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:26:35 pi12 sudo[1826]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl enable chronyd
+Jun 22 21:26:35 pi12 sudo[1826]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:26:35 pi12 sudo[1826]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:26:48 pi12 sudo[1872]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl status chronyd
+Jun 22 21:26:48 pi12 sudo[1872]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:26:48 pi12 sudo[1872]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:26:52 pi12 sudo[1876]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/chronyc makestep
+Jun 22 21:26:52 pi12 sudo[1876]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:26:52 pi12 sudo[1876]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:27:27 pi12 sudo[1881]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/chrony.conf
+Jun 22 21:27:27 pi12 sudo[1881]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:28:18 pi12 sudo[1881]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:28:20 pi12 sudo[1886]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl restart chronyd
+Jun 22 21:28:20 pi12 sudo[1886]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:28:21 pi12 sudo[1886]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:28:23 pi12 sudo[1907]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/chronyc makestep
+Jun 22 21:28:23 pi12 sudo[1907]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:28:23 pi12 sudo[1907]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:28:39 pi12 sudo[1912]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/timedatectl set-timezone Europe/Oslo
+Jun 22 21:28:39 pi12 sudo[1912]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:28:39 pi12 sudo[1912]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:28:49 pi12 sudo[1922]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl restart chronyd
+Jun 22 21:28:49 pi12 sudo[1922]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:28:50 pi12 sudo[1922]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:29:55 pi12 sudo[1954]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install chrony
+Jun 22 21:29:55 pi12 sudo[1954]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:29:58 pi12 sudo[1954]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:30:02 pi12 sudo[1958]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/nano /etc/chrony.conf
+Jun 22 21:30:02 pi12 sudo[1958]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:30:40 pi12 sudo[1958]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:30:46 pi12 sudo[1964]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl start chronyd
+Jun 22 21:30:46 pi12 sudo[1964]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:30:46 pi12 sudo[1964]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:30:46 pi12 sudo[1968]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl enable chronyd
+Jun 22 21:30:46 pi12 sudo[1968]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:30:47 pi12 sudo[1968]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:33:03 pi12 sudo[1996]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl stop chronyd
+Jun 22 21:33:03 pi12 sudo[1996]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:33:03 pi12 sudo[1996]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:33:16 pi12 sudo[2007]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl start chronyd
+Jun 22 21:33:16 pi12 sudo[2007]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:33:16 pi12 sudo[2007]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:33:52 pi12 sudo[2025]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/chronyc add server 0.pool.ntp.org iburst
+Jun 22 21:33:52 pi12 sudo[2025]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:33:52 pi12 sudo[2025]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:34:18 pi12 sudo[2032]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/firewall-cmd --permanent --add-port=123/udp
+Jun 22 21:34:18 pi12 sudo[2032]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:34:19 pi12 sudo[2032]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:34:19 pi12 sudo[2035]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/firewall-cmd --reload
+Jun 22 21:34:19 pi12 sudo[2035]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:34:21 pi12 sudo[2035]: pam_unix(sudo:session): session closed for user root
+Jun 22 21:34:56 pi12 sudo[2046]:    root : TTY=pts/1 ; PWD=/root ; USER=root ; COMMAND=/bin/systemctl restart chronyd
+Jun 22 21:34:56 pi12 sudo[2046]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 21:34:56 pi12 sudo[2046]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:11:57 pi12 sshd[323]: Server listening on 0.0.0.0 port 22.
+Jun 22 13:11:57 pi12 sshd[323]: Server listening on :: port 22.
+Jun 22 13:12:00 pi12 polkitd[388]: Loading rules from directory /etc/polkit-1/rules.d
+Jun 22 13:12:00 pi12 polkitd[388]: Loading rules from directory /usr/share/polkit-1/rules.d
+Jun 22 13:12:00 pi12 polkitd[388]: Finished loading, compiling and executing 2 rules
+Jun 22 13:12:00 pi12 polkitd[388]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Jun 22 13:12:28 pi12 sshd[499]: Accepted password for root from 192.168.0.1 port 58894 ssh2
+Jun 22 13:12:28 pi12 systemd[512]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Jun 22 13:12:29 pi12 sshd[499]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Jun 22 13:12:54 pi12 sudo[552]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/firewall-cmd --permanent --remove-port=123/udp
+Jun 22 13:12:54 pi12 sudo[552]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:12:55 pi12 sudo[552]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:13:10 pi12 sudo[562]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/date -s 'YYYY-MM-DD HH:MM:SS'
+Jun 22 13:13:10 pi12 sudo[562]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Jun 22 13:13:10 pi12 sudo[562]: pam_unix(sudo:session): session closed for user root
+Jun 22 13:13:33 pi12 sudo[565]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/date -s '2024-11-04 16:27:00'
+Jun 22 13:13:33 pi12 sudo[565]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  4 16:27:00 pi12 sudo[565]: pam_unix(sudo:session): session closed for user root
+Nov  4 16:27:20 pi12 sudo[572]:    root : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/bin/dnf install traceroute
+Nov  4 16:27:20 pi12 sudo[572]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Nov  4 16:27:27 pi12 sudo[572]: pam_unix(sudo:session): session closed for user root
+Nov  4 16:28:01 pi12 groupadd[584]: group added to /etc/group: name=tcpdump, GID=72
+Nov  4 16:28:01 pi12 groupadd[584]: group added to /etc/gshadow: name=tcpdump
+Nov  4 16:28:02 pi12 groupadd[584]: new group: name=tcpdump, GID=72
+Nov  4 16:28:02 pi12 useradd[591]: new user: name=tcpdump, UID=72, GID=72, home=/, shell=/sbin/nologin
+Nov  4 16:55:35 pi12 sshd[882]: Accepted password for root from 192.168.0.1 port 58184 ssh2
+Nov  4 16:55:35 pi12 sshd[882]: pam_unix(sshd:session): session opened for user root by (uid=0)

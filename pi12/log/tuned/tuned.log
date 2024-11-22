@@ -1,0 +1,710 @@
+2018-06-22 11:12:02,667 INFO     tuned.daemon.application: TuneD: 2.20.0, kernel: 6.1.8-v8.1.el8.altarch.1
+2018-06-22 11:12:02,669 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 11:12:02,724 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 11:12:02,773 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 11:12:02,808 INFO     tuned.daemon.controller: starting controller
+2018-06-22 11:12:02,809 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 11:12:02,855 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 11:12:02,934 INFO     tuned.plugins.base: instance cpu: assigning devices cpu2, cpu0, cpu1, cpu3
+2018-06-22 11:12:02,988 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 11:12:02,992 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 11:12:02,996 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 11:12:03,098 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 11:12:03,121 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 11:12:03,147 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 11:12:03,180 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 11:12:03,206 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 11:12:03,236 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 11:12:03,267 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 11:12:03,294 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 11:12:03,318 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 11:12:03,348 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 11:12:03,380 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 11:12:03,425 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 11:12:03,457 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 11:12:03,487 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 11:12:03,511 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 11:12:03,540 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 11:12:03,561 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 11:12:03,588 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 11:12:03,618 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 11:12:03,644 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 11:12:03,674 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 11:12:03,697 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 11:12:03,725 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 11:12:03,748 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 11:12:03,752 INFO     tuned.plugins.base: instance disk: assigning devices ram5, ram12, ram15, ram2, ram10, ram8, loop7, ram1, ram14, ram4, ram6, ram0, loop1, ram11, ram13, loop0, ram3, ram9, loop3, loop4, ram7, loop2, loop6, loop5
+2018-06-22 11:12:03,770 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 11:12:04,168 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 11:12:04,177 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 11:12:04,185 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 11:12:04,186 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 11:12:04,186 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 11:12:04,188 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 11:12:04,328 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2024-10-30 13:57:55,834 INFO     tuned.daemon.controller: terminating controller
+2024-10-30 13:57:55,836 INFO     tuned.daemon.daemon: stopping tuning
+2024-10-30 13:57:55,942 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-10-30 13:57:55,945 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop']'
+2024-10-30 13:57:56,004 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2018-06-22 11:12:00,190 INFO     tuned.daemon.application: TuneD: 2.20.0, kernel: 6.1.8-v8.1.el8.altarch.1
+2018-06-22 11:12:00,192 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 11:12:00,252 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 11:12:00,301 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 11:12:00,357 INFO     tuned.daemon.controller: starting controller
+2018-06-22 11:12:00,359 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 11:12:00,392 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 11:12:00,509 INFO     tuned.plugins.base: instance cpu: assigning devices cpu1, cpu0, cpu2, cpu3
+2018-06-22 11:12:00,569 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 11:12:00,575 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 11:12:00,578 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 11:12:00,702 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 11:12:00,724 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 11:12:00,751 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 11:12:00,788 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 11:12:00,814 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 11:12:00,843 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 11:12:00,867 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 11:12:00,897 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 11:12:00,923 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 11:12:00,957 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 11:12:00,985 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 11:12:01,018 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 11:12:01,044 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 11:12:01,075 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 11:12:01,098 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 11:12:01,126 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 11:12:01,147 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 11:12:01,175 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 11:12:01,207 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 11:12:01,233 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 11:12:01,264 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 11:12:01,288 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 11:12:01,317 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 11:12:01,339 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 11:12:01,343 INFO     tuned.plugins.base: instance disk: assigning devices loop5, ram10, ram11, loop0, loop3, ram4, loop6, ram2, loop1, ram5, ram13, ram3, ram9, loop4, ram0, ram7, ram12, ram8, ram15, ram1, ram14, loop7, ram6, loop2
+2018-06-22 11:12:01,362 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 11:12:01,789 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 11:12:01,799 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 11:12:01,809 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 11:12:01,810 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 11:12:01,810 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 11:12:01,811 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 11:12:01,879 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2024-10-30 13:59:11,761 INFO     tuned.daemon.controller: terminating controller
+2024-10-30 13:59:11,762 INFO     tuned.daemon.daemon: stopping tuning
+2024-10-30 13:59:11,912 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-10-30 13:59:11,916 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop']'
+2024-10-30 13:59:11,994 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2018-06-22 11:12:00,077 INFO     tuned.daemon.application: TuneD: 2.20.0, kernel: 6.1.8-v8.1.el8.altarch.1
+2018-06-22 11:12:00,079 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 11:12:00,140 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 11:12:00,180 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 11:12:00,214 INFO     tuned.daemon.controller: starting controller
+2018-06-22 11:12:00,215 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 11:12:00,245 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 11:12:00,341 INFO     tuned.plugins.base: instance cpu: assigning devices cpu2, cpu1, cpu3, cpu0
+2018-06-22 11:12:00,401 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 11:12:00,406 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 11:12:00,409 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 11:12:00,520 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 11:12:00,546 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 11:12:00,579 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 11:12:00,612 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 11:12:00,642 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 11:12:00,671 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 11:12:00,695 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 11:12:00,722 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 11:12:00,746 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 11:12:00,781 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 11:12:00,812 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 11:12:00,850 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 11:12:00,883 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 11:12:00,915 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 11:12:00,939 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 11:12:00,967 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 11:12:00,988 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 11:12:01,015 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 11:12:01,047 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 11:12:01,072 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 11:12:01,103 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 11:12:01,128 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 11:12:01,157 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 11:12:01,180 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 11:12:01,184 INFO     tuned.plugins.base: instance disk: assigning devices ram11, ram4, ram14, loop0, loop3, ram2, ram5, loop7, ram9, ram13, ram10, ram8, ram6, loop6, ram1, loop4, ram15, loop2, ram3, ram7, loop1, ram0, loop5, ram12
+2018-06-22 11:12:01,217 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 11:12:01,628 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 11:12:01,639 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 11:12:01,648 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 11:12:01,648 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 11:12:01,649 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 11:12:01,651 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 11:12:01,710 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2024-10-30 14:09:14,049 INFO     tuned.daemon.controller: terminating controller
+2024-10-30 14:09:14,050 INFO     tuned.daemon.daemon: stopping tuning
+2024-10-30 14:09:14,188 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-10-30 14:09:14,191 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop']'
+2024-10-30 14:09:14,274 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2018-06-22 11:12:00,069 INFO     tuned.daemon.application: TuneD: 2.20.0, kernel: 6.1.8-v8.1.el8.altarch.1
+2018-06-22 11:12:00,071 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 11:12:00,134 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 11:12:00,165 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 11:12:00,209 INFO     tuned.daemon.controller: starting controller
+2018-06-22 11:12:00,211 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 11:12:00,243 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 11:12:00,332 INFO     tuned.plugins.base: instance cpu: assigning devices cpu3, cpu0, cpu1, cpu2
+2018-06-22 11:12:00,394 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 11:12:00,398 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 11:12:00,401 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 11:12:00,498 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 11:12:00,527 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 11:12:00,559 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 11:12:00,594 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 11:12:00,621 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 11:12:00,652 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 11:12:00,677 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 11:12:00,704 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 11:12:00,729 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 11:12:00,766 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 11:12:00,794 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 11:12:00,836 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 11:12:00,863 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 11:12:00,902 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 11:12:00,928 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 11:12:00,957 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 11:12:00,979 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 11:12:01,006 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 11:12:01,039 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 11:12:01,064 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 11:12:01,094 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 11:12:01,117 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 11:12:01,146 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 11:12:01,169 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 11:12:01,173 INFO     tuned.plugins.base: instance disk: assigning devices ram12, ram5, ram15, ram3, ram2, ram6, loop4, ram0, ram10, loop1, ram11, loop5, loop3, loop7, ram9, ram4, ram7, loop6, ram14, ram8, ram1, loop2, loop0, ram13
+2018-06-22 11:12:01,192 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 11:12:01,592 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 11:12:01,603 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 11:12:01,612 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 11:12:01,613 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 11:12:01,613 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 11:12:01,615 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 11:12:01,675 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2024-10-30 14:28:33,762 INFO     tuned.daemon.controller: terminating controller
+2024-10-30 14:28:33,763 INFO     tuned.daemon.daemon: stopping tuning
+2024-10-30 14:28:33,957 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-10-30 14:28:33,959 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop']'
+2024-10-30 14:28:34,049 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2018-06-22 11:11:59,154 INFO     tuned.daemon.application: TuneD: 2.20.0, kernel: 6.1.8-v8.1.el8.altarch.1
+2018-06-22 11:11:59,156 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 11:11:59,207 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 11:11:59,229 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 11:11:59,255 INFO     tuned.daemon.controller: starting controller
+2018-06-22 11:11:59,256 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 11:11:59,279 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 11:11:59,368 INFO     tuned.plugins.base: instance cpu: assigning devices cpu0, cpu1, cpu2, cpu3
+2018-06-22 11:11:59,429 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 11:11:59,434 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 11:11:59,437 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 11:11:59,531 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 11:11:59,570 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 11:11:59,601 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 11:11:59,630 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 11:11:59,662 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 11:11:59,694 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 11:11:59,727 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 11:11:59,769 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 11:11:59,795 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 11:11:59,827 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 11:11:59,858 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 11:11:59,891 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 11:11:59,919 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 11:11:59,954 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 11:11:59,979 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 11:12:00,005 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 11:12:00,027 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 11:12:00,052 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 11:12:00,082 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 11:12:00,107 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 11:12:00,135 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 11:12:00,158 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 11:12:00,185 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 11:12:00,206 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 11:12:00,210 INFO     tuned.plugins.base: instance disk: assigning devices ram13, ram5, loop1, loop4, ram9, loop5, ram0, loop6, ram14, ram2, loop7, ram12, loop2, ram7, ram1, loop0, loop3, ram4, ram8, ram15, ram6, ram11, ram10, ram3
+2018-06-22 11:12:00,228 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 11:12:00,603 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 11:12:00,611 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 11:12:00,627 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 11:12:00,628 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 11:12:00,628 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 11:12:00,636 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 11:12:00,716 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2018-06-22 11:11:59,358 INFO     tuned.daemon.application: TuneD: 2.20.0, kernel: 6.1.8-v8.1.el8.altarch.1
+2018-06-22 11:11:59,360 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 11:11:59,413 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 11:11:59,447 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 11:11:59,474 INFO     tuned.daemon.controller: starting controller
+2018-06-22 11:11:59,475 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 11:11:59,500 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 11:11:59,583 INFO     tuned.plugins.base: instance cpu: assigning devices cpu0, cpu1, cpu2, cpu3
+2018-06-22 11:11:59,645 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 11:11:59,649 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 11:11:59,652 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 11:11:59,753 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 11:11:59,776 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 11:11:59,804 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 11:11:59,847 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 11:11:59,878 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 11:11:59,915 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 11:11:59,949 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 11:11:59,979 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 11:12:00,006 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 11:12:00,038 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 11:12:00,068 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 11:12:00,102 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 11:12:00,132 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 11:12:00,161 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 11:12:00,182 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 11:12:00,210 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 11:12:00,231 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 11:12:00,256 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 11:12:00,286 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 11:12:00,310 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 11:12:00,338 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 11:12:00,360 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 11:12:00,388 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 11:12:00,409 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 11:12:00,413 INFO     tuned.plugins.base: instance disk: assigning devices ram15, loop0, ram10, ram5, ram6, ram9, ram13, loop7, loop5, ram7, loop1, ram12, ram8, loop3, loop4, ram4, ram1, ram11, ram3, ram14, loop2, ram2, loop6, ram0
+2018-06-22 11:12:00,432 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 11:12:00,810 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 11:12:00,833 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 11:12:00,842 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 11:12:00,843 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 11:12:00,844 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 11:12:00,851 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 11:12:00,937 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2018-06-23 06:50:59,585 INFO     tuned.daemon.controller: terminating controller
+2018-06-23 06:50:59,587 INFO     tuned.daemon.daemon: stopping tuning
+2018-06-23 06:50:59,764 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2018-06-23 06:50:59,767 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop']'
+2018-06-23 06:50:59,843 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2018-06-22 11:11:59,336 INFO     tuned.daemon.application: TuneD: 2.20.0, kernel: 6.1.8-v8.1.el8.altarch.1
+2018-06-22 11:11:59,338 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 11:11:59,394 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 11:11:59,442 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 11:11:59,477 INFO     tuned.daemon.controller: starting controller
+2018-06-22 11:11:59,480 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 11:11:59,513 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 11:11:59,602 INFO     tuned.plugins.base: instance cpu: assigning devices cpu3, cpu0, cpu1, cpu2
+2018-06-22 11:11:59,650 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 11:11:59,655 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 11:11:59,658 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 11:11:59,750 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 11:11:59,776 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 11:11:59,813 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 11:11:59,846 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 11:11:59,871 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 11:11:59,897 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 11:11:59,922 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 11:11:59,947 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 11:11:59,969 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 11:11:59,997 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 11:12:00,023 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 11:12:00,054 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 11:12:00,079 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 11:12:00,112 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 11:12:00,135 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 11:12:00,160 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 11:12:00,180 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 11:12:00,205 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 11:12:00,233 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 11:12:00,257 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 11:12:00,285 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 11:12:00,307 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 11:12:00,333 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 11:12:00,353 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 11:12:00,357 INFO     tuned.plugins.base: instance disk: assigning devices loop5, ram9, loop3, ram10, loop4, ram0, ram11, ram3, ram13, loop0, ram6, loop2, ram1, loop1, ram4, ram8, ram2, ram7, loop6, loop7, ram14, ram12, ram5, ram15
+2018-06-22 11:12:00,376 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 11:12:00,772 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 11:12:00,783 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 11:12:00,793 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 11:12:00,794 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 11:12:00,795 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 11:12:00,797 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 11:12:00,881 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2018-06-22 12:00:36,699 INFO     tuned.daemon.controller: terminating controller
+2018-06-22 12:00:36,701 INFO     tuned.daemon.daemon: stopping tuning
+2018-06-22 12:00:36,855 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2018-06-22 12:00:36,858 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop']'
+2018-06-22 12:00:36,935 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2018-06-22 11:11:59,211 INFO     tuned.daemon.application: TuneD: 2.20.0, kernel: 6.1.8-v8.1.el8.altarch.1
+2018-06-22 11:11:59,213 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 11:11:59,266 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 11:11:59,290 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 11:11:59,315 INFO     tuned.daemon.controller: starting controller
+2018-06-22 11:11:59,317 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 11:11:59,346 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 11:11:59,430 INFO     tuned.plugins.base: instance cpu: assigning devices cpu1, cpu0, cpu2, cpu3
+2018-06-22 11:11:59,484 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 11:11:59,489 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 11:11:59,491 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 11:11:59,598 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 11:11:59,621 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 11:11:59,647 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 11:11:59,680 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 11:11:59,703 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 11:11:59,740 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 11:11:59,782 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 11:11:59,809 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 11:11:59,834 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 11:11:59,865 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 11:11:59,891 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 11:11:59,927 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 11:11:59,952 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 11:11:59,990 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 11:12:00,016 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 11:12:00,043 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 11:12:00,062 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 11:12:00,087 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 11:12:00,119 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 11:12:00,143 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 11:12:00,171 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 11:12:00,194 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 11:12:00,221 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 11:12:00,242 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 11:12:00,246 INFO     tuned.plugins.base: instance disk: assigning devices loop0, ram9, loop1, ram0, loop6, ram5, ram11, loop7, ram12, ram6, loop4, ram10, ram1, ram7, ram14, ram8, ram13, ram15, ram2, ram3, loop5, loop2, ram4, loop3
+2018-06-22 11:12:00,264 INFO     tuned.plugins.base: instance net: assigning devices wlan0, eth0
+2018-06-22 11:12:00,637 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 11:12:00,656 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 11:12:00,665 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 11:12:00,666 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 11:12:00,666 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 11:12:00,669 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 11:12:00,776 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2024-10-31 14:31:35,970 INFO     tuned.daemon.controller: terminating controller
+2024-10-31 14:31:35,972 INFO     tuned.daemon.daemon: stopping tuning
+2024-10-31 14:31:36,060 INFO     tuned.daemon.daemon: terminating TuneD, rolling back all changes
+2024-10-31 14:31:36,062 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop', 'full_rollback']'
+2024-10-31 14:31:36,115 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2024-10-31 15:31:37,187 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 6.1.8-v8.1.el8.altarch.1
+2024-10-31 15:31:37,188 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2024-10-31 15:31:37,213 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2024-10-31 15:31:37,221 INFO     tuned.profiles.loader: loading profile: powersave
+2024-10-31 15:31:37,243 INFO     tuned.daemon.controller: starting controller
+2024-10-31 15:31:37,244 INFO     tuned.daemon.daemon: starting tuning
+2024-10-31 15:31:37,259 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2024-10-31 15:31:37,292 INFO     tuned.plugins.base: instance cpu: assigning devices cpu3, cpu1, cpu0, cpu2
+2024-10-31 15:31:37,318 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2024-10-31 15:31:37,322 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2024-10-31 15:31:37,324 WARNING  tuned.plugins.base: instance video: no matching devices available
+2024-10-31 15:31:37,384 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2024-10-31 15:31:37,403 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2024-10-31 15:31:37,425 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2024-10-31 15:31:37,450 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2024-10-31 15:31:37,470 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2024-10-31 15:31:37,494 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2024-10-31 15:31:37,514 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2024-10-31 15:31:37,537 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2024-10-31 15:31:37,557 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2024-10-31 15:31:37,582 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2024-10-31 15:31:37,605 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2024-10-31 15:31:37,633 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2024-10-31 15:31:37,655 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2024-10-31 15:31:37,682 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2024-10-31 15:31:37,702 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2024-10-31 15:31:37,728 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2024-10-31 15:31:37,747 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2024-10-31 15:31:37,771 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2024-10-31 15:31:37,799 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2024-10-31 15:31:37,822 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2024-10-31 15:31:37,849 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2024-10-31 15:31:37,870 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2024-10-31 15:31:37,896 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2024-10-31 15:31:37,916 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2024-10-31 15:31:37,920 INFO     tuned.plugins.base: instance disk: assigning devices ram15, loop3, loop4, ram4, ram10, ram3, loop2, ram6, ram7, loop0, ram1, ram13, loop7, ram8, loop1, ram5, ram2, ram9, ram11, ram12, loop5, loop6, ram0, ram14
+2024-10-31 15:31:37,934 INFO     tuned.plugins.base: instance net: assigning devices wlan0, eth0
+2024-10-31 15:31:38,263 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2024-10-31 15:31:38,271 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2024-10-31 15:31:38,280 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2024-10-31 15:31:38,281 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2024-10-31 15:31:38,281 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2024-10-31 15:31:38,283 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2024-10-31 15:31:38,334 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2024-10-31 23:26:59,957 INFO     tuned.daemon.controller: terminating controller
+2024-10-31 23:26:59,958 INFO     tuned.daemon.daemon: stopping tuning
+2024-10-31 23:27:00,181 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-10-31 23:27:00,183 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop']'
+2024-10-31 23:27:00,256 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2018-06-22 13:11:59,101 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 6.1.8-v8.1.el8.altarch.1
+2018-06-22 13:11:59,103 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 13:11:59,159 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 13:11:59,183 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 13:11:59,208 INFO     tuned.daemon.controller: starting controller
+2018-06-22 13:11:59,210 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 13:11:59,246 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 13:11:59,346 INFO     tuned.plugins.base: instance cpu: assigning devices cpu0, cpu1, cpu3, cpu2
+2018-06-22 13:11:59,404 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 13:11:59,408 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 13:11:59,411 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 13:11:59,496 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 13:11:59,518 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 13:11:59,545 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 13:11:59,581 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 13:11:59,621 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 13:11:59,653 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 13:11:59,677 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 13:11:59,707 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 13:11:59,731 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 13:11:59,760 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 13:11:59,785 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 13:11:59,817 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 13:11:59,841 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 13:11:59,870 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 13:11:59,894 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 13:11:59,929 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 13:11:59,948 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 13:11:59,974 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 13:12:00,004 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 13:12:00,027 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 13:12:00,059 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 13:12:00,081 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 13:12:00,109 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 13:12:00,132 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 13:12:00,136 INFO     tuned.plugins.base: instance disk: assigning devices ram2, loop2, loop0, loop3, loop7, loop6, loop4, ram6, ram13, ram15, loop1, ram14, ram5, ram7, ram8, ram11, ram3, ram9, loop5, ram10, ram0, ram1, ram12, ram4
+2018-06-22 13:12:00,155 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 13:12:00,545 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 13:12:00,552 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 13:12:00,561 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 13:12:00,561 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 13:12:00,562 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 13:12:00,563 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 13:12:00,665 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2018-06-22 13:11:59,346 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 6.1.31-v8.1.el8.altarch
+2018-06-22 13:11:59,348 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 13:11:59,424 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 13:11:59,457 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 13:11:59,494 INFO     tuned.daemon.controller: starting controller
+2018-06-22 13:11:59,495 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 13:11:59,528 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 13:11:59,604 INFO     tuned.plugins.base: instance cpu: assigning devices cpu1, cpu0, cpu2, cpu3
+2018-06-22 13:11:59,651 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 13:11:59,655 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 13:11:59,657 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 13:11:59,747 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 13:11:59,769 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 13:11:59,793 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 13:11:59,833 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 13:11:59,856 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 13:11:59,884 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 13:11:59,906 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 13:11:59,932 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 13:11:59,955 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 13:11:59,986 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 13:12:00,013 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 13:12:00,047 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 13:12:00,072 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 13:12:00,103 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 13:12:00,127 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 13:12:00,156 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 13:12:00,176 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 13:12:00,202 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 13:12:00,234 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 13:12:00,258 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 13:12:00,287 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 13:12:00,310 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 13:12:00,341 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 13:12:00,363 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 13:12:00,367 INFO     tuned.plugins.base: instance disk: assigning devices loop6, loop4, loop3, ram15, ram1, ram7, loop0, loop1, ram8, loop7, ram9, ram13, ram14, ram6, loop2, ram11, ram5, loop5, ram12, ram2, ram3, ram0, ram10, ram4
+2018-06-22 13:12:00,386 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 13:12:00,812 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 13:12:00,820 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 13:12:00,830 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 13:12:00,830 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 13:12:00,831 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 13:12:00,832 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 13:12:00,963 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2018-06-22 21:35:09,347 INFO     tuned.daemon.controller: terminating controller
+2018-06-22 21:35:09,349 INFO     tuned.daemon.daemon: stopping tuning
+2018-06-22 21:35:09,500 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2018-06-22 21:35:09,507 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop']'
+2018-06-22 21:35:09,583 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2018-06-22 13:11:59,345 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 6.1.31-v8.1.el8.altarch
+2018-06-22 13:11:59,348 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 13:11:59,417 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 13:11:59,462 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 13:11:59,492 INFO     tuned.daemon.controller: starting controller
+2018-06-22 13:11:59,493 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 13:11:59,522 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 13:11:59,586 INFO     tuned.plugins.base: instance cpu: assigning devices cpu3, cpu0, cpu1, cpu2
+2018-06-22 13:11:59,639 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 13:11:59,644 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 13:11:59,646 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 13:11:59,741 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 13:11:59,764 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 13:11:59,793 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 13:11:59,825 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 13:11:59,849 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 13:11:59,880 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 13:11:59,903 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 13:11:59,932 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 13:11:59,954 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 13:11:59,986 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 13:12:00,014 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 13:12:00,048 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 13:12:00,074 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 13:12:00,111 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 13:12:00,134 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 13:12:00,166 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 13:12:00,186 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 13:12:00,213 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 13:12:00,248 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 13:12:00,273 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 13:12:00,303 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 13:12:00,327 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 13:12:00,355 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 13:12:00,377 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 13:12:00,382 INFO     tuned.plugins.base: instance disk: assigning devices loop1, ram11, ram1, ram9, ram10, ram15, loop4, ram5, ram8, loop5, loop6, ram12, loop3, ram13, ram14, loop7, ram4, ram7, loop0, ram3, ram2, loop2, ram6, ram0
+2018-06-22 13:12:00,402 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 13:12:00,865 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 13:12:00,874 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 13:12:00,882 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 13:12:00,883 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 13:12:00,883 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 13:12:00,884 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 13:12:00,948 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2018-06-22 13:11:59,271 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 6.1.31-v8.1.el8.altarch
+2018-06-22 13:11:59,274 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 13:11:59,326 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 13:11:59,349 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 13:11:59,374 INFO     tuned.daemon.controller: starting controller
+2018-06-22 13:11:59,375 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 13:11:59,404 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 13:11:59,486 INFO     tuned.plugins.base: instance cpu: assigning devices cpu3, cpu1, cpu0, cpu2
+2018-06-22 13:11:59,538 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 13:11:59,543 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 13:11:59,545 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 13:11:59,647 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 13:11:59,679 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 13:11:59,704 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 13:11:59,740 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 13:11:59,777 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 13:11:59,812 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 13:11:59,838 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 13:11:59,877 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 13:11:59,902 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 13:11:59,933 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 13:11:59,961 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 13:12:00,004 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 13:12:00,040 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 13:12:00,076 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 13:12:00,100 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 13:12:00,129 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 13:12:00,150 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 13:12:00,176 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 13:12:00,207 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 13:12:00,232 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 13:12:00,263 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 13:12:00,285 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 13:12:00,313 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 13:12:00,335 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 13:12:00,340 INFO     tuned.plugins.base: instance disk: assigning devices ram4, ram2, loop3, loop7, ram0, ram5, ram8, loop2, ram12, loop1, ram10, ram1, ram13, ram9, ram11, ram7, ram3, ram6, loop4, loop0, loop6, ram14, ram15, loop5
+2018-06-22 13:12:00,359 INFO     tuned.plugins.base: instance net: assigning devices wlan0, eth0
+2018-06-22 13:12:00,798 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 13:12:00,807 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 13:12:00,817 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 13:12:00,818 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 13:12:00,818 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 13:12:00,820 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 13:12:01,030 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2018-06-22 13:11:59,319 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 6.1.31-v8.1.el8.altarch
+2018-06-22 13:11:59,328 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 13:11:59,383 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 13:11:59,439 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 13:11:59,468 INFO     tuned.daemon.controller: starting controller
+2018-06-22 13:11:59,469 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 13:11:59,501 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 13:11:59,579 INFO     tuned.plugins.base: instance cpu: assigning devices cpu2, cpu3, cpu1, cpu0
+2018-06-22 13:11:59,635 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 13:11:59,639 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 13:11:59,642 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 13:11:59,728 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 13:11:59,749 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 13:11:59,776 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 13:11:59,808 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 13:11:59,832 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 13:11:59,859 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 13:11:59,886 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 13:11:59,914 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 13:11:59,937 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 13:11:59,967 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 13:11:59,994 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 13:12:00,028 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 13:12:00,054 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 13:12:00,085 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 13:12:00,107 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 13:12:00,135 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 13:12:00,156 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 13:12:00,182 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 13:12:00,213 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 13:12:00,238 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 13:12:00,270 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 13:12:00,294 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 13:12:00,323 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 13:12:00,348 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 13:12:00,353 INFO     tuned.plugins.base: instance disk: assigning devices loop2, loop4, ram11, ram3, loop3, ram14, ram6, loop1, ram2, ram1, loop0, ram8, ram4, ram7, ram9, ram5, ram13, loop6, loop7, ram12, ram15, ram10, loop5, ram0
+2018-06-22 13:12:00,373 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 13:12:00,792 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 13:12:00,800 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 13:12:00,810 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 13:12:00,810 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 13:12:00,810 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 13:12:00,812 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 13:12:00,915 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied
+2024-11-15 04:57:59,489 INFO     tuned.daemon.controller: terminating controller
+2024-11-15 04:57:59,490 INFO     tuned.daemon.daemon: stopping tuning
+2024-11-15 04:57:59,651 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-11-15 04:57:59,653 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['stop']'
+2024-11-15 04:57:59,741 INFO     tuned.plugins.plugin_cpu: setting governor 'powersave' on cpu 'cpu0'
+2018-06-22 13:11:59,239 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 6.1.31-v8.1.el8.altarch
+2018-06-22 13:11:59,241 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2018-06-22 13:11:59,293 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2018-06-22 13:11:59,318 INFO     tuned.profiles.loader: loading profile: powersave
+2018-06-22 13:11:59,343 INFO     tuned.daemon.controller: starting controller
+2018-06-22 13:11:59,345 INFO     tuned.daemon.daemon: starting tuning
+2018-06-22 13:11:59,373 INFO     tuned.units.manager: skipping plugin 'eeepc_she', not supported on your system
+2018-06-22 13:11:59,467 INFO     tuned.plugins.base: instance cpu: assigning devices cpu2, cpu3, cpu0, cpu1
+2018-06-22 13:11:59,531 INFO     tuned.plugins.plugin_cpu: We are running on aarch64 (non x86)
+2018-06-22 13:11:59,539 WARNING  tuned.plugins.base: instance audio: no matching devices available
+2018-06-22 13:11:59,541 WARNING  tuned.plugins.base: instance video: no matching devices available
+2018-06-22 13:11:59,630 INFO     tuned.plugins.plugin_disk: Device 'loop0' not supported by hdparm
+2018-06-22 13:11:59,656 INFO     tuned.plugins.plugin_disk: Device 'loop1' not supported by hdparm
+2018-06-22 13:11:59,689 INFO     tuned.plugins.plugin_disk: Device 'loop2' not supported by hdparm
+2018-06-22 13:11:59,725 INFO     tuned.plugins.plugin_disk: Device 'loop3' not supported by hdparm
+2018-06-22 13:11:59,755 INFO     tuned.plugins.plugin_disk: Device 'loop4' not supported by hdparm
+2018-06-22 13:11:59,791 INFO     tuned.plugins.plugin_disk: Device 'loop5' not supported by hdparm
+2018-06-22 13:11:59,827 INFO     tuned.plugins.plugin_disk: Device 'loop6' not supported by hdparm
+2018-06-22 13:11:59,858 INFO     tuned.plugins.plugin_disk: Device 'loop7' not supported by hdparm
+2018-06-22 13:11:59,880 INFO     tuned.plugins.plugin_disk: Device 'ram0' not supported by hdparm
+2018-06-22 13:11:59,910 INFO     tuned.plugins.plugin_disk: Device 'ram1' not supported by hdparm
+2018-06-22 13:11:59,939 INFO     tuned.plugins.plugin_disk: Device 'ram10' not supported by hdparm
+2018-06-22 13:11:59,980 INFO     tuned.plugins.plugin_disk: Device 'ram11' not supported by hdparm
+2018-06-22 13:12:00,013 INFO     tuned.plugins.plugin_disk: Device 'ram12' not supported by hdparm
+2018-06-22 13:12:00,046 INFO     tuned.plugins.plugin_disk: Device 'ram13' not supported by hdparm
+2018-06-22 13:12:00,072 INFO     tuned.plugins.plugin_disk: Device 'ram14' not supported by hdparm
+2018-06-22 13:12:00,101 INFO     tuned.plugins.plugin_disk: Device 'ram15' not supported by hdparm
+2018-06-22 13:12:00,121 INFO     tuned.plugins.plugin_disk: Device 'ram2' not supported by hdparm
+2018-06-22 13:12:00,148 INFO     tuned.plugins.plugin_disk: Device 'ram3' not supported by hdparm
+2018-06-22 13:12:00,179 INFO     tuned.plugins.plugin_disk: Device 'ram4' not supported by hdparm
+2018-06-22 13:12:00,205 INFO     tuned.plugins.plugin_disk: Device 'ram5' not supported by hdparm
+2018-06-22 13:12:00,235 INFO     tuned.plugins.plugin_disk: Device 'ram6' not supported by hdparm
+2018-06-22 13:12:00,257 INFO     tuned.plugins.plugin_disk: Device 'ram7' not supported by hdparm
+2018-06-22 13:12:00,286 INFO     tuned.plugins.plugin_disk: Device 'ram8' not supported by hdparm
+2018-06-22 13:12:00,310 INFO     tuned.plugins.plugin_disk: Device 'ram9' not supported by hdparm
+2018-06-22 13:12:00,314 INFO     tuned.plugins.base: instance disk: assigning devices ram12, ram13, ram14, ram1, loop3, ram10, ram15, ram2, loop1, loop4, loop0, ram4, loop5, loop6, loop2, ram7, ram11, ram5, loop7, ram6, ram9, ram3, ram8, ram0
+2018-06-22 13:12:00,332 INFO     tuned.plugins.base: instance net: assigning devices eth0, wlan0
+2018-06-22 13:12:00,751 WARNING  tuned.plugins.base: instance scsi_host: no matching devices available
+2018-06-22 13:12:00,761 INFO     tuned.plugins.plugin_cpu: setting governor 'ondemand' on cpu 'cpu0'
+2018-06-22 13:12:00,770 ERROR    tuned.plugins.plugin_sysctl: Failed to read sysctl parameter 'kernel.nmi_watchdog', the parameter does not exist
+2018-06-22 13:12:00,771 ERROR    tuned.plugins.plugin_sysctl: sysctl option kernel.nmi_watchdog will not be set, failed to read the original value.
+2018-06-22 13:12:00,772 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2018-06-22 13:12:00,774 INFO     tuned.plugins.plugin_script: calling script '/usr/lib/tuned/powersave/script.sh' with arguments '['start']'
+2018-06-22 13:12:00,859 INFO     tuned.daemon.daemon: static tuning from profile 'powersave' applied

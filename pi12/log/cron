@@ -1,0 +1,456 @@
+Nov 17 03:07:01 pi12 anacron[16655]: Job `cron.daily' started
+Nov 17 03:07:01 pi12 run-parts[16693]: (/etc/cron.daily) starting logrotate
+Nov 17 03:07:02 pi12 run-parts[16716]: (/etc/cron.daily) finished logrotate
+Nov 17 03:07:02 pi12 anacron[16655]: Job `cron.daily' terminated
+Nov 17 03:07:02 pi12 anacron[16655]: Normal exit (1 job run)
+Nov 17 04:01:01 pi12 CROND[17087]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 04:01:01 pi12 run-parts[17090]: (/etc/cron.hourly) starting 0anacron
+Nov 17 04:01:01 pi12 run-parts[17096]: (/etc/cron.hourly) finished 0anacron
+Nov 17 05:01:01 pi12 CROND[17498]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 05:01:01 pi12 run-parts[17501]: (/etc/cron.hourly) starting 0anacron
+Nov 17 05:01:02 pi12 run-parts[17507]: (/etc/cron.hourly) finished 0anacron
+Nov 17 06:01:01 pi12 CROND[17883]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 06:01:01 pi12 run-parts[17886]: (/etc/cron.hourly) starting 0anacron
+Nov 17 06:01:01 pi12 run-parts[17892]: (/etc/cron.hourly) finished 0anacron
+Nov 17 07:01:01 pi12 CROND[18289]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 07:01:01 pi12 run-parts[18292]: (/etc/cron.hourly) starting 0anacron
+Nov 17 07:01:01 pi12 run-parts[18298]: (/etc/cron.hourly) finished 0anacron
+Nov 17 08:01:01 pi12 CROND[18700]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 08:01:01 pi12 run-parts[18703]: (/etc/cron.hourly) starting 0anacron
+Nov 17 08:01:01 pi12 run-parts[18709]: (/etc/cron.hourly) finished 0anacron
+Nov 17 09:01:01 pi12 CROND[19095]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 09:01:01 pi12 run-parts[19098]: (/etc/cron.hourly) starting 0anacron
+Nov 17 09:01:01 pi12 run-parts[19104]: (/etc/cron.hourly) finished 0anacron
+Nov 17 10:01:01 pi12 CROND[19495]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 10:01:01 pi12 run-parts[19498]: (/etc/cron.hourly) starting 0anacron
+Nov 17 10:01:01 pi12 run-parts[19504]: (/etc/cron.hourly) finished 0anacron
+Nov 17 11:01:01 pi12 CROND[19917]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 11:01:01 pi12 run-parts[19920]: (/etc/cron.hourly) starting 0anacron
+Nov 17 11:01:01 pi12 run-parts[19926]: (/etc/cron.hourly) finished 0anacron
+Nov 17 12:01:01 pi12 CROND[20343]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 12:01:01 pi12 run-parts[20346]: (/etc/cron.hourly) starting 0anacron
+Nov 17 12:01:01 pi12 run-parts[20352]: (/etc/cron.hourly) finished 0anacron
+Nov 17 13:01:01 pi12 CROND[20753]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 13:01:01 pi12 run-parts[20756]: (/etc/cron.hourly) starting 0anacron
+Nov 17 13:01:01 pi12 run-parts[20762]: (/etc/cron.hourly) finished 0anacron
+Nov 17 14:01:01 pi12 CROND[21169]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 14:01:01 pi12 run-parts[21172]: (/etc/cron.hourly) starting 0anacron
+Nov 17 14:01:01 pi12 run-parts[21178]: (/etc/cron.hourly) finished 0anacron
+Nov 17 15:01:01 pi12 CROND[21586]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 15:01:01 pi12 run-parts[21589]: (/etc/cron.hourly) starting 0anacron
+Nov 17 15:01:01 pi12 run-parts[21595]: (/etc/cron.hourly) finished 0anacron
+Nov 17 16:01:01 pi12 CROND[22000]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 16:01:01 pi12 run-parts[22004]: (/etc/cron.hourly) starting 0anacron
+Nov 17 16:01:01 pi12 run-parts[22010]: (/etc/cron.hourly) finished 0anacron
+Nov 17 17:01:01 pi12 CROND[22397]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 17:01:01 pi12 run-parts[22400]: (/etc/cron.hourly) starting 0anacron
+Nov 17 17:01:01 pi12 run-parts[22406]: (/etc/cron.hourly) finished 0anacron
+Nov 17 18:01:01 pi12 CROND[22821]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 18:01:02 pi12 run-parts[22824]: (/etc/cron.hourly) starting 0anacron
+Nov 17 18:01:02 pi12 run-parts[22830]: (/etc/cron.hourly) finished 0anacron
+Nov 17 19:01:01 pi12 CROND[23218]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 19:01:01 pi12 run-parts[23221]: (/etc/cron.hourly) starting 0anacron
+Nov 17 19:01:01 pi12 run-parts[23227]: (/etc/cron.hourly) finished 0anacron
+Nov 17 20:01:01 pi12 CROND[23612]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 20:01:01 pi12 run-parts[23615]: (/etc/cron.hourly) starting 0anacron
+Nov 17 20:01:01 pi12 run-parts[23621]: (/etc/cron.hourly) finished 0anacron
+Nov 17 21:01:01 pi12 CROND[24008]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 21:01:01 pi12 run-parts[24011]: (/etc/cron.hourly) starting 0anacron
+Nov 17 21:01:01 pi12 run-parts[24017]: (/etc/cron.hourly) finished 0anacron
+Nov 17 22:01:01 pi12 CROND[24450]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 22:01:01 pi12 run-parts[24453]: (/etc/cron.hourly) starting 0anacron
+Nov 17 22:01:01 pi12 run-parts[24459]: (/etc/cron.hourly) finished 0anacron
+Nov 17 23:01:01 pi12 CROND[24861]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 17 23:01:01 pi12 run-parts[24864]: (/etc/cron.hourly) starting 0anacron
+Nov 17 23:01:01 pi12 run-parts[24870]: (/etc/cron.hourly) finished 0anacron
+Nov 18 00:01:01 pi12 CROND[25261]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 00:01:01 pi12 run-parts[25264]: (/etc/cron.hourly) starting 0anacron
+Nov 18 00:01:01 pi12 anacron[25270]: Anacron started on 2024-11-18
+Nov 18 00:01:01 pi12 anacron[25270]: Normal exit (0 jobs run)
+Nov 18 00:01:01 pi12 run-parts[25272]: (/etc/cron.hourly) finished 0anacron
+Nov 18 01:01:01 pi12 CROND[25678]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 01:01:01 pi12 run-parts[25681]: (/etc/cron.hourly) starting 0anacron
+Nov 18 01:01:01 pi12 anacron[25687]: Anacron started on 2024-11-18
+Nov 18 01:01:01 pi12 anacron[25687]: Normal exit (0 jobs run)
+Nov 18 01:01:01 pi12 run-parts[25689]: (/etc/cron.hourly) finished 0anacron
+Nov 18 02:01:01 pi12 CROND[26121]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 02:01:01 pi12 run-parts[26124]: (/etc/cron.hourly) starting 0anacron
+Nov 18 02:01:01 pi12 anacron[26130]: Anacron started on 2024-11-18
+Nov 18 02:01:01 pi12 anacron[26130]: Normal exit (0 jobs run)
+Nov 18 02:01:01 pi12 run-parts[26132]: (/etc/cron.hourly) finished 0anacron
+Nov 18 03:01:01 pi12 CROND[26516]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 03:01:01 pi12 run-parts[26519]: (/etc/cron.hourly) starting 0anacron
+Nov 18 03:01:01 pi12 anacron[26525]: Anacron started on 2024-11-18
+Nov 18 03:01:01 pi12 anacron[26525]: Will run job `cron.daily' in 16 min.
+Nov 18 03:01:01 pi12 anacron[26525]: Jobs will be executed sequentially
+Nov 18 03:01:01 pi12 run-parts[26527]: (/etc/cron.hourly) finished 0anacron
+Nov 18 03:17:01 pi12 anacron[26525]: Job `cron.daily' started
+Nov 18 03:17:01 pi12 run-parts[26632]: (/etc/cron.daily) starting logrotate
+Nov 18 03:17:01 pi12 run-parts[26637]: (/etc/cron.daily) finished logrotate
+Nov 18 03:17:01 pi12 anacron[26525]: Job `cron.daily' terminated
+Nov 18 03:17:01 pi12 anacron[26525]: Normal exit (1 job run)
+Nov 18 04:01:01 pi12 CROND[26932]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 04:01:01 pi12 run-parts[26935]: (/etc/cron.hourly) starting 0anacron
+Nov 18 04:01:01 pi12 run-parts[26941]: (/etc/cron.hourly) finished 0anacron
+Nov 18 05:01:01 pi12 CROND[27360]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 05:01:01 pi12 run-parts[27363]: (/etc/cron.hourly) starting 0anacron
+Nov 18 05:01:01 pi12 run-parts[27369]: (/etc/cron.hourly) finished 0anacron
+Nov 18 06:01:01 pi12 CROND[27745]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 06:01:02 pi12 run-parts[27748]: (/etc/cron.hourly) starting 0anacron
+Nov 18 06:01:02 pi12 run-parts[27754]: (/etc/cron.hourly) finished 0anacron
+Nov 18 07:01:01 pi12 CROND[28158]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 07:01:01 pi12 run-parts[28161]: (/etc/cron.hourly) starting 0anacron
+Nov 18 07:01:01 pi12 run-parts[28167]: (/etc/cron.hourly) finished 0anacron
+Nov 18 08:01:01 pi12 CROND[28541]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 08:01:01 pi12 run-parts[28544]: (/etc/cron.hourly) starting 0anacron
+Nov 18 08:01:01 pi12 run-parts[28550]: (/etc/cron.hourly) finished 0anacron
+Nov 18 09:01:01 pi12 CROND[28944]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 09:01:01 pi12 run-parts[28947]: (/etc/cron.hourly) starting 0anacron
+Nov 18 09:01:01 pi12 run-parts[28953]: (/etc/cron.hourly) finished 0anacron
+Nov 18 10:01:01 pi12 CROND[29363]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 10:01:01 pi12 run-parts[29366]: (/etc/cron.hourly) starting 0anacron
+Nov 18 10:01:01 pi12 run-parts[29372]: (/etc/cron.hourly) finished 0anacron
+Nov 18 11:01:01 pi12 CROND[29769]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 11:01:01 pi12 run-parts[29772]: (/etc/cron.hourly) starting 0anacron
+Nov 18 11:01:01 pi12 run-parts[29778]: (/etc/cron.hourly) finished 0anacron
+Nov 18 12:01:01 pi12 CROND[30152]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 12:01:01 pi12 run-parts[30155]: (/etc/cron.hourly) starting 0anacron
+Nov 18 12:01:01 pi12 run-parts[30161]: (/etc/cron.hourly) finished 0anacron
+Nov 18 13:01:01 pi12 CROND[30565]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 13:01:01 pi12 run-parts[30568]: (/etc/cron.hourly) starting 0anacron
+Nov 18 13:01:01 pi12 run-parts[30574]: (/etc/cron.hourly) finished 0anacron
+Nov 18 14:01:01 pi12 CROND[31021]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 14:01:01 pi12 run-parts[31024]: (/etc/cron.hourly) starting 0anacron
+Nov 18 14:01:01 pi12 run-parts[31030]: (/etc/cron.hourly) finished 0anacron
+Nov 18 15:01:01 pi12 CROND[31448]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 15:01:01 pi12 run-parts[31451]: (/etc/cron.hourly) starting 0anacron
+Nov 18 15:01:01 pi12 run-parts[31457]: (/etc/cron.hourly) finished 0anacron
+Nov 18 16:01:01 pi12 CROND[31862]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 16:01:01 pi12 run-parts[31865]: (/etc/cron.hourly) starting 0anacron
+Nov 18 16:01:01 pi12 run-parts[31871]: (/etc/cron.hourly) finished 0anacron
+Nov 18 17:01:01 pi12 CROND[32289]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 17:01:01 pi12 run-parts[32292]: (/etc/cron.hourly) starting 0anacron
+Nov 18 17:01:01 pi12 run-parts[32298]: (/etc/cron.hourly) finished 0anacron
+Nov 18 17:28:13 pi12 crontab[32504]: (root) BEGIN EDIT (root)
+Nov 18 18:01:01 pi12 CROND[32766]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 18:01:01 pi12 run-parts[32769]: (/etc/cron.hourly) starting 0anacron
+Nov 18 18:01:01 pi12 run-parts[32775]: (/etc/cron.hourly) finished 0anacron
+Nov 18 19:01:01 pi12 CROND[33191]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 19:01:01 pi12 run-parts[33194]: (/etc/cron.hourly) starting 0anacron
+Nov 18 19:01:01 pi12 run-parts[33200]: (/etc/cron.hourly) finished 0anacron
+Nov 18 20:01:01 pi12 CROND[33599]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 20:01:01 pi12 run-parts[33602]: (/etc/cron.hourly) starting 0anacron
+Nov 18 20:01:01 pi12 run-parts[33608]: (/etc/cron.hourly) finished 0anacron
+Nov 18 21:01:01 pi12 CROND[34008]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 21:01:01 pi12 run-parts[34011]: (/etc/cron.hourly) starting 0anacron
+Nov 18 21:01:01 pi12 run-parts[34017]: (/etc/cron.hourly) finished 0anacron
+Nov 18 22:01:01 pi12 CROND[34427]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 22:01:01 pi12 run-parts[34430]: (/etc/cron.hourly) starting 0anacron
+Nov 18 22:01:01 pi12 run-parts[34436]: (/etc/cron.hourly) finished 0anacron
+Nov 18 23:01:01 pi12 CROND[34828]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 18 23:01:01 pi12 run-parts[34831]: (/etc/cron.hourly) starting 0anacron
+Nov 18 23:01:01 pi12 run-parts[34837]: (/etc/cron.hourly) finished 0anacron
+Nov 19 00:01:01 pi12 CROND[35255]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 00:01:01 pi12 run-parts[35258]: (/etc/cron.hourly) starting 0anacron
+Nov 19 00:01:01 pi12 anacron[35264]: Anacron started on 2024-11-19
+Nov 19 00:01:01 pi12 anacron[35264]: Normal exit (0 jobs run)
+Nov 19 00:01:01 pi12 run-parts[35266]: (/etc/cron.hourly) finished 0anacron
+Nov 19 01:01:01 pi12 CROND[35652]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 01:01:01 pi12 run-parts[35655]: (/etc/cron.hourly) starting 0anacron
+Nov 19 01:01:01 pi12 anacron[35661]: Anacron started on 2024-11-19
+Nov 19 01:01:01 pi12 anacron[35661]: Normal exit (0 jobs run)
+Nov 19 01:01:01 pi12 run-parts[35663]: (/etc/cron.hourly) finished 0anacron
+Nov 19 02:01:01 pi12 CROND[36082]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 02:01:01 pi12 run-parts[36085]: (/etc/cron.hourly) starting 0anacron
+Nov 19 02:01:01 pi12 anacron[36091]: Anacron started on 2024-11-19
+Nov 19 02:01:01 pi12 anacron[36091]: Normal exit (0 jobs run)
+Nov 19 02:01:01 pi12 run-parts[36093]: (/etc/cron.hourly) finished 0anacron
+Nov 19 03:01:01 pi12 CROND[36504]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 03:01:01 pi12 run-parts[36507]: (/etc/cron.hourly) starting 0anacron
+Nov 19 03:01:01 pi12 anacron[36513]: Anacron started on 2024-11-19
+Nov 19 03:01:01 pi12 anacron[36513]: Will run job `cron.daily' in 45 min.
+Nov 19 03:01:01 pi12 anacron[36513]: Jobs will be executed sequentially
+Nov 19 03:01:01 pi12 run-parts[36515]: (/etc/cron.hourly) finished 0anacron
+Nov 19 03:46:01 pi12 anacron[36513]: Job `cron.daily' started
+Nov 19 03:46:01 pi12 run-parts[36836]: (/etc/cron.daily) starting logrotate
+Nov 19 03:46:01 pi12 run-parts[36841]: (/etc/cron.daily) finished logrotate
+Nov 19 03:46:01 pi12 anacron[36513]: Job `cron.daily' terminated
+Nov 19 03:46:01 pi12 anacron[36513]: Normal exit (1 job run)
+Nov 19 04:01:01 pi12 CROND[36955]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 04:01:01 pi12 run-parts[36958]: (/etc/cron.hourly) starting 0anacron
+Nov 19 04:01:01 pi12 run-parts[36964]: (/etc/cron.hourly) finished 0anacron
+Nov 19 05:01:01 pi12 CROND[37375]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 05:01:01 pi12 run-parts[37378]: (/etc/cron.hourly) starting 0anacron
+Nov 19 05:01:01 pi12 run-parts[37384]: (/etc/cron.hourly) finished 0anacron
+Nov 19 06:01:01 pi12 CROND[37815]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 06:01:01 pi12 run-parts[37818]: (/etc/cron.hourly) starting 0anacron
+Nov 19 06:01:02 pi12 run-parts[37824]: (/etc/cron.hourly) finished 0anacron
+Nov 19 07:01:01 pi12 CROND[38192]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 07:01:01 pi12 run-parts[38195]: (/etc/cron.hourly) starting 0anacron
+Nov 19 07:01:01 pi12 run-parts[38201]: (/etc/cron.hourly) finished 0anacron
+Nov 19 08:01:01 pi12 CROND[38611]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 08:01:01 pi12 run-parts[38614]: (/etc/cron.hourly) starting 0anacron
+Nov 19 08:01:01 pi12 run-parts[38620]: (/etc/cron.hourly) finished 0anacron
+Nov 19 09:01:01 pi12 CROND[39029]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 09:01:01 pi12 run-parts[39032]: (/etc/cron.hourly) starting 0anacron
+Nov 19 09:01:01 pi12 run-parts[39038]: (/etc/cron.hourly) finished 0anacron
+Nov 19 10:01:01 pi12 CROND[39437]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 10:01:01 pi12 run-parts[39440]: (/etc/cron.hourly) starting 0anacron
+Nov 19 10:01:01 pi12 run-parts[39446]: (/etc/cron.hourly) finished 0anacron
+Nov 19 11:01:01 pi12 CROND[39853]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 11:01:01 pi12 run-parts[39856]: (/etc/cron.hourly) starting 0anacron
+Nov 19 11:01:01 pi12 run-parts[39862]: (/etc/cron.hourly) finished 0anacron
+Nov 19 12:01:01 pi12 CROND[40276]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 12:01:01 pi12 run-parts[40279]: (/etc/cron.hourly) starting 0anacron
+Nov 19 12:01:01 pi12 run-parts[40285]: (/etc/cron.hourly) finished 0anacron
+Nov 19 13:01:01 pi12 CROND[40686]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 13:01:01 pi12 run-parts[40689]: (/etc/cron.hourly) starting 0anacron
+Nov 19 13:01:01 pi12 run-parts[40695]: (/etc/cron.hourly) finished 0anacron
+Nov 19 14:01:01 pi12 CROND[41090]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 14:01:01 pi12 run-parts[41093]: (/etc/cron.hourly) starting 0anacron
+Nov 19 14:01:01 pi12 run-parts[41099]: (/etc/cron.hourly) finished 0anacron
+Nov 19 15:01:01 pi12 CROND[41514]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 15:01:01 pi12 run-parts[41517]: (/etc/cron.hourly) starting 0anacron
+Nov 19 15:01:01 pi12 run-parts[41523]: (/etc/cron.hourly) finished 0anacron
+Nov 19 16:01:01 pi12 CROND[41931]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 16:01:01 pi12 run-parts[41934]: (/etc/cron.hourly) starting 0anacron
+Nov 19 16:01:01 pi12 run-parts[41940]: (/etc/cron.hourly) finished 0anacron
+Nov 19 17:01:01 pi12 CROND[42357]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 17:01:01 pi12 run-parts[42360]: (/etc/cron.hourly) starting 0anacron
+Nov 19 17:01:01 pi12 run-parts[42366]: (/etc/cron.hourly) finished 0anacron
+Nov 19 18:01:01 pi12 CROND[42770]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 18:01:01 pi12 run-parts[42773]: (/etc/cron.hourly) starting 0anacron
+Nov 19 18:01:01 pi12 run-parts[42779]: (/etc/cron.hourly) finished 0anacron
+Nov 19 19:01:01 pi12 CROND[43203]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 19:01:02 pi12 run-parts[43206]: (/etc/cron.hourly) starting 0anacron
+Nov 19 19:01:02 pi12 run-parts[43212]: (/etc/cron.hourly) finished 0anacron
+Nov 19 20:01:01 pi12 CROND[43612]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 20:01:01 pi12 run-parts[43615]: (/etc/cron.hourly) starting 0anacron
+Nov 19 20:01:01 pi12 run-parts[43621]: (/etc/cron.hourly) finished 0anacron
+Nov 19 21:01:01 pi12 CROND[44017]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 21:01:01 pi12 run-parts[44020]: (/etc/cron.hourly) starting 0anacron
+Nov 19 21:01:01 pi12 run-parts[44026]: (/etc/cron.hourly) finished 0anacron
+Nov 19 22:01:01 pi12 CROND[44432]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 22:01:01 pi12 run-parts[44435]: (/etc/cron.hourly) starting 0anacron
+Nov 19 22:01:01 pi12 run-parts[44441]: (/etc/cron.hourly) finished 0anacron
+Nov 19 23:01:01 pi12 CROND[44848]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 19 23:01:01 pi12 run-parts[44851]: (/etc/cron.hourly) starting 0anacron
+Nov 19 23:01:01 pi12 run-parts[44857]: (/etc/cron.hourly) finished 0anacron
+Nov 20 00:01:01 pi12 CROND[45255]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 00:01:01 pi12 run-parts[45258]: (/etc/cron.hourly) starting 0anacron
+Nov 20 00:01:01 pi12 anacron[45264]: Anacron started on 2024-11-20
+Nov 20 00:01:01 pi12 anacron[45264]: Normal exit (0 jobs run)
+Nov 20 00:01:01 pi12 run-parts[45266]: (/etc/cron.hourly) finished 0anacron
+Nov 20 01:01:01 pi12 CROND[45690]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 01:01:01 pi12 run-parts[45693]: (/etc/cron.hourly) starting 0anacron
+Nov 20 01:01:01 pi12 anacron[45699]: Anacron started on 2024-11-20
+Nov 20 01:01:01 pi12 anacron[45699]: Normal exit (0 jobs run)
+Nov 20 01:01:01 pi12 run-parts[45701]: (/etc/cron.hourly) finished 0anacron
+Nov 20 02:01:01 pi12 CROND[46102]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 02:01:01 pi12 run-parts[46105]: (/etc/cron.hourly) starting 0anacron
+Nov 20 02:01:01 pi12 anacron[46111]: Anacron started on 2024-11-20
+Nov 20 02:01:01 pi12 anacron[46111]: Normal exit (0 jobs run)
+Nov 20 02:01:01 pi12 run-parts[46113]: (/etc/cron.hourly) finished 0anacron
+Nov 20 03:01:01 pi12 CROND[46487]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 03:01:01 pi12 run-parts[46490]: (/etc/cron.hourly) starting 0anacron
+Nov 20 03:01:01 pi12 anacron[46496]: Anacron started on 2024-11-20
+Nov 20 03:01:01 pi12 anacron[46496]: Will run job `cron.daily' in 45 min.
+Nov 20 03:01:01 pi12 anacron[46496]: Jobs will be executed sequentially
+Nov 20 03:01:01 pi12 run-parts[46498]: (/etc/cron.hourly) finished 0anacron
+Nov 20 03:46:01 pi12 anacron[46496]: Job `cron.daily' started
+Nov 20 03:46:01 pi12 run-parts[46780]: (/etc/cron.daily) starting logrotate
+Nov 20 03:46:01 pi12 run-parts[46785]: (/etc/cron.daily) finished logrotate
+Nov 20 03:46:01 pi12 anacron[46496]: Job `cron.daily' terminated
+Nov 20 03:46:01 pi12 anacron[46496]: Normal exit (1 job run)
+Nov 20 04:01:01 pi12 CROND[46884]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 04:01:01 pi12 run-parts[46887]: (/etc/cron.hourly) starting 0anacron
+Nov 20 04:01:01 pi12 run-parts[46893]: (/etc/cron.hourly) finished 0anacron
+Nov 20 05:01:01 pi12 CROND[47322]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 05:01:01 pi12 run-parts[47325]: (/etc/cron.hourly) starting 0anacron
+Nov 20 05:01:01 pi12 run-parts[47331]: (/etc/cron.hourly) finished 0anacron
+Nov 20 06:01:01 pi12 CROND[47738]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 06:01:01 pi12 run-parts[47741]: (/etc/cron.hourly) starting 0anacron
+Nov 20 06:01:01 pi12 run-parts[47747]: (/etc/cron.hourly) finished 0anacron
+Nov 20 07:01:01 pi12 CROND[48165]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 07:01:02 pi12 run-parts[48168]: (/etc/cron.hourly) starting 0anacron
+Nov 20 07:01:02 pi12 run-parts[48174]: (/etc/cron.hourly) finished 0anacron
+Nov 20 08:01:01 pi12 CROND[48554]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 08:01:01 pi12 run-parts[48557]: (/etc/cron.hourly) starting 0anacron
+Nov 20 08:01:01 pi12 run-parts[48563]: (/etc/cron.hourly) finished 0anacron
+Nov 20 09:01:01 pi12 CROND[48960]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 09:01:01 pi12 run-parts[48963]: (/etc/cron.hourly) starting 0anacron
+Nov 20 09:01:01 pi12 run-parts[48969]: (/etc/cron.hourly) finished 0anacron
+Nov 20 10:01:01 pi12 CROND[49370]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 10:01:01 pi12 run-parts[49373]: (/etc/cron.hourly) starting 0anacron
+Nov 20 10:01:01 pi12 run-parts[49379]: (/etc/cron.hourly) finished 0anacron
+Nov 20 11:01:01 pi12 CROND[49792]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 11:01:01 pi12 run-parts[49795]: (/etc/cron.hourly) starting 0anacron
+Nov 20 11:01:01 pi12 run-parts[49801]: (/etc/cron.hourly) finished 0anacron
+Nov 20 12:01:01 pi12 CROND[50204]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 12:01:01 pi12 run-parts[50207]: (/etc/cron.hourly) starting 0anacron
+Nov 20 12:01:01 pi12 run-parts[50213]: (/etc/cron.hourly) finished 0anacron
+Nov 20 13:01:01 pi12 CROND[50595]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 13:01:01 pi12 run-parts[50598]: (/etc/cron.hourly) starting 0anacron
+Nov 20 13:01:01 pi12 run-parts[50604]: (/etc/cron.hourly) finished 0anacron
+Nov 20 14:01:01 pi12 CROND[50984]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 14:01:01 pi12 run-parts[50987]: (/etc/cron.hourly) starting 0anacron
+Nov 20 14:01:01 pi12 run-parts[50993]: (/etc/cron.hourly) finished 0anacron
+Nov 20 15:01:01 pi12 CROND[51400]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 15:01:01 pi12 run-parts[51403]: (/etc/cron.hourly) starting 0anacron
+Nov 20 15:01:01 pi12 run-parts[51409]: (/etc/cron.hourly) finished 0anacron
+Nov 20 16:01:01 pi12 CROND[51808]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 16:01:01 pi12 run-parts[51811]: (/etc/cron.hourly) starting 0anacron
+Nov 20 16:01:01 pi12 run-parts[51817]: (/etc/cron.hourly) finished 0anacron
+Nov 20 17:01:01 pi12 CROND[52184]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 17:01:01 pi12 run-parts[52187]: (/etc/cron.hourly) starting 0anacron
+Nov 20 17:01:01 pi12 run-parts[52193]: (/etc/cron.hourly) finished 0anacron
+Nov 20 18:01:01 pi12 CROND[52604]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 18:01:01 pi12 run-parts[52607]: (/etc/cron.hourly) starting 0anacron
+Nov 20 18:01:01 pi12 run-parts[52613]: (/etc/cron.hourly) finished 0anacron
+Nov 20 19:01:01 pi12 CROND[53014]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 19:01:01 pi12 run-parts[53017]: (/etc/cron.hourly) starting 0anacron
+Nov 20 19:01:01 pi12 run-parts[53023]: (/etc/cron.hourly) finished 0anacron
+Nov 20 20:01:01 pi12 CROND[53433]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 20:01:01 pi12 run-parts[53436]: (/etc/cron.hourly) starting 0anacron
+Nov 20 20:01:01 pi12 run-parts[53442]: (/etc/cron.hourly) finished 0anacron
+Nov 20 21:01:01 pi12 CROND[53827]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 21:01:01 pi12 run-parts[53830]: (/etc/cron.hourly) starting 0anacron
+Nov 20 21:01:01 pi12 run-parts[53836]: (/etc/cron.hourly) finished 0anacron
+Nov 20 22:01:01 pi12 CROND[54264]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 22:01:01 pi12 run-parts[54267]: (/etc/cron.hourly) starting 0anacron
+Nov 20 22:01:01 pi12 run-parts[54273]: (/etc/cron.hourly) finished 0anacron
+Nov 20 23:01:01 pi12 CROND[54667]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 20 23:01:01 pi12 run-parts[54670]: (/etc/cron.hourly) starting 0anacron
+Nov 20 23:01:01 pi12 run-parts[54676]: (/etc/cron.hourly) finished 0anacron
+Nov 21 00:01:01 pi12 CROND[55084]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 00:01:01 pi12 run-parts[55087]: (/etc/cron.hourly) starting 0anacron
+Nov 21 00:01:01 pi12 anacron[55093]: Anacron started on 2024-11-21
+Nov 21 00:01:01 pi12 anacron[55093]: Normal exit (0 jobs run)
+Nov 21 00:01:01 pi12 run-parts[55095]: (/etc/cron.hourly) finished 0anacron
+Nov 21 01:01:01 pi12 CROND[55488]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 01:01:01 pi12 run-parts[55491]: (/etc/cron.hourly) starting 0anacron
+Nov 21 01:01:01 pi12 anacron[55497]: Anacron started on 2024-11-21
+Nov 21 01:01:01 pi12 anacron[55497]: Normal exit (0 jobs run)
+Nov 21 01:01:01 pi12 run-parts[55499]: (/etc/cron.hourly) finished 0anacron
+Nov 21 02:01:01 pi12 CROND[55914]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 02:01:01 pi12 run-parts[55917]: (/etc/cron.hourly) starting 0anacron
+Nov 21 02:01:01 pi12 anacron[55923]: Anacron started on 2024-11-21
+Nov 21 02:01:01 pi12 anacron[55923]: Normal exit (0 jobs run)
+Nov 21 02:01:01 pi12 run-parts[55925]: (/etc/cron.hourly) finished 0anacron
+Nov 21 03:01:01 pi12 CROND[56311]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 03:01:01 pi12 run-parts[56314]: (/etc/cron.hourly) starting 0anacron
+Nov 21 03:01:01 pi12 anacron[56320]: Anacron started on 2024-11-21
+Nov 21 03:01:01 pi12 anacron[56320]: Will run job `cron.daily' in 48 min.
+Nov 21 03:01:01 pi12 anacron[56320]: Jobs will be executed sequentially
+Nov 21 03:01:01 pi12 run-parts[56322]: (/etc/cron.hourly) finished 0anacron
+Nov 21 03:49:01 pi12 anacron[56320]: Job `cron.daily' started
+Nov 21 03:49:01 pi12 run-parts[56623]: (/etc/cron.daily) starting logrotate
+Nov 21 03:49:01 pi12 run-parts[56628]: (/etc/cron.daily) finished logrotate
+Nov 21 03:49:01 pi12 anacron[56320]: Job `cron.daily' terminated
+Nov 21 03:49:01 pi12 anacron[56320]: Normal exit (1 job run)
+Nov 21 04:01:01 pi12 CROND[56701]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 04:01:01 pi12 run-parts[56704]: (/etc/cron.hourly) starting 0anacron
+Nov 21 04:01:01 pi12 run-parts[56710]: (/etc/cron.hourly) finished 0anacron
+Nov 21 05:01:01 pi12 CROND[57105]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 05:01:01 pi12 run-parts[57108]: (/etc/cron.hourly) starting 0anacron
+Nov 21 05:01:01 pi12 run-parts[57114]: (/etc/cron.hourly) finished 0anacron
+Nov 21 06:01:01 pi12 CROND[57515]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 06:01:01 pi12 run-parts[57518]: (/etc/cron.hourly) starting 0anacron
+Nov 21 06:01:01 pi12 run-parts[57524]: (/etc/cron.hourly) finished 0anacron
+Nov 21 07:01:01 pi12 CROND[57892]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 07:01:01 pi12 run-parts[57895]: (/etc/cron.hourly) starting 0anacron
+Nov 21 07:01:01 pi12 run-parts[57901]: (/etc/cron.hourly) finished 0anacron
+Nov 21 08:01:02 pi12 CROND[58285]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 08:01:02 pi12 run-parts[58288]: (/etc/cron.hourly) starting 0anacron
+Nov 21 08:01:02 pi12 run-parts[58294]: (/etc/cron.hourly) finished 0anacron
+Nov 21 09:01:01 pi12 CROND[58722]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 09:01:01 pi12 run-parts[58725]: (/etc/cron.hourly) starting 0anacron
+Nov 21 09:01:01 pi12 run-parts[58731]: (/etc/cron.hourly) finished 0anacron
+Nov 21 10:01:01 pi12 CROND[59115]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 10:01:01 pi12 run-parts[59118]: (/etc/cron.hourly) starting 0anacron
+Nov 21 10:01:01 pi12 run-parts[59124]: (/etc/cron.hourly) finished 0anacron
+Nov 21 11:01:01 pi12 CROND[59546]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 11:01:01 pi12 run-parts[59549]: (/etc/cron.hourly) starting 0anacron
+Nov 21 11:01:01 pi12 run-parts[59555]: (/etc/cron.hourly) finished 0anacron
+Nov 21 12:01:01 pi12 CROND[59943]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 12:01:01 pi12 run-parts[59946]: (/etc/cron.hourly) starting 0anacron
+Nov 21 12:01:01 pi12 run-parts[59952]: (/etc/cron.hourly) finished 0anacron
+Nov 21 13:01:01 pi12 CROND[60366]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 13:01:01 pi12 run-parts[60369]: (/etc/cron.hourly) starting 0anacron
+Nov 21 13:01:01 pi12 run-parts[60375]: (/etc/cron.hourly) finished 0anacron
+Nov 21 14:01:01 pi12 CROND[60777]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 14:01:01 pi12 run-parts[60780]: (/etc/cron.hourly) starting 0anacron
+Nov 21 14:01:01 pi12 run-parts[60786]: (/etc/cron.hourly) finished 0anacron
+Nov 21 15:01:01 pi12 CROND[61556]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 15:01:01 pi12 run-parts[61559]: (/etc/cron.hourly) starting 0anacron
+Nov 21 15:01:01 pi12 run-parts[61565]: (/etc/cron.hourly) finished 0anacron
+Nov 21 16:01:01 pi12 CROND[61994]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 16:01:01 pi12 run-parts[61997]: (/etc/cron.hourly) starting 0anacron
+Nov 21 16:01:01 pi12 run-parts[62003]: (/etc/cron.hourly) finished 0anacron
+Nov 21 17:01:01 pi12 CROND[62382]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 17:01:01 pi12 run-parts[62385]: (/etc/cron.hourly) starting 0anacron
+Nov 21 17:01:01 pi12 run-parts[62391]: (/etc/cron.hourly) finished 0anacron
+Nov 21 18:01:01 pi12 CROND[62781]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 18:01:01 pi12 run-parts[62784]: (/etc/cron.hourly) starting 0anacron
+Nov 21 18:01:01 pi12 run-parts[62790]: (/etc/cron.hourly) finished 0anacron
+Nov 21 19:01:01 pi12 CROND[63171]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 19:01:01 pi12 run-parts[63174]: (/etc/cron.hourly) starting 0anacron
+Nov 21 19:01:01 pi12 run-parts[63180]: (/etc/cron.hourly) finished 0anacron
+Nov 21 20:01:01 pi12 CROND[63592]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 20:01:01 pi12 run-parts[63595]: (/etc/cron.hourly) starting 0anacron
+Nov 21 20:01:02 pi12 run-parts[63601]: (/etc/cron.hourly) finished 0anacron
+Nov 21 21:01:01 pi12 CROND[64005]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 21:01:01 pi12 run-parts[64008]: (/etc/cron.hourly) starting 0anacron
+Nov 21 21:01:01 pi12 run-parts[64014]: (/etc/cron.hourly) finished 0anacron
+Nov 21 22:01:01 pi12 CROND[64376]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 22:01:01 pi12 run-parts[64379]: (/etc/cron.hourly) starting 0anacron
+Nov 21 22:01:01 pi12 run-parts[64385]: (/etc/cron.hourly) finished 0anacron
+Nov 21 23:01:01 pi12 CROND[64790]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 21 23:01:01 pi12 run-parts[64793]: (/etc/cron.hourly) starting 0anacron
+Nov 21 23:01:01 pi12 run-parts[64799]: (/etc/cron.hourly) finished 0anacron
+Nov 22 00:01:01 pi12 CROND[65233]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 22 00:01:01 pi12 run-parts[65236]: (/etc/cron.hourly) starting 0anacron
+Nov 22 00:01:01 pi12 anacron[65242]: Anacron started on 2024-11-22
+Nov 22 00:01:01 pi12 anacron[65242]: Normal exit (0 jobs run)
+Nov 22 00:01:01 pi12 run-parts[65244]: (/etc/cron.hourly) finished 0anacron
+Nov 22 00:37:44 pi12 crontab[69121]: (root) BEGIN EDIT (root)
+Nov 22 00:37:57 pi12 crontab[69121]: (root) REPLACE (root)
+Nov 22 00:37:57 pi12 crontab[69121]: (root) END EDIT (root)
+Nov 22 00:38:01 pi12 crond[350]: (*system*) RELOAD (/etc/crontab)
+Nov 22 00:38:01 pi12 crond[350]: (*system*) RELOAD (/etc/cron.d/0hourly)
+Nov 22 00:38:03 pi12 crontab[69126]: (root) BEGIN EDIT (root)
+Nov 22 00:38:06 pi12 crontab[69126]: (root) END EDIT (root)
+Nov 22 00:38:11 pi12 crontab[69131]: (root) LIST (root)
+Nov 22 01:01:01 pi12 CROND[69305]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 22 01:01:01 pi12 run-parts[69308]: (/etc/cron.hourly) starting 0anacron
+Nov 22 01:01:01 pi12 anacron[69314]: Anacron started on 2024-11-22
+Nov 22 01:01:01 pi12 anacron[69314]: Normal exit (0 jobs run)
+Nov 22 01:01:01 pi12 run-parts[69316]: (/etc/cron.hourly) finished 0anacron
+Nov 22 01:27:02 pi12 crontab[69482]: (root) LIST (root)
+Nov 22 01:36:27 pi12 crontab[69538]: (root) LIST (root)
+Nov 22 02:00:01 pi12 CROND[69695]: (root) CMD (/usr/sbin/aide --check | mail -s "AIDE Rapport Pi12" gr6@bedrift6.d3-101.usn)
+Nov 22 02:01:01 pi12 CROND[69718]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 22 02:01:01 pi12 run-parts[69721]: (/etc/cron.hourly) starting 0anacron
+Nov 22 02:01:01 pi12 anacron[69727]: Anacron started on 2024-11-22
+Nov 22 02:01:01 pi12 anacron[69727]: Normal exit (0 jobs run)
+Nov 22 02:01:01 pi12 run-parts[69729]: (/etc/cron.hourly) finished 0anacron
+Nov 22 03:01:01 pi12 CROND[70134]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 22 03:01:01 pi12 run-parts[70137]: (/etc/cron.hourly) starting 0anacron
+Nov 22 03:01:01 pi12 anacron[70143]: Anacron started on 2024-11-22
+Nov 22 03:01:01 pi12 anacron[70143]: Will run job `cron.daily' in 35 min.
+Nov 22 03:01:01 pi12 anacron[70143]: Will run job `cron.weekly' in 55 min.
+Nov 22 03:01:01 pi12 anacron[70143]: Jobs will be executed sequentially
+Nov 22 03:01:01 pi12 run-parts[70145]: (/etc/cron.hourly) finished 0anacron
+Nov 22 03:36:01 pi12 anacron[70143]: Job `cron.daily' started
+Nov 22 03:36:01 pi12 run-parts[70400]: (/etc/cron.daily) starting logrotate
+Nov 22 03:36:01 pi12 run-parts[70405]: (/etc/cron.daily) finished logrotate
+Nov 22 03:36:01 pi12 anacron[70143]: Job `cron.daily' terminated
+Nov 22 03:56:01 pi12 anacron[70143]: Job `cron.weekly' started
+Nov 22 03:56:01 pi12 anacron[70143]: Job `cron.weekly' terminated
+Nov 22 03:56:01 pi12 anacron[70143]: Normal exit (2 jobs run)
+Nov 22 04:01:01 pi12 CROND[70573]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 22 04:01:01 pi12 run-parts[70576]: (/etc/cron.hourly) starting 0anacron
+Nov 22 04:01:01 pi12 run-parts[70582]: (/etc/cron.hourly) finished 0anacron
+Nov 22 05:01:01 pi12 CROND[70936]: (root) CMD (run-parts /etc/cron.hourly)
+Nov 22 05:01:01 pi12 run-parts[70939]: (/etc/cron.hourly) starting 0anacron
+Nov 22 05:01:01 pi12 run-parts[70945]: (/etc/cron.hourly) finished 0anacron
